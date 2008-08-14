@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 16. 6. 1965 (BGBl. I S. 513)
+vom 30. 7. 1965 (BGBl. I S. 649)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -2036,9 +2036,21 @@ Verzuge an die obersten Landesbehörden zu richten.
 
 (1) Der Bund trägt die Aufwendungen für Besatzungskosten und die
 sonstigen inneren und äußeren Kriegsfolgelasten nach näherer
-Bestimmung eines Bundesgesetzes und die Zuschüsse zu den Lasten der
-Sozialversicherung mit Einschluß der Arbeitslosenversicherung und
-der Arbeitslosenfürsorge.
+Bestimmung von Bundesgesetzen. Soweit diese Kriegsfolgelasten bis
+zum 1. Oktober 1965 durch Bundesgesetze geregelt worden sind,
+tragen Bund und Länder im Verhältnis zueinander die Aufwendungen
+nach Maßgabe dieser Bundesgesetze. Soweit Aufwendungen für
+Kriegsfolgelasten, die in Bundesgesetzen weder geregelt worden sind
+noch geregelt werden, bis zum 1. Oktober1965 von den Ländern,
+Gemeinden (Gemeindeverbänden) oder sonstigen Aufgabenträgern, die
+Aufgaben von Ländern oder Gemeinden erfüllen, erbracht worden sind,
+ist der Bund zur Übernahme von Aufwendungen dieser Art auch nach
+diesem Zeitpunkt nicht verpflichtet. Der Bund trägt die Zuschüsse
+zu den Lasten der Sozialversicherung mit Einschluß der
+Arbeitslosenversicherung und der Arbeitslosenhilfe. Die durch
+diesen Absatz geregelte Verteilung der Kriegsfolgelasten auf Bund
+und Länder läßt die gesetzliche Regelung von
+Entschädigungsansprüchen für Kriegsfolgen unberührt.
 
 (2) Die Einnahmen gehen auf den Bund zu demselben Zeitpunkte über,
 an dem der Bund die Ausgaben übernimmt.
