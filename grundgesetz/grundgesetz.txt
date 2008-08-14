@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Finanzreformgesetz) vom 12. 5. 1969 (BGBl. I S. 363)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 12. 5. 1969 (BGBl. I S. 363)
 
 
 
@@ -806,33 +806,39 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);
 11a.	die Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen, und die Beseitigung radioaktiver Stoffe;
 12.	das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;
-13.	die Förderung der wissenschaftlichen Forschung;
+13.	die Regelung der Ausbildungsbeihilfen und die Förderung der wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt;
 15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung, die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz;
 18. den Grundstücksverkehr, das Bodenrecht und das landwirtschaftliche Pachtwesen, das Wohnungswesen, das Siedlungs- und Heimstättenwesen;
 19. die Maßnahmen gegen gemeingefährliche und übertragbare Krankheiten bei Menschen und Tieren, die Zulassung zu ärztlichen und anderen Heilberufen und zum Heilgewerbe, den Verkehr mit Arzneien, Heil- und Betäubungsmitteln und Giften;
+19a.	die wirtschaftliche Sicherung der Krankenhäuser und die Regelung der Krankenhauspflegesätze;
 20.	den Schutz beim Verkehr mit Lebens- und Genußmitteln sowie Bedarfsgegenständen, mit Futtermitteln, mit land- und forstwirtschaftlichem Saat- und Pflanzgut und den Schutz der Bäume und Pflanzen gegen Krankheiten und Schädlinge;
 21.	die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen;
-22. den Straßenverkehr, das Kraftfahrwesen und den Bau und die Unterhaltung von Landstraßen des Fernverkehrs;
+22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren für die Benutzung öffentlicher Straßen mit Fahrzeugen;
 23.	die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen.
 
 
 Artikel 75
 
 
-Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschriften zu erlassen über:
+(1) Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschriften zu erlassen über:
 
 1.	die Rechtsverhältnisse der im öffentlichen Dienste der Länder, Gemeinden und anderen Körperschaften des öffentlichen Rechtes stehenden Personen;
+1a.	die allgemeinen Grundsätze des Hochschulwesens;
 2.	die allgemeinen Rechtsverhältnisse der Presse und des Films;
 3.	das Jagdwesen, den Naturschutz und die Landschaftspflege;
 4.	die Bodenverteilung, die Raumordnung und den Wasserhaushalt;
 5.	das Melde- und Ausweiswesen.
 
+(2)	Rahmenvorschriften nach Absatz 1 Nr.1 können mit Zustimmung des Bundesrates auch einheitliche Maßstäbe für den Aufbau und die Bemessung der Besoldung einschließlich der Bewertung der Ämter sowie Mindest- und Höchstbeträge vorsehen. Der Zustimmung des Bundesrates bedürfen auch Gesetze nach Artikel 73 Nr.8, die von den nach Satz 1 getroffenen Regelungen abweichen.
+
+(3)	Absatz 2 gilt für Rahmenvorschriften nach Artikel 98 Absatz 2 und Gesetz nach Artikel 98 Absatz 1 entsprechend.
+
+
 
 Artikel 76
-
 
 (1) Gesetzesvorlagen werden beim Bundestage durch die Bundesregierung, aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.
 
@@ -1059,11 +1065,11 @@ Bund und Länder können auf Grund von Vereinbarungen bei der Bildungsplanung un
 
 
 
-
 IX
 Rechtsprechung
 
 Artikel 92
+
 
 Die rechtsprechende Gewalt ist den Richtern anvertraut;sie wird durch das Bundesverfassungsgericht, durch die in diesem Grundgesetze vorgesehenen Bundesgerichte und durch die Gerichte der Länder ausgeübt.
 
@@ -1111,11 +1117,11 @@ Artikel 96
 
 (3) Oberster Gerichtshof für die im Absatz 1 und 2 genannten Gerichte ist der Bundesgerichtshof.
 
-(4)	Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und Bundesrichter Bundesdienststrafgerichte sowie für Dienststrafverfahren gegen Soldaten und für Verfahren über Beschwerden von Soldaten Bundesdienstgerichte errichten.
+(4) Der Bund kann für Personen, die zu ihm in einem öffentlich-rechtlichen Dienstverhältnis stehen, Bundesgerichte zur Entscheidung in Disziplinarverfahren und Beschwerdeverfahren errichten.
+
 
 
 Artikel 97
-
 
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
 
@@ -1287,8 +1293,8 @@ Artikel 108
 (7)	Die Bundesregierung kann allgemeine Verwaltungsvorschriften erlassen, und zwar mit Zustimmung des Bundesrates, soweit die Verwaltung den Landesfinanzbehörden oder Gemeinden (Gemeindeverbänden) obliegt.
 
 
-
 Artikel 109
+
 
 (1) Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und voneinander unabhängig.
 
@@ -1398,8 +1404,8 @@ Artikel 115 c
 (4) Bundesgesetze nach den Absätzen 1 und 2 Nr.1 dürfen zur Vorbereitung ihres Vollzuges schon vor Eintritt des Verteidigungsfalles angewandt werden.
 
 
-
 Artikel 115 d
+
 
 (1) Für die Gesetzgebung des Bundes gilt im Verteidigungsfalle abweichend von Artikel 76 Absatz 2, Artikel 77 Absatz 1 Satz 2 und Absatz 2 bis 4, Artikel 78 und Artikel 82 Absatz 1 die Regelung der Absätze 2 und 3.
 
@@ -1461,8 +1467,8 @@ Artikel 115 k
 (3) Gesetze, die von den Artikeln 91 a, 91 b, 104 a, 106 und 107 abweichende Regelungen enthalten, gelten längstens bis zum Ende des zweiten Rechnungsjahres, das auf die Beendigung des Verteidigungsfalles folgt. Sie können nach Beendigung des Verteidigungsfalles durch Bundesgesetz mit Zustimmung des Bundesrates geändert werden, um zu der Regelung gemäß den Abschnitten VIIIa und X überzuleiten.
 
 
-
 Artikel 115 l
+
 
 (1) Der Bundestag kann jederzeit mit Zustimmung des Bundesrates Gesetze des Gemeinsamen Ausschusses aufheben. Der Bundesrat kann verlangen, daß der Bundestag hierüber beschließt. Sonstige zur Abwehr der Gefahr getroffene Maßnahmen des Gemeinsamen Ausschusses oder der Bundesregierung sind aufzuheben, wenn der Bundestag und der Bundesrat es beschließen.
 

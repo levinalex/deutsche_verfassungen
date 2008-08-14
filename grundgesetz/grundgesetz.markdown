@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-(Finanzreformgesetz) vom 12. 5. 1969 (BGBl. I S. 363)
+vom 12. 5. 1969 (BGBl. I S. 363)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1184,7 +1184,8 @@ Gebiete:
 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des
     Arbeitsschutzes und der Arbeitsvermittlung sowie die
     Sozialversicherung einschließlich der Arbeitslosenversicherung;
-13. die Förderung der wissenschaftlichen Forschung;
+13. die Regelung der Ausbildungsbeihilfen und die Förderung der
+    wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der
     Artikel 73 und 74 in Betracht kommt;
 15. die Überführung von Grund und Boden, von Naturschätzen und
@@ -1201,7 +1202,9 @@ Gebiete:
 19. die Maßnahmen gegen gemeingefährliche und übertragbare
     Krankheiten bei Menschen und Tieren, die Zulassung zu ärztlichen
     und anderen Heilberufen und zum Heilgewerbe, den Verkehr mit
-    Arzneien, Heil- und Betäubungsmitteln und Giften;
+    Arzneien, Heil- und Betäubungsmitteln und Giften; 19a. die
+    wirtschaftliche Sicherung der Krankenhäuser und die Regelung der
+    Krankenhauspflegesätze;
 20. den Schutz beim Verkehr mit Lebens- und Genußmitteln sowie
     Bedarfsgegenständen, mit Futtermitteln, mit land- und
     forstwirtschaftlichem Saat- und Pflanzgut und den Schutz der Bäume
@@ -1209,23 +1212,36 @@ Gebiete:
 21. die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die
     Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die
     dem allgemeinen Verkehr dienenden Binnenwasserstraßen;
-22. den Straßenverkehr, das Kraftfahrwesen und den Bau und die
-    Unterhaltung von Landstraßen des Fernverkehrs;
+22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die
+    Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung
+    und Verteilung von Gebühren für die Benutzung öffentlicher Straßen
+    mit Fahrzeugen;
 23. die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit
     Ausnahme der Bergbahnen.
 
 ### Artikel 75
 
-Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72
-Rahmenvorschriften zu erlassen über:
+(1) Der Bund hat das Recht, unter den Voraussetzungen des Artikels
+72 Rahmenvorschriften zu erlassen über:
 
 1.  die Rechtsverhältnisse der im öffentlichen Dienste der Länder,
     Gemeinden und anderen Körperschaften des öffentlichen Rechtes
-    stehenden Personen;
+    stehenden Personen; 1a. die allgemeinen Grundsätze des
+    Hochschulwesens;
 2.  die allgemeinen Rechtsverhältnisse der Presse und des Films;
 3.  das Jagdwesen, den Naturschutz und die Landschaftspflege;
 4.  die Bodenverteilung, die Raumordnung und den Wasserhaushalt;
 5.  das Melde- und Ausweiswesen.
+
+(2) Rahmenvorschriften nach Absatz 1 Nr.1 können mit Zustimmung des
+Bundesrates auch einheitliche Maßstäbe für den Aufbau und die
+Bemessung der Besoldung einschließlich der Bewertung der Ämter
+sowie Mindest- und Höchstbeträge vorsehen. Der Zustimmung des
+Bundesrates bedürfen auch Gesetze nach Artikel 73 Nr.8, die von den
+nach Satz 1 getroffenen Regelungen abweichen.
+
+(3) Absatz 2 gilt für Rahmenvorschriften nach Artikel 98 Absatz 2
+und Gesetz nach Artikel 98 Absatz 1 entsprechend.
 
 ### Artikel 76
 
@@ -1753,10 +1769,10 @@ Befähigung zum Richteramt haben.
 (3) Oberster Gerichtshof für die im Absatz 1 und 2 genannten
 Gerichte ist der Bundesgerichtshof.
 
-(4) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und
-Bundesrichter Bundesdienststrafgerichte sowie für
-Dienststrafverfahren gegen Soldaten und für Verfahren über
-Beschwerden von Soldaten Bundesdienstgerichte errichten.
+(4) Der Bund kann für Personen, die zu ihm in einem
+öffentlich-rechtlichen Dienstverhältnis stehen, Bundesgerichte zur
+Entscheidung in Disziplinarverfahren und Beschwerdeverfahren
+errichten.
 
 ### Artikel 97
 
