@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 19. 8. 1969 (BGBl. I S. 1241)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 26. 8. 1969 (BGBl. I S. 1357)
 
 
 
@@ -331,8 +331,8 @@ Artikel 29
 (7) Das Verfahren über jede sonstige Änderung des Gebietsbestandes der Länder regelt ein Bundesgesetz, das der Zustimmung des Bundesrates und der Mehrheit der Mitglieder des Bundestages bedarf.
 
 
-
 Artikel 30
+
 
 Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz keine andere Regelung trifft oder zuläßt.
 
@@ -1117,11 +1117,13 @@ Artikel 96
 
 (3) Oberster Gerichtshof für die im Absatz 1 und 2 genannten Gerichte ist der Bundesgerichtshof.
 
-(4) Der Bund kann für Personen, die zu ihm in einem öffentlich-rechtlichen Dienstverhältnis stehen, Bundesgerichte zur Entscheidung in Disziplinarverfahren und Beschwerdeverfahren errichten.
+(4) Der Bund kann für Personen, die zu ihm in einem öffentlich-rechtlichen Dienstverhältnis stehen Bundesgerichte zur Entscheidung in Disziplinarverfahren und Beschwerdeverfahren errichten.
+
+(5)	Für Strafverfahren auf den Gebieten des Artikels 26 Absatz 1 und des Staatsschutzes kann ein Bundesgesetz mit Zustimmung des Bundesrates vorsehen, daß Gerichte der Länder Gerichtsbarkeit des Bundes ausüben.
+
 
 
 Artikel 97
-
 
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
 

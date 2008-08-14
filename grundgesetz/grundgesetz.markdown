@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 19. 8. 1969 (BGBl. I S. 1241)
+vom 26. 8. 1969 (BGBl. I S. 1357)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1787,9 +1787,14 @@ Befähigung zum Richteramt haben.
 Gerichte ist der Bundesgerichtshof.
 
 (4) Der Bund kann für Personen, die zu ihm in einem
-öffentlich-rechtlichen Dienstverhältnis stehen, Bundesgerichte zur
+öffentlich-rechtlichen Dienstverhältnis stehen Bundesgerichte zur
 Entscheidung in Disziplinarverfahren und Beschwerdeverfahren
 errichten.
+
+(5) Für Strafverfahren auf den Gebieten des Artikels 26 Absatz 1
+und des Staatsschutzes kann ein Bundesgesetz mit Zustimmung des
+Bundesrates vorsehen, daß Gerichte der Länder Gerichtsbarkeit des
+Bundes ausüben.
 
 ### Artikel 97
 
