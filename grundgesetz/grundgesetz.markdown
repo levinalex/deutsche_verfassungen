@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes
-vom 19. 3. 1956 (BGBl. I S. 111)
+Zuletzt geändert durch das Gesetz zur Änderung und Ergänzung des
+Artikels 106 des Grundgesetzes vom 24. 12. 1956 (BGBl. I S. 1077)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1740,8 +1740,7 @@ Steuern stehen dem Bunde zu:
     zustehen;
 5.  die Biersteuer;
 6.  die Abgaben von Spielbanken;
-7.  die Realsteuern;
-8.  die Steuern mit örtlich bedingtem Wirkungskreis.
+7.  die Steuern mit örtlich bedingtem Wirkungskreis.
 
 (3) Vom Aufkommen der Einkommensteuer und der Körperschaftsteuer
 stehen bis zum 31. März 1958 33 1/3 vom Hundert dem Bund und 66 2/3
@@ -1787,11 +1786,31 @@ in dem Gesetz sind die Grundsätze für die Bemessung dieser
 Finanzzuweisungen und für ihre Verteilung auf die Länder zu
 bestimmen.
 
-(6) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels
-gelten auch die Einnahmen und Ausgaben der Gemeinden
-(Gemeindeverbände). Die Landesgesetzgebung bestimmt, ob und
+(6) Das Aufkommen der Realsteuern steht den Gemeinden zu. Bestehen
+in einem Lande keine Gemeinden, so steht das Aufkommen dem Lande
+zu. Nach Maßgabe der Landesgesetzgebung können die Realsteuern als
+Bemessungsgrundlage für Umlagen und Zuschläge zugrunde gelegt
+werden. Von dem Länderanteil an der Einkommensteuer und der
+Körperschaftsteuer fließt den Gemeinden und Gemeindeverbänden
+insgesamt ein von der Landesgesetzgebung zu bestimmender
+Hundertsatz zu. Im übrigen bestimmt die Landesgesetzgebung, ob und
 inwieweit das Aufkommen der Landessteuern den Gemeinden
 (Gemeindeverbänden) zufließt.
+
+(7) Veranlaßt der Bund in einzelnen Ländern oder Gemeinden
+(Gemeindeverbänden) besondere Einrichtungen, die diesen Ländern
+oder Gemeinden (Gemeindeverbänden) unmillelbar Mehrausgaben oder
+Mindereinnahmen (Sonderbelastungen) verursachen, wird der Bund den
+erforderlichen Ausgleich gewähren, wenn und soweit den Ländern oder
+Gemeinden (Gemeindeverbänden) nicht zugemutet werden kann, die
+Sonderbelastpng zu tragen. Entschädigungsleistungen Dritter und
+finanzielle Vorteile, die diesen Ländern oder Gemeinden
+(Gemeindeverbänden) als Folge der Einrichtungen erwachsen, werden
+bei dem Ausgleich berücksichtigt.
+
+(8) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels
+gelten auch die Einnahmen und Ausgaben der Gemeinden
+(Gemeindeverbände).
 
 ### Artikel 107
 

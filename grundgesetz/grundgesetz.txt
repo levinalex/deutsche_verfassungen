@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes vom 19. 3. 1956 (BGBl. I S. 111)
+Zuletzt geändert durch das Gesetz zur Änderung und Ergänzung des Artikels 106 des Grundgesetzes vom 24. 12. 1956 (BGBl. I S. 1077)
 
 
 
@@ -40,8 +40,8 @@ Artikel 1
 (3)	Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.
 
 
-
 Artikel 2
+
 
 (1) Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht die Rechte anderer verletzt und nicht gegen die verfassungsmaßige Ordnung oder das Sittengesetz verstößt.
 
@@ -152,8 +152,8 @@ Artikel 12
 (4)	Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.
 
 
-
 Artikel 13
+
 
 (1)	Die Wohnung ist unverletzlich.
 
@@ -200,8 +200,8 @@ Artikel 17 a
 (2) Gesetze, die der Verteidigung einschließlich des Schutzes der Zivilbevölkerung dienen, können bestimmen, daß die Grundrechte der Freizügigkeit (Artikel 11) und der Unverletzlichkeit der Wohnung (Artikel 13) eingeschränkt werden.
 
 
-
 Artikel 18
+
 
 Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artikel 5 Absatz 1), die Lehrfreiheit (Artikel 5 Absatz 3), die Versammlungsfreiheit (Artikel 8), die Vereinigungsfreiheit (Artikel 9), das Brief-, Post- und Fernmeldegeheimnis (Artikel 10), das Eigentum (Artikel 14) oder das Asylrecht (Artikel 16 Absatz 2) zum Kampfe gegen die freiheitliche demokratische Grundordnung mißbraucht, verwirkt diese Grundrechte. Die Verwirkung und ihr Ausmaß werden durch das Bundesverfassungsgericht ausgesprochen.
 
@@ -369,8 +369,8 @@ Artikel 36
 (2) Die Wehrgesetze haben auch die Gliederung des Bundes in Länder und ihre besonderen landsmannschaftlichen Verhältnisse zu berücksichtigen.
 
 
-
 Artikel 37
+
 
 (1) Wenn ein Land die ihm nach dem Grundgesetz oder einem anderen Bundesgesetze obliegenden Bundespflichten nicht erfüllt, kann die Bundesregierung mit Zustimmung des Bundesrates die notwendigen Maßnahmen treffen, um das Land im Wege des Bundeszwanges zur Erfüllung seiner Pflichten anzuhalten.
 
@@ -474,8 +474,8 @@ Artikel 45 b
 Zum Schutz der Grundrechte und als Hilfsorgan des Bundestages bei der Ausübung der parlamentarischen Kontrolle wird ein Wehrbeauftragter des Bundestages berufen. Das Nähere regelt ein Bundesgesetz.
 
 
-
 Artikel 46
+
 
 (1) Ein Abgeordneter darf zu keiner Zeit wegen seiner Abstimmung oder wegen einer Äußerung, die er im Bundestage oder in einem seiner Ausschüsse getan hat, gerichtlich oder dienstlich verfolgt oder sonst außerhalb des Bundestages zur Verantwortung gezogen werden. Dies gilt nicht für verleumderische Beleidigungen.
 
@@ -510,11 +510,11 @@ Für die Mitglieder des Präsidiums, des ständigen Ausschusses, des Ausschusses
 
 
 
-
 IV
 Der Bundesrat
 
 Artikel 50
+
 
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und Verwaltung des Bundes mit.
 
@@ -632,8 +632,8 @@ Artikel 60
 (4) Die Absätze 2 bis 4 des Artikels 46 finden auf den Bundespräsidenten entsprechende Anwendung.
 
 
-
 Artikel 61
+
 
 (1)	Der Bundestag oder der Bundesrat können den Bundespräsidenten wegen vorsätzlicher Verletzung des Grundgesetzes oder eines anderen Bundesgesetzes vor dem Bundesverfassungsgericht anklagen. Der Antrag auf Erhebung der Anklage muß von mindestens einem Viertel der Mitglieder des Bundestages oder einem Viertel der Stimmen des Bundesrates gestellt werden. Der Beschluß auf Erhebung der Anklage bedarf der Mehrheit von zwei Dritteln der Mitglieder des Bundestages oder von zwei Dritteln der Stimmen des Bundesrates. Die Anklage wird von einem Beauftragten der anklagenden Körperschaft vertreten.
 
@@ -685,8 +685,8 @@ Artikel 65 a
 (2)	Mit der Verkündung des Verteidigungsfalles geht die Befehls- und Kommandogewalt aut den Bundeskanzler über.
 
 
-
 Artikel 66
+
 
 Der Bundeskanzler und die Bundesminister dürfen kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung noch ohne Zustimmung des Bundestages dem Aufsichtsrate eines auf Erwerb gerichteten Unternehmens angehören.
 
@@ -941,8 +941,8 @@ Artikel 87 b
 (2) Im übrigen können Bundesgesetze, die der Verteidigung einschließlich des Wehrersatzwesens und des Schutzes der Zivilbevölkerung dienen, mit Zustimmung des Bundesrates bestimmen, daß sie ganz oder teilweise in bundeseigener Verwaltung mit eigenem Verwaltungsunterbau oder von den Ländern im Auftrage des Bundes ausgeführt werden. Werden solche Gesetze von den Ländern im Auftrage des Bundes ausgeführt, so können sie mit Zustimmung des Bundesrates bestimmen, daß die der Bundesregierung und den zuständigen obersten Bundesbehörden auf Grund des Artikels 85 zustehenden Befugnisse ganz oder teilweise Bundesoberbehörden übertragen werden; dabei kann bestimmt werden, daß diese Behörden beim Erlaß allgemeiner Verwaltungsvorschriften gemäß Artikel 85 Absatz 2 Satz 1 nicht der Zustimmung des Bundesrates bedürfen.
 
 
-
 Artikel 88
+
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
 
@@ -1040,8 +1040,8 @@ Artikel 96 a
 (4)	Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und Bundesrichter Bundesdienststrafgerichte sowie für Dienststrafverfahren gegen Soldaten und für Verfahren über Beschwerden von Soldaten Bundesdienstgerichte errichten.
 
 
-
 Artikel 97
+
 
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
 
@@ -1153,9 +1153,8 @@ Artikel 106
 3. die Kraftfahrzeugsteuer;
 4. die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund zustehen;
 5. die Biersteuer;
-6. die Abgaben von Spielbanken;
-7. die Realsteuern;
-8. die Steuern mit örtlich bedingtem Wirkungskreis.
+6.	die Abgaben von Spielbanken;
+7.	die Steuern mit örtlich bedingtem Wirkungskreis.
 
 (3) Vom Aufkommen der Einkommensteuer und der Körperschaftsteuer stehen bis zum 31. März 1958 33 1/3 vom Hundert dem Bund und 66 2/3 vom Hundert den Ländern, ab 1. April 1956 35 vom Hundert dem Bund und 65 vom Hundert den Ländern zu.
 
@@ -1169,11 +1168,15 @@ Das Beteiligungsverhältnis kann erstmals mit Wirkung vom 1. April 1958, im übr
 
 (5) Werden den Ländern durch Bundesgesetz zusätzliche Aufgaben auferlegt oder Einnahmen entzogen, ist das Beteiligungsverhältnis an der Einkommensteuer und der Körperschaftsteuer zugunsten der Länder zu ändern, wenn der Tatbestand des Absatz 4 gegeben ist. Ist die Mehrbelastung der Länder auf einen kurzen Zeitraum begrenzt, kann sie durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, auch mit Finanzzuweisungen des Bundes ausgeglichen werden; in dem Gesetz sind die Grundsätze für die Bemessung dieser Finanzzuweisungen und für ihre Verteilung auf die Länder zu bestimmen.
 
-(6) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels gelten auch die Einnahmen und Ausgaben der Gemeinden (Gemeindeverbände). Die Landesgesetzgebung bestimmt, ob und inwieweit das Aufkommen der Landessteuern den Gemeinden (Gemeindeverbänden) zufließt.
+(6)	Das Aufkommen der Realsteuern steht den Gemeinden zu. Bestehen in einem Lande keine Gemeinden, so steht das Aufkommen dem Lande zu. Nach Maßgabe der Landesgesetzgebung können die Realsteuern als Bemessungsgrundlage für Umlagen und Zuschläge zugrunde gelegt werden. Von dem Länderanteil an der Einkommensteuer und der Körperschaftsteuer fließt den Gemeinden und Gemeindeverbänden insgesamt ein von der Landesgesetzgebung zu bestimmender Hundertsatz zu. Im übrigen bestimmt die Landesgesetzgebung, ob und inwieweit das Aufkommen der Landessteuern den Gemeinden (Gemeindeverbänden) zufließt.
+
+(7) Veranlaßt der Bund in einzelnen Ländern oder Gemeinden (Gemeindeverbänden) besondere Einrichtungen, die diesen Ländern oder Gemeinden (Gemeindeverbänden) unmillelbar Mehrausgaben oder Mindereinnahmen (Sonderbelastungen) verursachen, wird der Bund den erforderlichen Ausgleich gewähren, wenn und soweit den Ländern oder Gemeinden (Gemeindeverbänden) nicht zugemutet werden kann, die Sonderbelastpng zu tragen. Entschädigungsleistungen Dritter und finanzielle Vorteile, die diesen Ländern oder Gemeinden (Gemeindeverbänden) als Folge der Einrichtungen erwachsen, werden bei dem Ausgleich berücksichtigt.
+
+(8) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels gelten auch die Einnahmen und Ausgaben der Gemeinden (Gemeindeverbände).
+
 
 
 Artikel 107
-
 
 (1)	Das Aufkommen der Landessteuern steht den einzelnen Ländern insoweit zu, als die Steuern von den Finanzbehörden in ihrem Gebiet vereinnahmt werden (örtliches Aufkommen).
 
@@ -1450,8 +1453,8 @@ Artikel 137
 (3) Die dem Bundesverfassungsgerichte gemäß Artikel 41 Absatz 2 zustehende Befugnis wird bis zu seiner Errichtung von dem Deutschen Obergericht für das Vereinigte Wirtschaftsgebiet wahrgenommen, das nach Maßgabe seiner Verfahrensordnung entscheidet.
 
 
-
 Artikel 138
+
 
 Änderungen der Einrichtungen des jetzt bestehenden Notariats in den Ländern Baden, Bayern, Württemberg-Baden und Württemberg-Hohenzollern bedürfen der Zustimmung der Regierungen dieser Länder.
 
@@ -1492,8 +1495,8 @@ Artikel 143
 Die Voraussetzungen, unter denen es zulässig wird, die Streitkräfte im Falle eines inneren Notstandes in Anspruch zu nehmen, können nur durch ein Gesetz geregelt werden, das die Erfordernisse des Artikels 79 erfüllt.
 
 
-
 Artikel 144
+
 
 (1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten soll.
 
