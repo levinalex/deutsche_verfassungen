@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung und Ergänzung des
-Artikels 106 des Grundgesetzes vom 24. 12. 1956 (BGBl. I S. 1077)
+Zuletzt geändert durch das Gesetz zur Einfügung eines Artikel 135 a
+in das Grundgesetz vom 22. 10. 1957 (BGBl. I S. 1745)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -2256,6 +2256,27 @@ zufallen würde, von dem danach Berechtigten durch ein Landesgesetz,
 auf Grund eines Landesgesetzes oder in anderer Weise bei
 Inkrafttreten des Grundgesetzes verfügt worden war, gilt der
 Vermögensübergang als vor der Verfügung erfolgt.
+
+### Artikel 135 a
+
+Durch die in Artikel l34 Absatz 4 und Artikel 135 Absatz 5
+vorbehaltene Gesetzgebung des Bundes kann auch bestimmt werden, daß
+nicht oder nicht in voller Höhe zu erfüllen sind:
+
+1.  Verbindlichkeiten des Reiches sowie Verbindlichkeiten des
+    ehemaligen Landes Preußen und sonstiger nicht mehr bestehender
+    Körperschaften und Anstalten des öffentlichen Rechts.
+2.  Verbindlichkeiten des Bundes oder anderer Körperschaften und
+    Anstalten des öffentlichen Rechts, welche mit dem Übergang von
+    Vermögenswerten nach Artikel 89, 90, 134 und 135 im Zusammenhang
+    stehen, und Verbindlichkelten dieser Rechtsträger, die auf
+    Maßnahmen der in Nummer 1 bezeichneten Rechtsträger beruhen.
+3.  Verbindlichkeiten der Länder und Gemeinden (Gemeindeverbände),
+    die aus Maßnahmen entstanden sind, welche diese Rechtsträger vor
+    dem 1. August 1945 zur Durchführung von Anordnungen der
+    Besatzungsmächte oder zur Beseitigung eines kriegsbedingten
+    Notstandes im Rahmen dem Reich obliegender oder vom Reich
+    übertragener Verwaltungsaufgaben getroffen haben.
 
 ### Artikel 136
 
