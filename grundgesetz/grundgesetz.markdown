@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-(Staatsziel Umweltschutz) vom 26. 7. 2002 (BGBl. I S. 2862)
+(Artikel 96) vom 26. 7. 2002 (BGBl. I S. 2863)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -2094,10 +2094,17 @@ Gerichte ist der Bundesgerichtshof.
 Entscheidung in Disziplinarverfahren und Beschwerdeverfahren
 errichten.
 
-(5) Für Strafverfahren auf den Gebieten des Artikels 26 Absatz 1
-und des Staatsschutzes kann ein Bundesgesetz mit Zustimmung des
-Bundesrates vorsehen, daß Gerichte der Länder Gerichtsbarkeit des
-Bundes ausüben.
+(5) Für Strafverfahren auf den folgenden Gebieten kann ein
+Bundesgesetz mit Zustimmung des Bundesrates vorsehen, daß Gerichte
+der Länder Gerichtsbarkeit des Bundes ausüben:
+
+1.  Völkermord;
+2.  völkerstrafrechtliche Verbrechen gegen die Menschlichkeit;
+3.  Kriegsverbrechen;
+4.  andere Handlungen, die geeignet sind und in der Absicht
+    vorgenommen werden, das friedliche Zusammenleben der Völker zu
+    stören (Artikel 26 Abs. 1);
+5.  Staatsschutz.
 
 ### Artikel 97
 

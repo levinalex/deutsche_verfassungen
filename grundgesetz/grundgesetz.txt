@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Staatsziel Umweltschutz) vom 26. 7. 2002 (BGBl. I S. 2862)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Artikel 96) vom 26. 7. 2002 (BGBl. I S. 2863)
 
 
 
@@ -278,8 +278,8 @@ Artikel 20 a
 Der Staat schützt auch in Verantwortung für die künftigen Generationen die natürlichen Lebensgrundlagen und die Tiere im Rahmen der verfassungsmäßigen Ordnung durch die Gesetzgebung und nach Maßgabe von Gesetz und Recht durch die vollziehende Gewalt und die Rechtsprechung.
 
 
-
 Artikel 21
+
 
 (1)	Die Parteien wirken bei der politischen Willensbildung des Volks mit. Ihre Gründung ist frei. Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen. Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.
 
@@ -1207,11 +1207,17 @@ Artikel 96
 
 (4) Der Bund kann für Personen, die zu ihm in einem öffentlich-rechtlichen Dienstverhältnis stehen Bundesgerichte zur Entscheidung in Disziplinarverfahren und Beschwerdeverfahren errichten.
 
-(5)	Für Strafverfahren auf den Gebieten des Artikels 26 Absatz 1 und des Staatsschutzes kann ein Bundesgesetz mit Zustimmung des Bundesrates vorsehen, daß Gerichte der Länder Gerichtsbarkeit des Bundes ausüben.
+(5)	Für Strafverfahren auf den folgenden Gebieten kann ein Bundesgesetz mit Zustimmung des Bundesrates vorsehen, daß Gerichte der Länder Gerichtsbarkeit des Bundes ausüben:
+
+1. Völkermord;
+2. völkerstrafrechtliche Verbrechen gegen die Menschlichkeit;
+3. Kriegsverbrechen;
+4. andere Handlungen, die geeignet sind und in der Absicht vorgenommen werden, das friedliche Zusammenleben der Völker zu stören (Artikel 26 Abs. 1);
+5. Staatsschutz.
+
 
 
 Artikel 97
-
 
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
 
