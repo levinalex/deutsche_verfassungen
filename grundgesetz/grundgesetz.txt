@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Einfügung eines Artikel 120 a in das Grundgesetz vom 14. 8. 1952 (BGBl. I S. 445)
+Zuletzt geändert durch das Gesetz zur Änderung des Artikels 107 des Grundgesetzes vom 2. 4. 1953 (BGBl. I S. 130)
 
 
 
@@ -1076,11 +1076,11 @@ Artikel 106
 Artikel 107
 
 
-Die endgültige Verteilung der der konkurrierenden Gesetzgebung unterliegenden Steuern auf Bund und Länder soll spätestens bis zum 31. Dezember 1952 erfolgen, und zwar durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Dies gilt nicht für die Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis. Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte Steuern oder Steueranteile entsprechend seinen Aufgaben einzuräumen.
+Die endgültige Verteilung der der konkurrierenden Gesetzgebung unterliegenden Steuern auf Bund und Länder soll spätestens bis zum 31. Dezember 1954 erfolgen, und zwar durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Dies gilt nicht für die Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis. Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte Steuern oder Steueranteile entsprechend seinen Aufgaben einzuräumen.
+
 
 
 Artikel 108
-
 
 (1)	Zölle, Finanzmonopole, die der konkurrierenden Gesetzgebung unterworfenen Verbrauchsteuern, die Beförderungsteuer, die Umsatzsteuer und die einmaligen Vermögensabgaben werden durch Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden und das von ihnen anzuwendende Verfahren werden durch Bundesgesetz geregelt. Die Leiter der Mittelbehörden sind im Benehmen mit den Landesregierungen zu bestellen. Der Bund kann die Verwaltung der einmaligen Vermögensabgaben den Landesfinanzbehörden als Auftragsverwaltung übertragen.
 
@@ -1198,8 +1198,8 @@ Artikel 120 a
 (2) Artikel 87 Absatz 3 Satz 2 bleibt unberührt.
 
 
-
 Artikel 121
+
 
 Mehrheit der Mitglieder des Bundestags und der Bundesversammlung im Sinne dieses Grundgesetzes ist die Mehrheit ihrer gesetzlichen Mitgliederzahl.
 
