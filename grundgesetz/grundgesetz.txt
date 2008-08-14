@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 21. 12. 1992 (BGBl. I S. 2086)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 28. 6. 1993 (BGBl. I S. 1002)
 
 
 
@@ -196,13 +196,27 @@ Grund und Boden, Naturschätze und Produktionsmittel können zum Zwecke der Verg
 Artikel 16
 
 
-(1)	Die Deutsche Staatsangehörigkeit darf nicht entzogen werden. Der Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes und gegen den Willen des Betroffenen nur dann eintreten, wenn der Betroffene dadurch nicht staatenlos wird.
+(1)	Die deutsche Staatsangehörigkeit darf nicht entzogen werden. Der Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes und gegen den Willen des Betroffenen nur dann eintreten, wenn der Betroffene dadurch nicht staatenlos wird.
 
-(2)	Kein Deutscher darf an das Ausland ausgeliefert werden. Politisch Verfolgte genießen Asylrecht.
+(2)	Kein Deutscher darf an das Ausland ausgeliefert werden.
+
+
+Artikel 16 a
+
+
+(1)	Politisch Verfolgte genießen Asylrecht.
+
+(2)	Auf Absatz 1 kann sich nicht berufen, wer aus einem Mitgliedstaat der Europäischen Gemeinschaften oder aus einem anderen Drittstaat einreist, in dem die Anwendung des Abkommens über die Rechtsstellung der Elüchtlinge und der Konvention zum Schutze der Menschenrechte und Grundfreiheiten sichergestellt ist. Die Staaten außerhalb der Europäischen Gemeinschaften, auf die die Voraussetzungen des Satzes 1 zutreffen, werden durch Gesetz, das der Zustimmung des Bundesrates bedarf, bestimmt. In den Fällen des Satzes 1 können aufenthaltsbeendende Maßnahmen unabhängig von einem hiergegen eingelegten Rechtsbehelf vollzogen werden.
+
+(3)	Durch Gesetz, das der Zustimmung des Bundesrates bedarf, können Staaten bestimmt werden, bei denen auf Grund der Rechtslage, der Rechtsanwendung und der allgemeinen politischen Verhältnisse gewährleistet erscheint, daß dort weder politische Verfolgung noch unmenschliche oder erniedrigende Bestrafüng oder Behandlung stattfindet. Es wird vermutet, daß ein Ausländer aus einem solchen Staat nicht verfolgt wird, solange er nicht Tatsachen vorträgt, die die Annahme begründen, daß er entgegen dieser Vermutung politisch verfolgt wird.
+
+(4)	Die Vollziehung aufenthaltsbeendender Maßnahmen wird in den Fällen des Absatzes 3 und in anderen Fällen, die offensichtlich unbegründet sind oder als offensichtlich unbegründet gelten, durch das Gericht nur ausgesetzt, wenn ernstliche Zweifel an der Rechtmäßigkeit der Maßnahme bestehen, der Prüfungsumfang kann eingeschränkt werden und verspätetes Vorbringen unberücksichtigt bleiben. Das Nähere ist durch Gesetz zu bestimmen.
+
+(5)	Die Absätze 1 bis 4 stehen völkerrechtlichen Verträgen von Mitgliedstaaten der Europäischen Gemeinschaften untereinander und mit dritten Staaten nicht entgegen, die unter Beachtung der Verpflichtungen aus dem Abkommen über die Rechtsstellung der Flüchtlinge und der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, deren Anwendung in den Vertragsstaaten sichergestellt sein muß, Zuständigkeitsregelungen für die Prüfüng von Asylbegehren einschließlich der gegenseitigen Anerkennung von Asylentscheidungen treffen.
+
 
 
 Artikel 17
-
 
 Jedermann hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden.
 
@@ -218,11 +232,11 @@ Artikel 17 a
 Artikel 18
 
 
-Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artikel 5 Absatz 1), die Lehrfreiheit (Artikel 5 Absatz 3), die Versammlungsfreiheit (Artikel 8), die Vereinigungsfreiheit (Artikel 9), das Brief-, Post- und Fernmeldegeheimnis (Artikel 10), das Eigentum (Artikel 14) oder das Asylrecht (Artikel 16 Absatz 2) zum Kampfe gegen die freiheitliche demokratische Grundordnung mißbraucht, verwirkt diese Grundrechte. Die Verwirkung und ihr Ausmaß werden durch das Bundesverfassungsgericht ausgesprochen.
+Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artikel 5 Absatz 1), die Lehrfreiheit (Artikel 5 Absatz 3), die Versammlungsfreiheit (Artikel 8), die Vereinigungsfreiheit (Artikel 9), das Brief-, Post- und Fernmeldegeheimnis (Artikel 10), das Eigentum (Artikel 14) oder das Asylrecht (Artikel 16 a) zum Kampfe gegen die freiheitliche demokratische Grundordnung mißbraucht, verwirkt diese Grundrechte. Die Verwirkung und ihr Ausmaß werden durch das Bundesverfassungsgericht ausgesprochen.
+
 
 
 Artikel 19
-
 
 (1)	Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschrdnkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen.
 
@@ -296,8 +310,8 @@ Artikel 24
 (3)	Zur Regelung zwischenstaatlicher Streitigkeiten wird der Bund Vereinbarungen über eine allgemeine, umfassende, obligatorische, internationale Schiedsgerichtsbarkeit beitreten.
 
 
-
 Artikel 25
+
 
 Die allgemeinen Regeln des Völkerrechtes sind Bestandteil des Bundesrechtes. Sie gehen den Gesetzen vor und erzeugen Rechte und Pflichten unmittelbar für die Bewohner des Bundesgebietes.
 
@@ -326,8 +340,8 @@ Artikel 28
 (3)	Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.
 
 
-
 Artikel 29
+
 
 (1)	Das Bundesgebiet kann neu gegliedert werden, um zu gewährleisten, daß die Länder nach Größe und Leistungsfähigkeit die ihnen obliegenden Aufgaben wirksam erfüllen können. Dabei sind die landsmannschaftliche Verbundenheit, die geschichtlichen und kulturellen Zusammenhänge, die wirtschaftliche Zweckmäßigkeit sowie die Erfordernisse der Raumordnung und der Landesplanung zu berücksichtigen.
 
@@ -491,8 +505,8 @@ Artikel 45
 Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der Europäischen Union. Er kann ihn ermächtigen, die Rechte des Bundestages gemäß Artikel 23 gegenüber der Bundesregierung wahrzunehmen.
 
 
-
 Artikel 45 a
+
 
 (1)	Der Bundestag bestellt einen Ausschuß für auswärtige Angelegenheiten und einen Ausschuß für Verteidigung.
 
@@ -560,8 +574,8 @@ Artikel 50
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und Verwaltung des Bundes und in Angelegenheiten der Europäischen Union mit.
 
 
-
 Artikel 51
+
 
 (1) Der Bundesrat besteht aus Mitgliedern der Regierungen der Länder, die sie bestellen und abberufen. Sie können durch andere Mitglieder ihrer Regierungen vertreten werden.
 
@@ -584,8 +598,8 @@ Artikel 52
 (4) Den Ausschüssen des Bundesrates können andere Mitglieder oder Beauftragte der Regierungen der Länder angehören.
 
 
-
 Artikel 53
+
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen die Pflicht, an den Verhandlungen des Bundesrates und seiner Ausschüsse teilzunehmen. Sie müssen jederzeit gehört werden. Der Bundesrat ist von der Bundesregierung über die Führung der Geschäfte auf dem laufenden zu halten.
 
@@ -1040,8 +1054,8 @@ Artikel 88
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank. Ihre Aufgaben und Befugnisse können im Rahmen der Europäischen Union der Europäischen Zentralbank übertragen werden, die unabhängig ist und dem vorrangigen Ziel der Sicherung der Preisstabilität verpflichtet.
 
 
-
 Artikel 89
+
 
 (1)	Der Bund ist Eigentümer der bisherigen Reichswasserstraßen.
 
@@ -1455,8 +1469,8 @@ Artikel 115 e
 (2) Durch ein Gesetz des Gemeinsamen Ausschusses darf das Grundgesetz weder geändert noch ganz oder teilweise außer Kraft oder außer Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach Artikel 23 Absatz 1 Satz 2, Artikel 24 Absatz 1 oder Artikel 29 ist der Gemeinsame Ausschuß nicht befugt.
 
 
-
 Artikel 115 f
+
 
 (1) Die Bundesregierung kann im Verteidigungsfalle, soweit es die Verhältnisse erfordern,
 

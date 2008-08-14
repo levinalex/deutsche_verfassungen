@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 21. 12. 1992 (BGBl. I S. 2086)
+vom 28. 6. 1993 (BGBl. I S. 1002)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -316,13 +316,55 @@ Artikel 14 Absatz 3 Satz 3 und 4 entsprechend.
 
 ### Artikel 16
 
-(1) Die Deutsche Staatsangehörigkeit darf nicht entzogen werden.
+(1) Die deutsche Staatsangehörigkeit darf nicht entzogen werden.
 Der Verlust der Staatsangehörigkeit darf nur auf Grund eines
 Gesetzes und gegen den Willen des Betroffenen nur dann eintreten,
 wenn der Betroffene dadurch nicht staatenlos wird.
 
 (2) Kein Deutscher darf an das Ausland ausgeliefert werden.
-Politisch Verfolgte genießen Asylrecht.
+
+### Artikel 16 a
+
+(1) Politisch Verfolgte genießen Asylrecht.
+
+(2) Auf Absatz 1 kann sich nicht berufen, wer aus einem
+Mitgliedstaat der Europäischen Gemeinschaften oder aus einem
+anderen Drittstaat einreist, in dem die Anwendung des Abkommens
+über die Rechtsstellung der Elüchtlinge und der Konvention zum
+Schutze der Menschenrechte und Grundfreiheiten sichergestellt ist.
+Die Staaten außerhalb der Europäischen Gemeinschaften, auf die die
+Voraussetzungen des Satzes 1 zutreffen, werden durch Gesetz, das
+der Zustimmung des Bundesrates bedarf, bestimmt. In den Fällen des
+Satzes 1 können aufenthaltsbeendende Maßnahmen unabhängig von einem
+hiergegen eingelegten Rechtsbehelf vollzogen werden.
+
+(3) Durch Gesetz, das der Zustimmung des Bundesrates bedarf, können
+Staaten bestimmt werden, bei denen auf Grund der Rechtslage, der
+Rechtsanwendung und der allgemeinen politischen Verhältnisse
+gewährleistet erscheint, daß dort weder politische Verfolgung noch
+unmenschliche oder erniedrigende Bestrafüng oder Behandlung
+stattfindet. Es wird vermutet, daß ein Ausländer aus einem solchen
+Staat nicht verfolgt wird, solange er nicht Tatsachen vorträgt, die
+die Annahme begründen, daß er entgegen dieser Vermutung politisch
+verfolgt wird.
+
+(4) Die Vollziehung aufenthaltsbeendender Maßnahmen wird in den
+Fällen des Absatzes 3 und in anderen Fällen, die offensichtlich
+unbegründet sind oder als offensichtlich unbegründet gelten, durch
+das Gericht nur ausgesetzt, wenn ernstliche Zweifel an der
+Rechtmäßigkeit der Maßnahme bestehen, der Prüfungsumfang kann
+eingeschränkt werden und verspätetes Vorbringen unberücksichtigt
+bleiben. Das Nähere ist durch Gesetz zu bestimmen.
+
+(5) Die Absätze 1 bis 4 stehen völkerrechtlichen Verträgen von
+Mitgliedstaaten der Europäischen Gemeinschaften untereinander und
+mit dritten Staaten nicht entgegen, die unter Beachtung der
+Verpflichtungen aus dem Abkommen über die Rechtsstellung der
+Flüchtlinge und der Konvention zum Schutze der Menschenrechte und
+Grundfreiheiten, deren Anwendung in den Vertragsstaaten
+sichergestellt sein muß, Zuständigkeitsregelungen für die Prüfüng
+von Asylbegehren einschließlich der gegenseitigen Anerkennung von
+Asylentscheidungen treffen.
 
 ### Artikel 17
 
@@ -353,7 +395,7 @@ Pressefreiheit (Artikel 5 Absatz 1), die Lehrfreiheit (Artikel 5
 Absatz 3), die Versammlungsfreiheit (Artikel 8), die
 Vereinigungsfreiheit (Artikel 9), das Brief-, Post- und
 Fernmeldegeheimnis (Artikel 10), das Eigentum (Artikel 14) oder das
-Asylrecht (Artikel 16 Absatz 2) zum Kampfe gegen die freiheitliche
+Asylrecht (Artikel 16 a) zum Kampfe gegen die freiheitliche
 demokratische Grundordnung mißbraucht, verwirkt diese Grundrechte.
 Die Verwirkung und ihr Ausmaß werden durch das
 Bundesverfassungsgericht ausgesprochen.
