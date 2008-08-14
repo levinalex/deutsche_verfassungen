@@ -2,11 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch den Vertrag zwischen der Bundesrepublik
-Deutschland und der Deutschen Demokratischen Republik über die
-Herstellung der Einheit Deutschlands (Einigungsvertrag) vom 31. 8.
-1990 (BGBl. II S. 885) in Verbindung mit dem Einigungsgesetz vom
-23. 9. 1990 (BGBl. II S. 890)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
+vom 21. 12. 1992 (BGBl. I S. 2086)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -422,12 +419,68 @@ Die Bundesflagge ist schwarz-rot-gold.
 
 ### Artikel 23
 
-[aufgehoben]
+(1) Zur Verwirklichung eines vereinten Europas wirkt die
+Bundesrepublik Deutschland bei der Entwicklung der Europäischen
+Union mit, die demokratischen, rechtsstaatlichen, sozialen und
+föderativen Grundsätzen und dem Grundsatz der Subsidiarität
+verpflichtet ist und einen diesem Grundgesetz im wesentlichen
+vergleichbaren Grundrechtsschutz gewährleistet. Der Bund kann
+hierzu durch Gesetz mit Zustimmung des Bundesrates Hoheitsrechte
+übertragen. Für die Begründung der Europäischen Union sowie für
+Änderungen ihrer vertraglichen Grundlagen und vergleichbare
+Regelungen, durch die dieses Grundgesetz seinem Inhalt nach
+geändert oder ergänzt wird oder solche Änderungen oder Ergänzungen
+ermöglicht werden, gilt Artikel 79 Absatz 2 und 3.
+
+(2) In Angelegenheiten der Europäischen Union wirken der Bundestag
+und durch den Bundesrat die Länder mit. Die Bundesregierung hat den
+Bundestag und den Bundesrat umfassend und zum frühestmöglichen
+Zeitpunkt zu unterrichten.
+
+(3) Die Bundesregierung gibt dem Bundestag Gelegenheit zur
+Stellungnahme vor ihrer Mitwirkung an Rechtsetzungsakten der
+Europäischen Union. Die Bundesregierung berücksichtigt die
+Stellungnahmen des Bundestages bei den Verhandlungen. Das Nähere
+regelt ein Gesetz.
+
+(4) Der Bundesrat ist an der Willensbildung des Bundes zu
+beteiligen, soweit er an einer entsprechenden innerstaatlichen
+Maßnahme mitzuwirken hätte oder soweit die Länder innerstaatlich
+zuständig wären.
+
+(5) Soweit in einem Bereich ausschließlicher Zuständigkeiten des
+Bundes Interessen der Länder berührt sind oder soweit im übrigen
+der Bund das Recht zur Gesetzgebung hat, berücksichtigt die
+Bundesregierung die Stellungnahme des Bundesrates. Wenn im
+Schwerpunkt Gesetzgebungsbefugnisse der Länder, die Einrichtung
+ihrer Behörden oder ihre Verwaltungsverfahren betroffen sind, ist
+bei der Willensbildung des Bundes insoweit die Auffassung des
+Bundesrates maßgeblich zu berücksichtigen; dabei ist die
+gesamtstaatliche Verantwortung des Bundes zu wahren. In
+Angelegenheiten, die zu Ausgabenerhöhungen oder Einnahmeminderungen
+für den Bund führen können, ist die Zustimmung der Bundesregierung
+erforderlich.
+
+(6) Wenn im Schwerpunkt ausschließliche Gesetzgebungsbefugnisse der
+Länder betroffen sind, soll die Wahrnehmung der Rechte, die der
+Bundesrepublik Deutschland als Mitgliedstaat der Europäischen Union
+zustehen, vom Bund auf einen vom Bundesrat benannten Vertreter der
+Länder übertragen werden. Die Wahrnehmung der Rechte erfolgt unter
+Beteiligung und in Abstimmung mit der Bundesregierung; dabei ist
+die gesamtstaatliche Verantwortung des Bundes zu wahren.
+
+(7) Das Nähere zu den Absätzen 4 bis 6 regelt ein Gesetz, das der
+Zustimmung des Bundesrates bedarf.
 
 ### Artikel 24
 
 (1) Der Bund kann durch Gesetz Hoheitsrechte auf zwischenstaatliche
 Einrichtungen übertragen.
+
+(1a) Soweit die Länder für die Ausübung der staatlichen Befugnisse
+und die Erfüllung der staatlichen Aufgaben zuständig sind, können
+sie mit Zustimmung der Bundesregierung Hoheitsrechte auf
+grenznachbarschaftliche Einrichtungen übertragen.
 
 (2) Der Bund kann sich zur Wahrung des Friedens einem System
 gegenseitiger kollektiver Sicherheit einordnen; er wird hierbei in
@@ -468,16 +521,20 @@ Grundsätzen des republikanischen, demokratischen und sozialen
 Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In den
 Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben,
 die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen
-Wahlen hervorgegangen ist. In Gemeinden kann an die Stelle einer
-gewählten Körperschaft die Gemeindeversammlung treten.
+Wahlen hervorgegangen ist. Bei Wahlen in Kreisen und Gemeinden sind
+auch Personen, die die Staatsangehörigkeit eines Mitgliedstaates
+der Europäischen Gemeinschaft besitzen, nach Maßgabe von Recht der
+Europäischen Gemeinschaft wahlberechtigt und wählbar. In Gemeinden
+kann an die Stelle einer gewählten Körperschaft die
+Gemeindeversammlung treten.
 
 (2) Den Gemeinden muß das Recht gewährleistet sein, alle
-Angelegenheiten der örtlichen Gemeinschaft Im Rahmen der Gesetze In
+Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in
 eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im
 Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der
 Gesetze das Recht der Selbstverwaltung.
 
-(3) Der Bund gewährleistet, daß die verfassungsmaßige Ordnung der
+(3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der
 Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2
 entspricht.
 
@@ -755,7 +812,10 @@ Gerichte frei.
 
 ### Artikel 45
 
-[aufgehoben]
+Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der
+Europäischen Union. Er kann ihn ermächtigen, die Rechte des
+Bundestages gemäß Artikel 23 gegenüber der Bundesregierung
+wahrzunehmen.
 
 ### Artikel 45 a
 
@@ -840,7 +900,8 @@ regelt ein Bundesgesetz.
 ### Artikel 50
 
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und
-Verwaltung des Bundes mit.
+Verwaltung des Bundes und in Angelegenheiten der Europäischen Union
+mit.
 
 ### Artikel 51
 
@@ -869,8 +930,13 @@ die Bundesregierung es verlangen.
 seiner Stimmen. Er gibt sich eine Geschäftsordnung. Er verhandelt
 öffentlich. Die Öffentlichkeit kann ausgeschlossen werden.
 
+(3a) Für Angelegenheiten der Europäischen Union kann der Bundesrat
+eine Europakammer bilden, deren Beschlüsse als Beschlüsse des
+Bundesrates gelten; Artikel 51 Absatz 2 und 3 Satz 2 gilt
+entsprechend.
+
 (4) Den Ausschüssen des Bundesrates können andere Mitglieder oder
-Beauftragte der Regierungen der Länder angehören
+Beauftragte der Regierungen der Länder angehören.
 
 ### Artikel 53
 
@@ -1624,11 +1690,12 @@ Auftrage des Bundes ausgeführt werden.
 ### Artikel 87 d
 
 (1) Die Luftverkehrsverwaltung wird in bundeseigener Verwaltung
-geführt.
+geführt. Über die öffentlich-rechtliche oder privat-rechtliche
+Organisationsform wird durch Bundesgesetz entschieden.
 
 (2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
 können Aufgaben der Luftverkehrsverwaltung den Ländern als
-Auftragsverwaltung überwiesen werden.
+Auftragsverwaltung übertragen werden.
 
 ### Artikel 88
 

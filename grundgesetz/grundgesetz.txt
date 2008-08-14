@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch den Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands (Einigungsvertrag) vom 31. 8. 1990 (BGBl. II S. 885) in Verbindung mit dem Einigungsgesetz vom 23. 9. 1990 (BGBl. II S. 890)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 21. 12. 1992 (BGBl. I S. 2086)
 
 
 
@@ -25,9 +25,9 @@ Die Deutschen in den Ländern Baden-Württemberg, Bayern, Berlin, Brandenburg, B
 
 
 
-
 I
 Die Grundrechte
+
 
 Artikel 1
 
@@ -269,21 +269,35 @@ Die Bundesflagge ist schwarz-rot-gold.
 Artikel 23
 
 
-[aufgehoben]
+(1)	Zur Verwirklichung eines vereinten Europas wirkt die Bundesrepublik Deutschland bei der Entwicklung der Europäischen Union mit, die demokratischen, rechtsstaatlichen, sozialen und föderativen Grundsätzen und dem Grundsatz der Subsidiarität verpflichtet ist und einen diesem Grundgesetz im wesentlichen vergleichbaren Grundrechtsschutz gewährleistet. Der Bund kann hierzu durch Gesetz mit Zustimmung des Bundesrates Hoheitsrechte übertragen. Für die Begründung der Europäischen Union sowie für Änderungen ihrer vertraglichen Grundlagen und vergleichbare Regelungen, durch die dieses Grundgesetz seinem Inhalt nach geändert oder ergänzt wird oder solche Änderungen oder Ergänzungen ermöglicht werden, gilt Artikel 79 Absatz 2 und 3.
 
+(2) In Angelegenheiten der Europäischen Union wirken der Bundestag und durch den Bundesrat die Länder mit. Die Bundesregierung hat den Bundestag und den Bundesrat umfassend und zum frühestmöglichen Zeitpunkt zu unterrichten.
+
+(3)	Die Bundesregierung gibt dem Bundestag Gelegenheit zur Stellungnahme vor ihrer Mitwirkung an Rechtsetzungsakten der Europäischen Union. Die Bundesregierung berücksichtigt die Stellungnahmen des Bundestages bei den Verhandlungen. Das Nähere regelt ein Gesetz.
+
+(4)	Der Bundesrat ist an der Willensbildung des Bundes zu beteiligen, soweit er an einer entsprechenden innerstaatlichen Maßnahme mitzuwirken hätte oder soweit die Länder innerstaatlich zuständig wären.
+
+(5)	Soweit in einem Bereich ausschließlicher Zuständigkeiten des Bundes Interessen der Länder berührt sind oder soweit im übrigen der Bund das Recht zur Gesetzgebung hat, berücksichtigt die Bundesregierung die Stellungnahme des Bundesrates. Wenn im Schwerpunkt Gesetzgebungsbefugnisse der Länder, die Einrichtung ihrer Behörden oder ihre Verwaltungsverfahren betroffen sind, ist bei der Willensbildung des Bundes insoweit die Auffassung des Bundesrates maßgeblich zu berücksichtigen; dabei ist die gesamtstaatliche Verantwortung des Bundes zu wahren. In Angelegenheiten, die zu Ausgabenerhöhungen oder Einnahmeminderungen für den Bund führen können, ist die Zustimmung der Bundesregierung erforderlich.
+
+(6)	Wenn im Schwerpunkt ausschließliche Gesetzgebungsbefugnisse der Länder betroffen sind, soll die Wahrnehmung der Rechte, die der Bundesrepublik Deutschland als Mitgliedstaat der Europäischen Union zustehen, vom Bund auf einen vom Bundesrat benannten Vertreter der Länder übertragen werden. Die Wahrnehmung der Rechte erfolgt unter Beteiligung und in Abstimmung mit der Bundesregierung; dabei ist die gesamtstaatliche Verantwortung des Bundes zu wahren.
+
+(7)	Das Nähere zu den Absätzen 4 bis 6 regelt ein Gesetz, das der Zustimmung des Bundesrates bedarf.
 
 
 Artikel 24
 
+
 (1)	Der Bund kann durch Gesetz Hoheitsrechte auf zwischenstaatliche Einrichtungen übertragen.
+
+(1a) Soweit die Länder für die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben zuständig sind, können sie mit Zustimmung der Bundesregierung Hoheitsrechte auf grenznachbarschaftliche Einrichtungen übertragen.
 
 (2)	Der Bund kann sich zur Wahrung des Friedens einem System gegenseitiger kollektiver Sicherheit einordnen; er wird hierbei in die Beschränkungen seiner Hoheitsrechte einwilligen, die eine friedliche und dauerhafte Ordnung in Europa und zwischen den Völkern der Welt herbeiführen und sichern.
 
-(3) Zur Regelung zwischenstaatlicher Streitigkeiten wird der Bund Vereinbarungen über eine allgemeine, umfassende, obligatorische, internationale Schiedsgerichtsbarkeit beitreten.
+(3)	Zur Regelung zwischenstaatlicher Streitigkeiten wird der Bund Vereinbarungen über eine allgemeine, umfassende, obligatorische, internationale Schiedsgerichtsbarkeit beitreten.
+
 
 
 Artikel 25
-
 
 Die allgemeinen Regeln des Völkerrechtes sind Bestandteil des Bundesrechtes. Sie gehen den Gesetzen vor und erzeugen Rechte und Pflichten unmittelbar für die Bewohner des Bundesgebietes.
 
@@ -305,15 +319,15 @@ Alle deutschen Kauffahrteischiffe bilden eine einheitliche Handelsflotte.
 Artikel 28
 
 
-(1)	Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In den Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. In Gemeinden kann an die Stelle einer gewählten Körperschaft die Gemeindeversammlung treten.
+(1) Die verfassungsmäßige Ordnung in den Ländern muß den Grundsätzen des republikanischen, demokratischen und sozialen Rechtsstaates im Sinne dieses Grundgesetzes entsprechen. In den Ländern, Kreisen und Gemeinden muß das Volk eine Vertretung haben, die aus allgemeinen, unmittelbaren, freien, gleichen und geheimen Wahlen hervorgegangen ist. Bei Wahlen in Kreisen und Gemeinden sind auch Personen, die die Staatsangehörigkeit eines Mitgliedstaates der Europäischen Gemeinschaft besitzen, nach Maßgabe von Recht der Europäischen Gemeinschaft wahlberechtigt und wählbar. In Gemeinden kann an die Stelle einer gewählten Körperschaft die Gemeindeversammlung treten.
 
-(2) Den Gemeinden muß das Recht gewährleistet sein, alle Angelegenheiten der örtlichen Gemeinschaft Im Rahmen der Gesetze In eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der Gesetze das Recht der Selbstverwaltung.
+(2)	Den Gemeinden muß das Recht gewährleistet sein, alle Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der Gesetze das Recht der Selbstverwaltung.
 
-(3)	Der Bund gewährleistet, daß die verfassungsmaßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.
+(3)	Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.
+
 
 
 Artikel 29
-
 
 (1)	Das Bundesgebiet kann neu gegliedert werden, um zu gewährleisten, daß die Länder nach Größe und Leistungsfähigkeit die ihnen obliegenden Aufgaben wirksam erfüllen können. Dabei sind die landsmannschaftliche Verbundenheit, die geschichtlichen und kulturellen Zusammenhänge, die wirtschaftliche Zweckmäßigkeit sowie die Erfordernisse der Raumordnung und der Landesplanung zu berücksichtigen.
 
@@ -474,7 +488,9 @@ Artikel 44
 Artikel 45
 
 
-[aufgehoben]
+Der Bundestag bestellt einen Ausschuß für die Angelegenheiten der Europäischen Union. Er kann ihn ermächtigen, die Rechte des Bundestages gemäß Artikel 23 gegenüber der Bundesregierung wahrzunehmen.
+
+
 
 Artikel 45 a
 
@@ -541,11 +557,11 @@ Der Bundesrat
 Artikel 50
 
 
-Durch den Bundesrat wirken die Länder bei der Gesetzgebung und Verwaltung des Bundes mit.
+Durch den Bundesrat wirken die Länder bei der Gesetzgebung und Verwaltung des Bundes und in Angelegenheiten der Europäischen Union mit.
+
 
 
 Artikel 51
-
 
 (1) Der Bundesrat besteht aus Mitgliedern der Regierungen der Länder, die sie bestellen und abberufen. Sie können durch andere Mitglieder ihrer Regierungen vertreten werden.
 
@@ -554,20 +570,22 @@ Artikel 51
 (3) Jedes Land kann so viele Mitglieder entsenden, wie es Stimmen hat. Die Stimmen eines Landes können nur einheitlich und nur durch anwesende Mitglieder oder deren Vertreter abgegeben werden.
 
 
-
 Artikel 52
+
 
 (1) Der Bundesrat wählt seinen Präsidenten auf ein Jahr.
 
-(2) Der Präsident beruft den Bundesrat ein. Er hat ihn einzuberufen, wenn die Vertreter von mindestens zwei Ländern oder die Bundesregierung es verlangen.
+(2)	Der Präsident beruft den Bundesrat ein. Er hat ihn einzuberufen, wenn die Vertreter von mindestens zwei Ländern oder die Bundesregierung es verlangen.
 
-(3)	Der Bundesrat faßt seine Beschlüsse mit mindestens der Mehrheit seiner Stimmen. Er gibt sich eine Geschäftsordnung. Er verhandelt öffentlich. Die Öffentlichkeit kann ausgeschlossen werden.
+(3) Der Bundesrat faßt seine Beschlüsse mit mindestens der Mehrheit seiner Stimmen. Er gibt sich eine Geschäftsordnung. Er verhandelt öffentlich. Die Öffentlichkeit kann ausgeschlossen werden.
 
-(4) Den Ausschüssen des Bundesrates können andere Mitglieder oder Beauftragte der Regierungen der Länder angehören
+(3a) Für Angelegenheiten der Europäischen Union kann der Bundesrat eine Europakammer bilden, deren Beschlüsse als Beschlüsse des Bundesrates gelten; Artikel 51 Absatz 2 und 3 Satz 2 gilt entsprechend.
+
+(4) Den Ausschüssen des Bundesrates können andere Mitglieder oder Beauftragte der Regierungen der Länder angehören.
+
 
 
 Artikel 53
-
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen die Pflicht, an den Verhandlungen des Bundesrates und seiner Ausschüsse teilzunehmen. Sie müssen jederzeit gehört werden. Der Bundesrat ist von der Bundesregierung über die Führung der Geschäfte auf dem laufenden zu halten.
 
@@ -1011,9 +1029,9 @@ Gesetze, die auf Grund des Artikels 74 Nr. 11a ergehen, können mit Zustimmung d
 Artikel 87 d
 
 
-(1)	Die Luftverkehrsverwaltung wird in bundeseigener Verwaltung geführt.
+(1)	Die Luftverkehrsverwaltung wird in bundeseigener Verwaltung geführt. Über die öffentlich-rechtliche oder privat-rechtliche Organisationsform wird durch Bundesgesetz entschieden.
 
-(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, können Aufgaben der Luftverkehrsverwaltung den Ländern als Auftragsverwaltung überwiesen werden.
+(2)	Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, können Aufgaben der Luftverkehrsverwaltung den Ländern als Auftragsverwaltung übertragen werden.
 
 
 Artikel 88
@@ -1022,8 +1040,8 @@ Artikel 88
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
 
 
-Artikel 89
 
+Artikel 89
 
 (1)	Der Bund ist Eigentümer der bisherigen Reichswasserstraßen.
 
@@ -1684,8 +1702,8 @@ Artikel 135 a
 (2) Absatz 1 findet entsprechende Anwendung auf Verbindlichkeiten der Deutschen Demokratischen Republik oder ihrer Rechtsträger sowie auf Verbindlichkeiten des Bundes oder anderer Körperschaften und Anstalten des öffentlichen Rechts, die mit dem Übergang von Vermögenswerten der Deutschen Demokratischen Republik auf Bund, Länder und Gemeinden im Zusammenhang stehen, und auf Verbindlichkeiten, die auf Maßnahmen der Deutschen Demokratischen Republik oder ihrer Rechtsträger beruhen.
 
 
-
 Artikel 136
+
 
 (1) Der Bundesrat tritt erstmalig am Tage des ersten Zusammentrittes des Bundestages zusammen.
 
@@ -1742,8 +1760,8 @@ Artikel 143
 (3) Unabhängig von Absatz 1 und 2 haben Artikel 41 des Einigungsvertrags und Regelungen zu seiner Durchführung auch insoweit Bestand, als sie vorsehen, daß Eingriffe in das Eigentum auf dem in Artikel 3 dieses Vertrags genannten Gebiet nicht mehr rückgängig gemacht werden.
 
 
-
 Artikel 144
+
 
 (1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten soll.
 
