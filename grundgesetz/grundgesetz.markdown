@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 6. 3. 1961 (BGBl. I S. 141)
+vom 16. 6. 1965 (BGBl. I S. 513)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1091,9 +1091,10 @@ Gebiete:
 7.  die öffentliche Fürsorge;
 8.  die Staatsangehörigkeit in den Ländern;
 9.  die Kriegsschäden und die Wiedergutmachung;
-10. die Versorgung der Kriegsbeschädigten und
-    Kriegshinterbliebenen, die Fürsorge für die ehemaligen
-    Kriegsgefangenen und die Sorge für die Kriegsgräber;
+10. die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen
+    und die Fürsorge für die ehemaligen Kriegsgefangenen; 1Oa. die
+    Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von
+    Gewaltherrschaft;
 11. das Recht der Wirtschaft (Bergbau, Industrie,
     Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und
     Börsenwesen, privatrechtliches Versicherungswesen); 11a. die
