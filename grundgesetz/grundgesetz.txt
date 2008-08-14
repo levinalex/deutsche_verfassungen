@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 16. 7. 1998 (BGBl. I S. 1822)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Artikel 16) vom 29. 11. 2000 (BGBl. I S. 1633)
 
 
 
@@ -206,11 +206,11 @@ Artikel 16
 
 (1)	Die deutsche Staatsangehörigkeit darf nicht entzogen werden. Der Verlust der Staatsangehörigkeit darf nur auf Grund eines Gesetzes und gegen den Willen des Betroffenen nur dann eintreten, wenn der Betroffene dadurch nicht staatenlos wird.
 
-(2)	Kein Deutscher darf an das Ausland ausgeliefert werden.
+(2)	Kein Deutscher darf an das Ausland ausgeliefert werden. Durch Gesetz kann eine abweichende Regelung für Auslieferungen an einen Mitgliedstaat der Europäischen Union oder an einen internationalen Gerichtshof getroffen werden, soweit rechtsstaatliche Grundsätze gewahrt sind.
+
 
 
 Artikel 16 a
-
 
 (1)	Politisch Verfolgte genießen Asylrecht.
 
@@ -467,8 +467,8 @@ Artikel 39
 (3)	Der Bundestag bestimmt den Schluß und den Wiederbeginn seiner Sitzungen. Der Präsident des Bundestages kann ihn früher einberufen. Er ist hierzu verpflichtet, wenn ein Drittel der Mitglieder, der Bundespräsident oder der Bundeskanzler es verlangen.
 
 
-
 Artikel 40
+
 
 (1) Der Bundestag wählt seinen Präsidenten, dessen Stellvertreter und die Schriftführer. Er gibt sich eine Geschäftsordnung.
 

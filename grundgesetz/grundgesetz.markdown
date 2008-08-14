@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 16. 7. 1998 (BGBl. I S. 1822)
+(Artikel 16) vom 29. 11. 2000 (BGBl. I S. 1633)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -360,7 +360,11 @@ Der Verlust der Staatsangehörigkeit darf nur auf Grund eines
 Gesetzes und gegen den Willen des Betroffenen nur dann eintreten,
 wenn der Betroffene dadurch nicht staatenlos wird.
 
-(2) Kein Deutscher darf an das Ausland ausgeliefert werden.
+(2) Kein Deutscher darf an das Ausland ausgeliefert werden. Durch
+Gesetz kann eine abweichende Regelung für Auslieferungen an einen
+Mitgliedstaat der Europäischen Union oder an einen internationalen
+Gerichtshof getroffen werden, soweit rechtsstaatliche Grundsätze
+gewahrt sind.
 
 ### Artikel 16 a
 
