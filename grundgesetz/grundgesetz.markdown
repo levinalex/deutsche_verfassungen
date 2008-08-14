@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 17. 7. 1969 (BGBl. I S. 817)
+vom 28. 7. 1969 (BGBl. I S. 985)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -2539,7 +2539,7 @@ Verzuge an die obersten Landesbehörden zu richten.
 (1) Der Bund trägt die Aufwendungen für Besatzungskosten und die
 sonstigen inneren und äußeren Kriegsfolgelasten nach näherer
 Bestimmung von Bundesgesetzen. Soweit diese Kriegsfolgelasten bis
-zum 1. Oktober 1965 durch Bundesgesetze geregelt worden sind,
+zum 1. Oktober 1969 durch Bundesgesetze geregelt worden sind,
 tragen Bund und Länder im Verhältnis zueinander die Aufwendungen
 nach Maßgabe dieser Bundesgesetze. Soweit Aufwendungen für
 Kriegsfolgelasten, die in Bundesgesetzen weder geregelt worden sind
