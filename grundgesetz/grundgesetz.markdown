@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 8. 6. 1967 (BGBl. I S. 581)
+vom 18. 6. 1968 (BGBl. I S. 657)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1487,10 +1487,10 @@ Bundesrates aufzuheben.
 
 ### Artikel 92
 
-Die rechtsprechende Gewalt ist den Richtern anvertraut; sie wird
-durch das Bundesverfassungsgericht, durch das Oberste
-Bundesgericht, durch die in diesem Grundgesetze vorgesehenen
-Bundesgerichte und durch die Gerichte der Länder ausgeübt.
+Die rechtsprechende Gewalt ist den Richtern anvertraut;sie wird
+durch das Bundesverfassungsgericht, durch die in diesem
+Grundgesetze vorgesehenen Bundesgerichte und durch die Gerichte der
+Länder ausgeübt.
 
 ### Artikel 93
 
@@ -1533,35 +1533,23 @@ haben.
 
 ### Artikel 95
 
-(1) Zur Wahrung der Einheit des Bundesrechte wird ein Oberstes
-Bundesgericht errichtet.
+(1) Für die Gebiete der ordentlichen, der Verwaltungs-, der
+Finanz-, der Arbeits- und der Sozialgerichtsbarkeit errichtet der
+Bund als oberste Gerichtshöfe den Bundesgerichtshof, das
+Bundesverwaltungsgericht, den Bundesfinanzhof, das
+Bundesarbeitsgericht und das Bundessozialgericht.
 
-(2) Das Oberste Bundesgericht entscheidet in Fällen, deren
-Entscheidung für die Einheitlichkeit der Rechtsprechung der oberen
-Bundesgerichte von grundsätzticher Bedeutung ist.
+(2) Über die Berufung der Richter dieser Gerichte entscheidet der
+für das jeweilige Sachgebiet zuständige Bundesminister gemeinsam
+mit einem Richterwahlausschuß, der aus den für das jeweilige
+Sachgebiet zuständigen Ministern der Länder und einer gleichen
+Anzahl von Mitgliedern besteht, die vom Bundestage gewählt werden.
 
-(3) Ober die Berufung der Richter des Obersten Bundesgerichtes
-entscheidet der Bundesjustizminister gemeinsam mit einem
-Richterwahlausschuß, der aus den Landesjustizministern und einer
-gleichen Anzahl von Mitgliedern besteht. die vom Bundestage gewählt
-werden.
-
-(4) Im übrigen werden die Verfassung des Obersten Bundesgerichts
-und sein Verfahren durch Bundesgesetz geregelt.
+(3) Zur Wahrung der Einheitlichkeit der Rechtsprechung ist ein
+Gemeinsamer Senat der in Absatz 1 genannten Gerichte zu bilden. Das
+Nähere regelt ein Bundesgesetz.
 
 ### Artikel 96
-
-(1) Für das Gebiet der ordentlichen, der Verwaltungs-, der Finanz-,
-der Arbeits- und Sozialgerichtsbarkeit sind obere Bundesgerichte zu
-errichten.
-
-(2) Auf die Richter der oberen Bundesgerichte findet Artikel 95
-Absatz 3 mit der Maßgabe Anwendung, daß an die Stelle des
-Bundesjustizministers und der Landesjustizminister die für das
-jeweilige Sachgebiet zuständigen Minister treten. Ihre
-Dienstverhältnisse sind durch besonderes Bundesgesetz zu regeln.
-
-Artikel 96 a
 
 (1) Der Bund kann für Angelegenheiten des gewerblichen
 Rechtsschutzes ein Bundesgericht errichten.
@@ -1575,13 +1563,17 @@ Bundesgesetz. Diese Gerichte gehören zum Geschäftsbereich des
 Bundesjustizministers. Ihre hauptamtlichen Richter müssen die
 Befähigung zum Richteramt haben.
 
-(3) Oberes Bundesgericht für die im Absatz 1 und 2 genannten
+(3) Oberster Gerichtshof für die im Absatz 1 und 2 genannten
 Gerichte ist der Bundesgerichtshof.
 
 (4) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und
 Bundesrichter Bundesdienststrafgerichte sowie für
 Dienststrafverfahren gegen Soldaten und für Verfahren über
 Beschwerden von Soldaten Bundesdienstgerichte errichten.
+
+### Artikel 96 a
+
+[aufgehoben]
 
 ### Artikel 97
 
@@ -1629,9 +1621,10 @@ Bundesverfassungsgericht zu.
 
 Dem Bundesverfassungsgerichte kann durch Landesgesetz die
 Entscheidung von Verfassungsstreitigkeiten innerhalb eines Landes,
-den oberen Bundesgerichten für den letzten Rechtszug die
-Entscheidung in solchen Sachen zugewiesen werden, bei denen es sich
-um die Anwendung von Landesrecht handelt.
+den in Artikel 95 Absatz 1 genannten obersten Gerichtshöfen für den
+letzten Rechtszug die Entscheidung in solchen Sachen zugewiesen
+werden, bei denen es sich um die Anwendung von Landesrecht
+handelt.
 
 ### Artikel 100
 
@@ -1656,10 +1649,7 @@ Bundesverfassungsgerichtes einzuholen.
 Grundgesetzes von einer Entscheidung des Bundesverfassungsgerichtes
 oder des Verfassungsgerichtes eines anderen Landes abweichen, so
 hat das Verfassungsgericht die Entscheidung des
-Bundesverfassungsgerichtes einzuholen; will es bei der Auslegung
-von sonstigem Bundesrechte von der Entscheidung des Obersten
-Bundesgerichtes oder eines oberen Bundesgerichtes abweichen, so hat
-es die Entscheidung des Obersten Bundesgerichtes einzuholen.
+Bundesverfassungsgerichtes einzuholen.
 
 ### Artikel 101
 
