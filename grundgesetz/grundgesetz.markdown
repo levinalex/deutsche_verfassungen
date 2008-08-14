@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 28. 7. 1969 (BGBl. I S. 985)
+vom 19. 8. 1969 (BGBl. I S. 1241)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -500,31 +500,48 @@ haben, kann binnen eines Jahres nach Inkrafttreten des
 Grundgesetzes durch Volksbegehren eine bestimmte Änderung der über
 die Landeszugehörigkeit getroffenen Entscheidung gefordert werden.
 Das Volksbegehren bedarf der Zustimmung eines Zehntels der zu den
-Landtagen wahlberechtigten Bevölkerung. Kommt das Volksbegehren
-zustande, so hat die Bundesregierung in den Gesetzentwurf über die
-Neugliederung eine Bestimmung über die Landeszugehörigkeit des
-Gebietsteiles aufzunehmen.
+Landtagen wahlberechtigten Bevölkerung.
 
-(3) Nach Annahme des Gesetzes ist in jedem Gebiet, dessen
-Landeszugehörigkeit geändert werden soll, der Teil des Gesetzes,
-der dieses Gebiet betrifft, zum Volksentscheid zu bringen. Ist ein
-Volksbegehren nach Absatz 2 zustandegekommen, so ist in dem
-betreffenden Gebiete in jedem Falle ein Volksentscheid
-durchzuführen.
+(3) Ist ein Volksbegehren nach Absatz 2 zustande gekommen, so ist
+in dem betreffenden Gebietstejl bis zum 31. März 1975, im
+Gebietsteil Baden des Landes Baden-Württemberg bis zum 30. juni1970
+ein Volksentscheid über die Frage durchzuführen, ob die angestrebte
+Änderung vorgenommen werden oder die bisherige Landeszugehörigkeit
+bestehen bleiben soll. Stimmt eine Mehrheit, die mindestens ein
+Viertel der zum Landtag wahlberechtigten Bevölkerung umfaßt, der
+Änderung zu, so ist die Landeszugehörigkeit des betreffenden
+Gebietsteiles durch Bundesgesetz innerhalb eines Jahres nach
+Durchführung des Volksentscheides zu regeln. Wird innerhalb
+desselben Landes in mehreren Gebietsteilen eine Änderung der
+Landeszugehörigkeit verlangt, so sind die erforderlichen Regelungen
+in einem Gesetz zusammenzufassen.
 
-(4) Soweit das Gesetz mindestens in einem Gebietsteil abgelehnt
-wird, ist es erneut bei dem Bundestage einzubringen. Nach erneuter
-Verabschiedung bedarf es insoweit der Annahme durch Volksentscheid
-im gesamten Bundesgebiet.
+(4) Dem Bundesgesetz ist das Ergebnis des Volksentscheides zugrunde
+zu legen es darf von ihm nur abweichen, soweit dies zur Erreichung
+der Ziele der Neugliederung nach Absatz 1 erforderlich ist. Das
+Gesetz bedarf der Zustimmung der Mehrheit der Mitglieder des
+Bundestages. Sieht das Gesetz die Änderung der Landeszugehörigkeit
+eines Gebietsteiles vor, die nicht durch Volksentscheid verlangt
+worden ist, so bedarf es der Annahme durch Volksentscheid in dem
+gesamten Gebiet, dessen Landeszugehörigkeit geändert werden soll;
+dies gilt nicht, soweit bei Ausgliederung von Gebietsteilen aus
+einem bestehenden Land die verbleibenden Gebietsteile als
+selbständiges Land fortbestehen sollen.
 
-(5) Bei einem Volksentscheide entscheidet die Mehrheit der
-abgegebenen Stimmen.
+(5) Nach Annahme eines Bundesgesetzes über die Neugliederung des
+Bundesgebietes außerhalb des Verfahrens nach den Absätzen 2 bis 4
+ist in iedem Gebiet, dessen Landeszugehörigkeit geändert werden
+soll, der Teil des Gesetzes, der dieses Gebiet betrifft, zum
+Volksentscheide zu bringen. Soweit das Gesetz mindestens in einem
+Gebietsteil abgelehnt wird, ist es erneut bei dem Bundestage
+einzubringen. Nach erneuter Verabschiedung bedarf es insoweit der
+Annahme durch Volksentscheid im gesamten Bundesgebiet.
 
-(6) Das Verfahren regelt ein Bundesgesetz. Die Neugliederung soll
-vor Ablauf von drei Jahren nach Verkündigung des Grundgesetzes und,
-falls sie als Folge des Beitritts eines anderen Teiles von
-Deutschland notwendig wird, innerhalb von zwei Jahren nach dem
-Beitritt geregelt sein.
+(6) Bei einem Volksentscheid entscheidet die Mehrheit der
+abgegebenen Stimmen; Absatz 3 bleibt unberührt. Das Verfahren
+regelt ein Bundesgesetz. Die Neugliederung soll, falls sie als
+Folge des Beitrittes eines anderen Teiles von Deutschland notwendig
+wird, innerhalb von zwei Jahren nach dem Beitritt geregelt sein.
 
 (7) Das Verfahren über jede sonstige Änderung des Gebietsbestandes
 der Länder regelt ein Bundesgesetz, das der Zustimmung des
