@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 23. 8. 1976 (BGBl. I S. 2383)
+vom 21. 12. 1983 (BGBl. I S. 1481)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -403,8 +403,8 @@ nicht möglich ist.
 (1) Die Parteien wirken bei der politischen Willensbildung des
 Volks mit. Ihre Gründung ist frei. Ihre innere Ordnung muß
 demokratischen Grundsätzen entsprechen. Sie müssen über die
-Herkunft und Verwendung ihrer Mittel öffentlich Rechenschaft
-geben.
+Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen
+öffentlich Rechenschaft geben.
 
 (2) Parteien, die nach ihren Zielen oder nach dem Verhalten ihrer
 Anhänger darauf ausgehen, die freiheitliche demokratische

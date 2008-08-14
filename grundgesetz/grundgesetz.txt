@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 23. 8. 1976 (BGBl. I S. 2383)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 21. 12. 1983 (BGBl. I S. 1481)
 
 
 
@@ -254,15 +254,15 @@ Artikel 20
 Artikel 21
 
 
-(1)	Die Parteien wirken bei der politischen Willensbildung des Volks mit. Ihre Gründung ist frei. Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen. Sie müssen über die Herkunft und Verwendung ihrer Mittel öffentlich Rechenschaft geben.
+(1)	Die Parteien wirken bei der politischen Willensbildung des Volks mit. Ihre Gründung ist frei. Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen. Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.
 
 (2)	Parteien, die nach ihren Zielen oder nach dem Verhalten ihrer Anhänger darauf ausgehen, die freiheitliche demokratische Grundordnung zu beeinträchtigen oder zu beseitigen oder den Bestand der Bundesrepublik Deutschland zu gefährden, sind verfassungswidrig. Über die Frage der Verfassungswidrigkeit entscheidet das Bundesverfassungsgericht.
 
 (3)	Das Nähere regeln Bundesgesetze.
 
 
-Artikel 22
 
+Artikel 22
 
 Die Bundesflagge ist schwarz-rot-gold.
 
@@ -829,8 +829,8 @@ lOa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von G
 24.	die Abfallbeseitigung, die Luftreinhaltung und die Lärmbekämpfung.
 
 
-
 Artikel 74 a
+
 
 (1) Die konkurrierende Gesetzgebung erstreckt sich ferner auf die Besoldung und Versorgung der Angehörigen des öffentlichen Dienstes, die in einem öffentlich-rechtlichen Dienst- und Treueverhältnis stehen, soweit dem Bund nicht nach Artikel 73 Nr.8 die ausschließliche Gesetzgebung zusteht.
 
