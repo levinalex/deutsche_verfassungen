@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-(Artikel 16) vom 29. 11. 2000 (BGBl. I S. 1633)
+(Artikel 12 a) vom 19. 12. 2000 (BGBl. I S. 1633)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -260,7 +260,7 @@ freiwilliger Grundlage gedeckt werden, so können Frauen vom
 vollendeten achtzehnten bis zum vollendeten fünfundfünfzigsten
 Lebensjahr durch Gesetz oder auf Grund eines Gesetzes zu derartigen
 Dienstleistungen herangezogen werden. Sie dürfen auf keinen Fall
-Dienst mit der Waffe leisten.
+zum Dienst mit der Waffe verpflichtet werden.
 
 (5) Für die Zeit vor dem Verteidigungsfalle können Verpflichtungen
 nach Absatz 3 nur nach Maßgabe des Artikels 80 a Absatz 1 begründet

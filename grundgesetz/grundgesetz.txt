@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Artikel 16) vom 29. 11. 2000 (BGBl. I S. 1633)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Artikel 12 a) vom 19. 12. 2000 (BGBl. I S. 1633)
 
 
 
@@ -160,15 +160,15 @@ Artikel 12 a
 
 (3)	Wehrpflichtige, die nicht zu einem Dienst nach Absatz 1 oder 2 herangezogen sind, können im Verteidigungsfalle durch Gesetz oder auf Grund eines Gesetzes zu zivilen Dienstleistungen für Zwecke der Verteidigung einschließlich des Schutzes der Zivil bevölkerung in Arbeitsverhältnisse verpflichtet werden; Verpflichtungen in öffentlich-rechtliche Dienstverhaltnisse sind nur zur Wahrnehmung polizeilicher Aufgaben oder solcher hoheitlichen Aufgaben der öffentlichen Verwaltung, die nur in einem öffentlich-rechtlichen Dienstverhaltnis erfüllt werden können, zulässig. Arbeitsverhältnisse nach Satz 1 können bei den Streitkräften, im Bereich ihrer Versorgung sowie bei der öffentlichen Verwaltung begründet werden; Verpflichtungen in Arbeitsverhältnisse im Bereiche der Versorgung der Zivilbevölkerung sind nur zulässig, um ihren Iebensnotwendigen Bedarf zu decken oder ihren Schutz sicherzustellen.
 
-(4) Kann im Verteidigungsfalle der Bedarf an zivilen Dienstleistungen im zivilen Sanitäts- und Heilwesen sowie in der ortsfesten militarischen Lazarettorganisation nicht auf freiwilliger Grundlage gedeckt werden, so können Frauen vom vollendeten achtzehnten bis zum vollendeten fünfundfünfzigsten Lebensjahr durch Gesetz oder auf Grund eines Gesetzes zu derartigen Dienstleistungen herangezogen werden. Sie dürfen auf keinen Fall Dienst mit der Waffe leisten.
+(4) Kann im Verteidigungsfalle der Bedarf an zivilen Dienstleistungen im zivilen Sanitäts- und Heilwesen sowie in der ortsfesten militarischen Lazarettorganisation nicht auf freiwilliger Grundlage gedeckt werden, so können Frauen vom vollendeten achtzehnten bis zum vollendeten fünfundfünfzigsten Lebensjahr durch Gesetz oder auf Grund eines Gesetzes zu derartigen Dienstleistungen herangezogen werden. Sie dürfen auf keinen Fall zum Dienst mit der Waffe verpflichtet werden.
 
 (5) Für die Zeit vor dem Verteidigungsfalle können Verpflichtungen nach Absatz 3 nur nach Maßgabe des Artikels 80 a Absatz 1 begründet werden. Zur Vorbereitung auf Dienstleistungen nach Absatz 3, für die besondere Kenntnisse oder Fertigkeiten erforderlich sind, kann durch Gesetz oder auf Grund eines Gesetzes die Teilnahme an Ausbildungsveranstaltungen zur Pflicht gemacht werden. Satz 1 findet insoweit keine Anwendung.
 
 (6) Kann Im Verteidigungsfalle der Bedarf an Arbeitskräften für die in Absatz 3 Satz 2 genannten Bereiche auf freiwilliger Grundlage nicht gedeckt werden, so kann zur Sicherung dieses Bedarfs die Freiheit der Deutschen, die Ausübung eines Berufs oder den Arbeitsplatz aufzugeben, durch Gesetz oder auf Grund eines Gesetzes eingeschrdnkt werden. Vor Eintrift des Verteidigungsfalles gilt Absatz 5 Satz 1 entsprechend.
 
 
-Artikel 13
 
+Artikel 13
 
 (1) Die Wohnung ist unverletzlich.
 
@@ -209,8 +209,8 @@ Artikel 16
 (2)	Kein Deutscher darf an das Ausland ausgeliefert werden. Durch Gesetz kann eine abweichende Regelung für Auslieferungen an einen Mitgliedstaat der Europäischen Union oder an einen internationalen Gerichtshof getroffen werden, soweit rechtsstaatliche Grundsätze gewahrt sind.
 
 
-
 Artikel 16 a
+
 
 (1)	Politisch Verfolgte genießen Asylrecht.
 
