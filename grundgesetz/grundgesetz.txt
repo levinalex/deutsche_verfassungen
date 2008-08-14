@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Einfügung eines Artikel 135 a in das Grundgesetz vom 22. 10. 1957 (BGBl. I S. 1745)
+Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes vom 23. 12. 1959 (BGBl. I S. 813)
 
 
 
@@ -782,10 +782,11 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 9.	die Kriegsschäden und die Wiedergutmachung;
 10.	die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen, die Fürsorge für die ehemaligen Kriegsgefangenen und die Sorge für die Kriegsgräber;
 11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);
+11a.	die Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen, und die Beseitigung radioaktiver Stoffe;
 12.	das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;
 13.	die Förderung der wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt;
-15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Farmen der Gemeinwirtschaft;
+15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung, die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz;
 18. den Grundstücksverkehr, das Bodenrecht und das landwirtschaftliche Pachtwesen, das Wohnungswesen, das Siedlungs- und Heimstättenwesen;
@@ -796,8 +797,8 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 23.	die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen.
 
 
-Artikel 75
 
+Artikel 75
 
 Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschriften zu erlassen über:
 
@@ -941,8 +942,14 @@ Artikel 87 b
 (2) Im übrigen können Bundesgesetze, die der Verteidigung einschließlich des Wehrersatzwesens und des Schutzes der Zivilbevölkerung dienen, mit Zustimmung des Bundesrates bestimmen, daß sie ganz oder teilweise in bundeseigener Verwaltung mit eigenem Verwaltungsunterbau oder von den Ländern im Auftrage des Bundes ausgeführt werden. Werden solche Gesetze von den Ländern im Auftrage des Bundes ausgeführt, so können sie mit Zustimmung des Bundesrates bestimmen, daß die der Bundesregierung und den zuständigen obersten Bundesbehörden auf Grund des Artikels 85 zustehenden Befugnisse ganz oder teilweise Bundesoberbehörden übertragen werden; dabei kann bestimmt werden, daß diese Behörden beim Erlaß allgemeiner Verwaltungsvorschriften gemäß Artikel 85 Absatz 2 Satz 1 nicht der Zustimmung des Bundesrates bedürfen.
 
 
-Artikel 88
+Artikel 87 c
 
+
+Gesetze, die auf Grund des Artikels 74 Nr. 11a ergehen, können mit Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im Auftrage des Bundes ausgeführt werden.
+
+
+
+Artikel 88
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
 
@@ -1445,8 +1452,8 @@ Durch die in Artikel l34 Absatz 4 und Artikel 135 Absatz 5 vorbehaltene Gesetzge
 3. Verbindlichkeiten der Länder und Gemeinden (Gemeindeverbände), die aus Maßnahmen entstanden sind, welche diese Rechtsträger vor dem 1. August 1945 zur Durchführung von Anordnungen der Besatzungsmächte oder zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich obliegender oder vom Reich übertragener Verwaltungsaufgaben getroffen haben.
 
 
-
 Artikel 136
+
 
 (1) Der Bundesrat tritt erstmalig am Tage des ersten Zusammentrittes des Bundestages zusammen.
 

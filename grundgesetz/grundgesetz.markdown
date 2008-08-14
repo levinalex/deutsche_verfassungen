@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Einfügung eines Artikel 135 a
-in das Grundgesetz vom 22. 10. 1957 (BGBl. I S. 1745)
+Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes
+vom 23. 12. 1959 (BGBl. I S. 813)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1096,7 +1096,12 @@ Gebiete:
     Kriegsgefangenen und die Sorge für die Kriegsgräber;
 11. das Recht der Wirtschaft (Bergbau, Industrie,
     Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und
-    Börsenwesen, privatrechtliches Versicherungswesen);
+    Börsenwesen, privatrechtliches Versicherungswesen); 11a. die
+    Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die
+    Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen,
+    den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder
+    durch ionisierende Strahlen entstehen, und die Beseitigung
+    radioaktiver Stoffe;
 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des
     Arbeitsschutzes und der Arbeitsvermittlung sowie die
     Sozialversicherung einschließlich der Arbeitslosenversicherung;
@@ -1104,7 +1109,7 @@ Gebiete:
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der
     Artikel 73 und 74 in Betracht kommt;
 15. die Überführung von Grund und Boden, von Naturschätzen und
-    Produktionsmitteln in Gemeineigentum oder in andere Farmen der
+    Produktionsmitteln in Gemeineigentum oder in andere Formen der
     Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung,
@@ -1413,6 +1418,12 @@ zustehenden Befugnisse ganz oder teilweise Bundesoberbehörden
 übertragen werden; dabei kann bestimmt werden, daß diese Behörden
 beim Erlaß allgemeiner Verwaltungsvorschriften gemäß Artikel 85
 Absatz 2 Satz 1 nicht der Zustimmung des Bundesrates bedürfen.
+
+### Artikel 87 c
+
+Gesetze, die auf Grund des Artikels 74 Nr. 11a ergehen, können mit
+Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im
+Auftrage des Bundes ausgeführt werden.
 
 ### Artikel 88
 
