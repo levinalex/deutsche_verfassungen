@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 23. 8. 1976 (BGBl. I S. 1901)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 23. 8. 1976 (BGBl. I S. 2383)
 
 
 
@@ -331,8 +331,8 @@ Artikel 29
 (7) Sonstige Änderungen des Gebietsbestandes der Länder können durch Staatsverträge der beteiligten Länder oder durch Bundesgesetz mit Zustimmung des Bundesrates erfolgen, wenn das Gebiet, dessen Landeszugehörigkeit geändert werden soll, nicht mehr als 10000 Einwohner hat. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates und der Mehrheit der Mitglieder des Bundestages bedarf. Es muß die Anhörung der betroffenen Gemeinden und Kreise vorsehen.
 
 
-
 Artikel 30
+
 
 Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz keine andere Regelung trifft oder zuläßt.
 
@@ -424,8 +424,8 @@ Artikel 39
 (3) Der Bundestag bestimmt den Schluß und den Wiederbeginn seiner Sitzungen Der Präsident des Bundestages kann ihn früher einberufer. Er ist hierzu verpflichtet, wenn ein Drittel der Mitglieder, der Bundespräsident oder der Bundeskanzler es verlangen.
 
 
-
 Artikel 40
+
 
 (1) Der Bundestag wählt seinen Präsidenten, dessen Stellvertreter und die Schriftführer. Er gibt sich eine Geschäftsordnung.
 
@@ -486,8 +486,8 @@ Artikel 45 a
 (3)	Artikel 44, Absatz 1 findet auf dem Gebiet der Verteidigung keine Anwendung.
 
 
-
 Artikel 45 b
+
 
 Zum Schutz der Grundrechte und als Hilfsorgan des Bundestages bei der Ausübung der parlamentarischen Kontrolle wird ein Wehrbeauftragter des Bundestages berufen. Das Nähere regelt ein Bundesgesetz.
 
@@ -536,11 +536,11 @@ Artikel 49
 
 
 
-
 IV
 Der Bundesrat
 
 Artikel 50
+
 
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und Verwaltung des Bundes mit.
 
@@ -803,20 +803,20 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 2.	das Personenstandswesen;
 3.	das Vereins- und Versammlungsrecht;
 4.	das Aufenthalts- und Niederlassungsrecht der Ausländer;
-4a.	das Waffenrecht;
+4a.	das Waffen- und das Sprengstoffrecht;
 5.	den Schutz deutschen Kulturgutes gegen Abwanderung in das Ausland;
 6.	die Angelegenheiten der Flüchtlinge und Vertriebenen;
 7.	die öffentliche Fürsorge;
 8.	die Staatsangehörigkeit in den Ländern;
 9.	die Kriegsschäden und die Wiedergutmachung;
 10.	die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen und die Fürsorge für die ehemaligen Kriegsgefangenen;
-1Oa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft;
-11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen>;
+lOa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft;
+11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);
 11a.	die Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen, und die Beseitigung radioaktiver Stoffe;
 12.	das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;
 13.	die Regelung der Ausbildungsbeihilten und die Förderung der wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt;
-15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft;
+15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Farmen der Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung, die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz;
 18. den Grundstücksverkehr, das Bodenrecht und das landwirtschaftliche Pachtwesen, das Wohnungswesen, das Siedlungs- und Heimstättenwesen;
@@ -825,12 +825,12 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 20.	den Schutz beim Verkehr mit Lebens- und Genußmitteln, Bedarfsgegenständen, Futtermitteln und land- und forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen gegen Krankheiten und Schädlinge sowie den Tierschutz;
 21.	die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen;
 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren für die Benutzung öffentlicher Straßen mit Fahrzeugen;
-23.	die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen.
+23.	die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen;
 24.	die Abfallbeseitigung, die Luftreinhaltung und die Lärmbekämpfung.
 
 
-Artikel 74 a
 
+Artikel 74 a
 
 (1) Die konkurrierende Gesetzgebung erstreckt sich ferner auf die Besoldung und Versorgung der Angehörigen des öffentlichen Dienstes, die in einem öffentlich-rechtlichen Dienst- und Treueverhältnis stehen, soweit dem Bund nicht nach Artikel 73 Nr.8 die ausschließliche Gesetzgebung zusteht.
 

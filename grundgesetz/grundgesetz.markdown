@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 23. 8. 1976 (BGBl. I S. 1901)
+vom 23. 8. 1976 (BGBl. I S. 2383)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1196,7 +1196,7 @@ Gebiete:
 2.  das Personenstandswesen;
 3.  das Vereins- und Versammlungsrecht;
 4.  das Aufenthalts- und Niederlassungsrecht der Ausländer; 4a. das
-    Waffenrecht;
+    Waffen- und das Sprengstoffrecht;
 5.  den Schutz deutschen Kulturgutes gegen Abwanderung in das
     Ausland;
 6.  die Angelegenheiten der Flüchtlinge und Vertriebenen;
@@ -1204,7 +1204,7 @@ Gebiete:
 8.  die Staatsangehörigkeit in den Ländern;
 9.  die Kriegsschäden und die Wiedergutmachung;
 10. die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen
-    und die Fürsorge für die ehemaligen Kriegsgefangenen; 1Oa. die
+    und die Fürsorge für die ehemaligen Kriegsgefangenen; lOa. die
     Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von
     Gewaltherrschaft;
 11. das Recht der Wirtschaft (Bergbau, Industrie,
@@ -1223,7 +1223,7 @@ Gebiete:
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der
     Artikel 73 und 74 in Betracht kommt;
 15. die Überführung von Grund und Boden, von Naturschätzen und
-    Produktionsmitteln in Gemeineigentum oder in andere Formen der
+    Produktionsmitteln in Gemeineigentum oder in andere Farmen der
     Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung,
@@ -1251,7 +1251,7 @@ Gebiete:
     und Verteilung von Gebühren für die Benutzung öffentlicher Straßen
     mit Fahrzeugen;
 23. die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit
-    Ausnahme der Bergbahnen.
+    Ausnahme der Bergbahnen;
 24. die Abfallbeseitigung, die Luftreinhaltung und die
     Lärmbekämpfung.
 
