@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 28. 7. 1972 (BGBl. I S. 1305)
+vom 15. 7. 1975 (BGBl. I S. 1901)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -781,6 +781,15 @@ der Ausübung der parlamentarischen Kontrolle wird ein
 Wehrbeauftragter des Bundestages berufen. Das Nähere regelt ein
 Bundesgesetz.
 
+### Artikel 45 c
+
+(1) Der Bundestag bestellt einen Petitionsausschuß, dem die
+Behandlung der nach Artikel 17 an den Bundestag gerichteten Bitten
+und Beschwerden obliegt.
+
+(2) Die Befugnisse des Ausschusses zur Überprüfung von Beschwerden
+regelt ein Bundesgesetz.
+
 ### Artikel 46
 
 (1) Ein Abgeordneter darf zu keiner Zeit wegen seiner Abstimmung
@@ -1205,7 +1214,7 @@ Gebiete:
     Gewaltherrschaft;
 11. das Recht der Wirtschaft (Bergbau, Industrie,
     Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und
-    Börsenwesen, privatrechtliches Versicherungswesen>; 11a. die
+    Börsenwesen, privatrechtliches Versicherungswesen); 11a. die
     Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die
     Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen,
     den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder
