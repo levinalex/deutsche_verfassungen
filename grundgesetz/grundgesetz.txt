@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes vom 24. 6. 1968 (BGBl. I S. 709)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 15. 11. 1968 (BGBl. I S. 1177)
 
 
 
@@ -168,8 +168,8 @@ Artikel 12 a
 (6) Kann Im Verteidigungsfalle der Bedarf an Arbeitskräften für die in Absatz 3 Satz 2 genannten Bereiche auf freiwilliger Grundlage nicht gedeckt werden, so kann zur Sicherung dieses Bedarfs die Freiheit der Deutschen, die Ausübung eines Berufs oder den Arbeitsplatz aufzugeben, durch Gesetz oder auf Grund eines Gesetzes eingeschrdnkt werden. Vor Eintrift des Verteidigungsfalles gilt Absatz 5 Satz 1 entsprechend.
 
 
-
 Artikel 13
+
 
 (1)	Die Wohnung ist unverletzlich.
 
@@ -236,11 +236,11 @@ Artikel 19
 
 
 
-
 II
 Der Bund und die Länder
 
 Artikel 20
+
 
 (1)	Die Bundesrepublik Deutschland ist ein demokratischer und sozialer Bundesstaat.
 
@@ -251,8 +251,8 @@ Artikel 20
 (4) Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.
 
 
-
 Artikel 21
+
 
 (1)	Die Parteien wirken bei der politischen Willensbildung des Volks mit. Ihre Gründung ist frei. Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen. Sie müssen über die Herkunft und Verwendung ihrer Mittel öffentlich Rechenschaft geben.
 
@@ -383,8 +383,8 @@ Artikel 35
 (3) Gefährdet die Naturkatastrophe oder der Unglücksfall das Gebiet mehr als eines Landes, so kann die Bundesregierung, soweit es zur wirksamen Bekämpfung erforderlich ist, den Landesregierungen die Weisung erteilen, Polizeikräfte anderer Länder zur Verfügung zu stellen, sowie Einheiten des Bundesgrenzschutzes und der Streitkräfte zur Unterstützung der Polizeikräfte einsetzen. Maßnahmen der Bundesregierung nach Satz 1 sind jederzeit auf Verlangen des Bundesrates, im übrigen unverzüglich nach Beseitigung der Gefahr aufzuheben.
 
 
-
 Artikel 36
+
 
 (1) Bei den obersten Bundesbehörden sind Beamte aus allen Ländern in angemessenem Verhältnis zu verwenden. Die bei den übrigen Bundesbehörden beschäftigten Personen sollen in der Regel aus dem Lande genommen werden, in dem sie tätig sind.
 
@@ -584,11 +584,11 @@ Artikel 53 a
 
 
 
-
 V
 Der Bundespräsident
 
 Artikel 54
+
 
 (1) Der Bundespräsident wird ohne Aussprache von der Bundesversammlung gewählt. Wählbar ist jeder Deutsche, der das Wahlrecht zum Bundestage besitzt und das vierzigste Lebensjahr vollendet hat.
 
@@ -643,14 +643,8 @@ Artikel 59
 (2) Verträge, welche die politischen Beziehungen des Bundes regeln oder sich auf Gegenstände der Bundesgesetzgebung beziehen, bedürfen der Zustimmung oder der Mitwirkung der jeweils für die Bundesgesetzgebung zuständigen Körperschaften in der Form eines Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften über die Bundesverwaltung entsprechend.
 
 
-Artikel 59 a
-
-
-[aufgehoben]
-
-
-
 Artikel 60
+
 
 (1) Der Bundespräsident ernennt und entläßt die Bundesrichter, die Bundesbeamten, die Offiziere und Unteroffiziere, soweit gesetzlich nichts anderes bestimmt ist.
 
@@ -712,8 +706,8 @@ Artikel 65 a
 Der Bundesminister für Verteidigung hat die Befehls- und Kommandogewalt über die Streitkräfte.
 
 
-
 Artikel 66
+
 
 Der Bundeskanzler und die Bundesminister dürfen kein anderes besoldetes Amt, kein Gewerbe und keinen Beruf ausüben und weder der Leitung noch ohne Zustimmung des Bundestages dem Aufsichtsrate eines auf Erwerb gerichteten Unternehmens angehören.
 
@@ -793,8 +787,8 @@ Der Bund hat die ausschließliche Gesetzgebung über:
 11. die Statistik für Bundeszwecke.
 
 
-
 Artikel 74
+
 
 Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 
@@ -842,7 +836,7 @@ Artikel 76
 
 (1) Gesetzesvorlagen werden beim Bundestage durch die Bundesregierung, aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.
 
-(2)	Vorlagen der Bundesregierung sind zunächst dem Bundesrate zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von drei Wochen zu diesen Vorlagen Stellung zu nehmen.
+(2)	Vorlagen der Bundesregierung sind zunächst dem Bundesrate zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs Wochen zu diesen Vorlagen Stellung zu nehmen. Die Bundesregierung kann eine Vorlage, die sie bei der Zuleitung an den Bundesrat ausnahmsweise als besonders eilbedürftig bezeichnet hat, nach drei Wochen dem Bundestage zuleiten, auch wenn die Stellungnahme des Bundesrates noch nicht bei ihr eingegangen ist; sie hat die Stellungnahme des Bundesrates unverzüglich nach Eingang dem Bundestag nachzureichen.
 
 (3) Vorlagen des Bundesrates sind dem Bundestage durch die Bundesregierung zuzuleiten. Sie hat hierbei ihre Auffassung darzulegen.
 
@@ -852,15 +846,15 @@ Artikel 77
 
 (1) Die Bundesgesetze werden vom Bundestage beschlossen. Sie sind nach ihrer Annahme durch den Präsidenten des Bundestages unverzüglich dem Bundesrate zuzuleiten.
 
-(2) Der Bundesrat kann binnen zwei Wochen nach Eingang des Gesetzbeschlusses verlangen, daß ein aus Mitgliedern des Bundestages und des Bundesrates für die gemeinsame Beratung von Vorlagen gebildeter Ausschuß einberufen wird. Die Zusammensetzung und das Verfahren dieses Ausschusses regelt eine Geschäftsordnung, die vom Bundestag beschlossen wird und der Zustimmung des Bundesrates bedarf. Die in diesen Ausschuß entsandten Mitglieder des Bundesrates sind nicht an Weisungen gebunden. Ist zu einem Gesetze die Zustimmung des Bundesrates erforderlich, so können auch der Bundestag und die Bundesregierung die Einberufung verlangen. Schlägt der Ausschuß eine Änderung des Gesetzesbeschlusses vor, so hat der Bundestag erneut Beschluß zu fassen.
+(2) Der Bundesrat kann binnen drei Wochen nach Eingang des Gesetzbeschlusses verlangen, daß ein aus Mitgliedern des Bundestages und des Bundesrates für die gemeinsame Beratung von Vorlagen gebildeter Ausschuß einberufen wird. Die Zusammensetzung und das Verfahren dieses Ausschusses regelt eine Geschäftsordnung, die vom Bundestag beschlossen wird und der Zustimmung des Bundesrates bedarf. Die in diesen Ausschuß entsandten Mitglieder des Bundesrates sind nicht an Weisungen gebunden. Ist zu einem Gesetze die Zustimmung des Bundesrates erforderlich, so können auch der Bundestag und die Bundesregierung die Einberufung verlangen. Schlägt der Ausschuß eine Änderung des Gesetzesbeschlusses vor, so hat der Bundestag erneut Beschluß zu fassen.
 
-(3)	Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht erforderlich ist, kann der Bundesrat, wenn das Verfahren nach Absatz 2 beendigt ist, gegen ein vom Bundestage beschlossenes Gesetz binnen einer Woche Einspruch einlegen. Die Einspruchsfrist beginnt im Falle des Absatzes 2 letzter Satz mit dem Eingange des vom Bundestage erneut gefaßten Beschlusses, in allen anderen Fällen mit dem Abschlusse des Verfahrens vor dem in Absatz 2 vorgesehenen Ausschusse.
+(3)	Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht erforderlich ist, kann der Bundesrat, wenn das Verfahren nach Absatz 2 beendigt ist, gegen ein vom Bundestage beschlossenes Gesetz binnen zwei Wochen Einspruch einlegen. Die Einspruchsfrist beginnt im Falle des Absatzes 2 letzter Satz mit dem Eingange des vom Bundestage erneut gefaßten Beschlusses, in allen anderen Fällen mit dem Eingange der Mitteilung des Vorsitzenden des in Absatz 2 vorgesehenen Ausschusses, daß das Verfahren vor dem Ausschusse abgeschlossen ist.
 
-(4)	Wird der Einspruch mit der Mehrheit der Stimmen des Bundesrates beschlossen, so kann er durch Beschluß der Mehrheit der Mitglieder des Bundestages zurückgewiesen werden. Hat der Bundesrat den Einspruch mit einer Mehrheit von mindestens zwei Dritteln seiner Stimmen beschlossen, so bedarf die Zurückweisung durch den Bundestag einer Mehrheit von zwei Dritteln, mindestens der Mehrheit der Mitglieder des Bundestages.
+(4)	Wird der Einspruch mit der Mehrheit der Stimmen des Bundesrates beschlossen, so kann er durch Beschluß der Mehrheit der Mitglieder des Bundestages zurückgewiesen werden. Hat der Bundesrat den Einspruch mit einer Mehrheit von mindestens zwei Dritteln seiner Stimmen beschlossen, so bedarf die Zurückweisung durch den Bundestag einer Mehrheit van zwei Dritteln, mindestens der Mehrheit der Mitglieder des Bundestages.
+
 
 
 Artikel 78
-
 
 Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zustimmt, den Antrag gemäß Artikel 77 Absatz 2 nicht stellt, innerhalb der Frist des Artikels 77 Absatz 3 keinen Einspruch einlegt oder ihn zurücknimmt oder wenn der Einspruch vom Bundestage überstimmt wird.
 
@@ -893,8 +887,8 @@ Artikel 80 a
 (3) Abweichend von Absatz 1 ist die Anwendung solcher Rechtsvorschriften auch auf der Grundlage und nach Maßgabe eines Beschlusses zulässig, der von einem internationalen Organ im Rahmen eines Bündnisvertrages mit Zustimmung der Bundesregierung gefaßt wird. Maßnahmen nach diesem Absatz sind autzuheben, wenn der Bundestag es mit der Mehrheit seiner Mitglieder verlangt.
 
 
-
 Artikel 81
+
 
 (1)	Wird im Falle des Artikels 68 der Bundestag nicht aufgelöst, so kann der Bundespräsident auf Antrag der Bundesregierung mit Zustimmung des Bundesrates für eine Gesetzesvorlage den Gesetzgebungsnotstand erklären, wenn der Bundestag sie ablehnt, obwohl die Bundesregierung sie als dringlich bezeichnet hat. Das gleiche gilt, wenn eine Gesetzesvorlage abgelehnt worden ist, obwohl der Bundeskanzler mit ihr den Antrag des Artikels 68 verbunden hatte.
 
@@ -978,8 +972,8 @@ Artikel 87 a
 (4) Zur Abwehr einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes kann die Bundesregierung, wenn die Voraussetzungen des Artikels 91 Absatz 2 vorliegen und die Polizeikräfte sowie der Bundesgrenzschutz nicht ausreichen, Streitkräfte zur Unterstützung der Polizei und des Bundesgrenzschutzes beim Schutz von zivilen Objekten und bei der Bekämpfung organisierter und militärisch bewaffneter Aufständischer einsetzen. Der Einsatz von Streitkräften ist einzustellen, wenn der Bundestag oder der Bundesrat es verlangen.
 
 
-
 Artikel 87 b
+
 
 (1) Die Bundeswehrverwaltung wird in bundeseigener Verwaltung mit eigenem Verwaltungsunterbau geführt. Sie dient den Aufgaben des Personalwesens und der unmittelbaren Deckung des Sachbedarfs der Streitkräfte. Aufgaben der Beschädigtenversorgung und des Bauwesens können der Bundeswehrverwaltung nur durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, übertragen werden. Der Zustimmung des Bundesrates bedürfen ferner Gesetze, soweit sie die Bundeswehrverwaltung zu Eingriffen in Rechte Dritter ermächtigen; das gilt nicht für Gesetze auf dem Gebiete des Personalwesens.
 
@@ -1036,11 +1030,11 @@ Artikel 91
 
 
 
-
 IX
 Rechtsprechung
 
 Artikel 92
+
 
 Die rechtsprechende Gewalt ist den Richtern anvertraut;sie wird durch das Bundesverfassungsgericht, durch die in diesem Grundgesetze vorgesehenen Bundesgerichte und durch die Gerichte der Länder ausgeübt.
 
@@ -1430,11 +1424,11 @@ Artikel 115 l
 
 
 
-
 XI
 Übergangs- und Schlußbestimmungen
 
 Artikel 116
+
 
 (1) Deutscher im Sinne dieses Grundgesetzes ist vorbehaltlich anderweitiger gesetzlicher Regelung, wer die deutsche Staatsangehörigkeit besitzt oder als Flüchtling oder Vertriebener deutscher Volkszugehörigkeit oder als dessen Ehegatte oder Abkömmling in dem Gebiete des Deutschen Reiches nach dem Stande vom 31. Dezember 1937 Aufnahme gefunden hat.
 
@@ -1666,20 +1660,14 @@ Artikel 142
 Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung mit den Artikeln 1 bis 18 dieses Grundgesetzes Grundrechte gewährleisten.
 
 
-Artikel 142 a
-
-
-[aufgehoben]
-
-
 Artikel 143
 
 
 [aufgehoben]
 
 
-
 Artikel 144
+
 
 (1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten soll.
 

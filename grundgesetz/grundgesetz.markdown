@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes
-vom 24. 6. 1968 (BGBl. I S. 709)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
+vom 15. 11. 1968 (BGBl. I S. 1177)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -957,10 +957,6 @@ Bundesgesetzgebung zuständigen Körperschaften in der Form eines
 Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften
 über die Bundesverwaltung entsprechend.
 
-### Artikel 59 a
-
-[aufgehoben]
-
 ### Artikel 60
 
 (1) Der Bundespräsident ernennt und entläßt die Bundesrichter, die
@@ -1238,8 +1234,14 @@ Bundesregierung, aus der Mitte des Bundestages oder durch den
 Bundesrat eingebracht.
 
 (2) Vorlagen der Bundesregierung sind zunächst dem Bundesrate
-zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von drei Wochen
-zu diesen Vorlagen Stellung zu nehmen.
+zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs
+Wochen zu diesen Vorlagen Stellung zu nehmen. Die Bundesregierung
+kann eine Vorlage, die sie bei der Zuleitung an den Bundesrat
+ausnahmsweise als besonders eilbedürftig bezeichnet hat, nach drei
+Wochen dem Bundestage zuleiten, auch wenn die Stellungnahme des
+Bundesrates noch nicht bei ihr eingegangen ist; sie hat die
+Stellungnahme des Bundesrates unverzüglich nach Eingang dem
+Bundestag nachzureichen.
 
 (3) Vorlagen des Bundesrates sind dem Bundestage durch die
 Bundesregierung zuzuleiten. Sie hat hierbei ihre Auffassung
@@ -1251,7 +1253,7 @@ darzulegen.
 nach ihrer Annahme durch den Präsidenten des Bundestages
 unverzüglich dem Bundesrate zuzuleiten.
 
-(2) Der Bundesrat kann binnen zwei Wochen nach Eingang des
+(2) Der Bundesrat kann binnen drei Wochen nach Eingang des
 Gesetzbeschlusses verlangen, daß ein aus Mitgliedern des
 Bundestages und des Bundesrates für die gemeinsame Beratung von
 Vorlagen gebildeter Ausschuß einberufen wird. Die Zusammensetzung
@@ -1267,18 +1269,19 @@ hat der Bundestag erneut Beschluß zu fassen.
 (3) Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht
 erforderlich ist, kann der Bundesrat, wenn das Verfahren nach
 Absatz 2 beendigt ist, gegen ein vom Bundestage beschlossenes
-Gesetz binnen einer Woche Einspruch einlegen. Die Einspruchsfrist
+Gesetz binnen zwei Wochen Einspruch einlegen. Die Einspruchsfrist
 beginnt im Falle des Absatzes 2 letzter Satz mit dem Eingange des
 vom Bundestage erneut gefaßten Beschlusses, in allen anderen Fällen
-mit dem Abschlusse des Verfahrens vor dem in Absatz 2 vorgesehenen
-Ausschusse.
+mit dem Eingange der Mitteilung des Vorsitzenden des in Absatz 2
+vorgesehenen Ausschusses, daß das Verfahren vor dem Ausschusse
+abgeschlossen ist.
 
 (4) Wird der Einspruch mit der Mehrheit der Stimmen des Bundesrates
 beschlossen, so kann er durch Beschluß der Mehrheit der Mitglieder
 des Bundestages zurückgewiesen werden. Hat der Bundesrat den
 Einspruch mit einer Mehrheit von mindestens zwei Dritteln seiner
 Stimmen beschlossen, so bedarf die Zurückweisung durch den
-Bundestag einer Mehrheit von zwei Dritteln, mindestens der Mehrheit
+Bundestag einer Mehrheit van zwei Dritteln, mindestens der Mehrheit
 der Mitglieder des Bundestages.
 
 ### Artikel 78
@@ -2132,7 +2135,7 @@ die Haftung übernimmt, bestimmt sein.
 
 (1) Die Feststellung, daß das Bundesgebiet mit Waffengewalt
 angegriffen wird oder ein solcher Angriff unmittelbar droht
-(Verteidigungsfall>, trifft der Bundestag mit Zustimmung des
+(Verteidigungsfall), trifft der Bundestag mit Zustimmung des
 Bundesrates. Die Feststellung erfolgt auf Antrag der
 Bundesregierung und bedarf einer Mehrheit von zwei Dritteln der
 abgegebenen Stimmen, mindestens der Mehrheit der Mitglieder des
@@ -2724,10 +2727,6 @@ Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der
 Landesverfassungen auch insoweit in Kraft, als sie in
 Übereinstimmung mit den Artikeln 1 bis 18 dieses Grundgesetzes
 Grundrechte gewährleisten.
-
-### Artikel 142 a
-
-[aufgehoben]
 
 ### Artikel 143
 
