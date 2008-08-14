@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 26. 8. 1969 (BGBl. I S. 1357)
+vom 31. 7. 1970 (BGBl. I S. 1161)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -655,8 +655,9 @@ allgemeiner, unmittelbarer, freier, gleicher und geheimer Wahl
 gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und
 Weisungen nicht gebunden und nur ihrem Gewissen unterworfen.
 
-(2) Wahlberechtigt ist, wer das einundzwanzigste, wählbar, wer das
-fünfundzwanzigste Lebensjahr vollendet hat.
+(2) Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet
+hat; wählbar ist, wer das Alter erreicht hat, mit dem die
+Volljährigkeit eintritt.
 
 (3) Das Nähere bestimmt ein Bundesgesetz.
 
@@ -1653,8 +1654,6 @@ Landes, so kann die Bundesregierung. soweit es zur wirksamen
 Bekämpfung erforderlich ist, den Landesregierungen Weisungen
 erteilen; Satz 1 und Satz 2 bleiben unberührt.
 
-## VIIIa Gemeinschaftsaufgaben
-
 ### Artikel 91 a
 
 (1) Der Bund wirkt auf folgenden Gebieten bei der Erfüllung von
@@ -1662,8 +1661,8 @@ Aufgaben der Länder mit, wenn diese Aufgaben für die Gesamtheit
 bedeutsam sind und die Mitwirkung des Bundes zur Verbesserung der
 Lebensverhältnisse erforderlich ist (Gemeinschaftsaufgaben):
 
-1.  Ausbau und Neubau von wissenschaftlichen Hochschulen
-    einschließlich der Hochschulkliniken,
+1.  Ausbau und Neubau von Hochschulen einschließlich der
+    Hochschulkliniken,
 2.  Verbesserung der regionalen Wirtschaftsstruktur,
 3.  Verbesserung der Agrarstruktur und des Küstenschutzes.
 
