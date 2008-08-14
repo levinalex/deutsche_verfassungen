@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 31. 7. 1970 (BGBl. I S. 1161)
+vom 18. 3. 1971 (BGBl. I S. 206)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1237,29 +1237,40 @@ Gebiete:
 23. die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit
     Ausnahme der Bergbahnen.
 
+### Artikel 74 a
+
+(1) Die konkurrierende Gesetzgebung erstreckt sich ferner auf die
+Besoldung und Versorgung der Angehörigen des öffentlichen Dienstes,
+die in einem öffentlich-rechtlichen Dienst- und Treueverhältnis
+stehen, soweit dem Bund nicht nach Artikel 73 Nr.8 die
+ausschließliche Gesetzgebung zusteht.
+
+(2) Bundesgesetze nach Absatz 1 bedürfen der Zustimmung des
+Bundesrates.
+
+(3) Der Zustimmung des Bundesrates bedürfen auch Bundesgesetze nach
+Artikel 73 Nr.8, soweit sie andere Maßstäbe für den Aufbau oder die
+Bemessung der Besoldung und Versorgung einschließlich der Bewertung
+der Ämter oder andere Mindest- oder Höchstbeträge vorsehen als
+Bundesgesetze nach Absatz 1.
+
+(4) Die Absätze 1 und 2 gelten entsprechend für die Besoldung und
+Versorgung der Landesrichter. Für Gesetze nach Artikel 98 Absatz 1
+gilt Absatz 3 entsprechend.
+
 ### Artikel 75
 
-(1) Der Bund hat das Recht, unter den Voraussetzungen des Artikels
-72 Rahmenvorschriften zu erlassen über:
+Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72
+Rahmenvorschriften zu erlassen über:
 
 1.  die Rechtsverhältnisse der im öffentlichen Dienste der Länder,
     Gemeinden und anderen Körperschaften des öffentlichen Rechtes
-    stehenden Personen; 1a. die allgemeinen Grundsätze des
-    Hochschulwesens;
+    stehenden Personen, soweit Artikel 74 a nichts anderes bestimmt;
+    1a. die allgemeinen Grundsätze des Hochschulwesens;
 2.  die allgemeinen Rechtsverhältnisse der Presse und des Films;
 3.  das Jagdwesen, den Naturschutz und die Landschaftspflege;
 4.  die Bodenverteilung, die Raumordnung und den Wasserhaushalt;
 5.  das Melde- und Ausweiswesen.
-
-(2) Rahmenvorschriften nach Absatz 1 Nr.1 können mit Zustimmung des
-Bundesrates auch einheitliche Maßstäbe für den Aufbau und die
-Bemessung der Besoldung einschließlich der Bewertung der Ämter
-sowie Mindest- und Höchstbeträge vorsehen. Der Zustimmung des
-Bundesrates bedürfen auch Gesetze nach Artikel 73 Nr.8, die von den
-nach Satz 1 getroffenen Regelungen abweichen.
-
-(3) Absatz 2 gilt für Rahmenvorschriften nach Artikel 98 Absatz 2
-und Gesetz nach Artikel 98 Absatz 1 entsprechend.
 
 ### Artikel 76
 
@@ -1826,7 +1837,7 @@ erkannt werden.
 
 (3) Die Rechtsstellung der Richter in den Ländern ist durch
 besondere Landesgesetze zu regeln. Der Bund kann Rahmenvorschriften
-erlassen.
+erlassen, soweit Artikel 74 a Absatz 4 nichts anderes bestimmt.
 
 (4) Die Länder können bestimmen, daß über die Anstellung der
 Richter in den Ländern der Landesjustizminister gemeinsam mit einem
