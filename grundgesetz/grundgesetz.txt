@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 18. 3. 1971 (BGBl. I S. 207)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 12. 4. 1972 (BGBl. I S. 593)
 
 
 
@@ -802,7 +802,7 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 8.	die Staatsangehörigkeit in den Ländern;
 9.	die Kriegsschäden und die Wiedergutmachung;
 10.	die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen und die Fürsorge für die ehemaligen Kriegsgefangenen;
-1Oa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft;
+lOa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft;
 11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);
 11a.	die Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen, und die Beseitigung radioaktiver Stoffe;
 12.	das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;
@@ -818,6 +818,7 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 21.	die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen;
 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren für die Benutzung öffentlicher Straßen mit Fahrzeugen;
 23.	die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen.
+24.	die Abfallbeseitigung, die Luftreinhaltung und die Lärmbekämpfung.
 
 
 

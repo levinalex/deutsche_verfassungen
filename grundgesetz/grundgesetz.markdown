@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 18. 3. 1971 (BGBl. I S. 207)
+vom 12. 4. 1972 (BGBl. I S. 593)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1188,7 +1188,7 @@ Gebiete:
 8.  die Staatsangehörigkeit in den Ländern;
 9.  die Kriegsschäden und die Wiedergutmachung;
 10. die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen
-    und die Fürsorge für die ehemaligen Kriegsgefangenen; 1Oa. die
+    und die Fürsorge für die ehemaligen Kriegsgefangenen; lOa. die
     Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von
     Gewaltherrschaft;
 11. das Recht der Wirtschaft (Bergbau, Industrie,
@@ -1236,6 +1236,8 @@ Gebiete:
     mit Fahrzeugen;
 23. die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit
     Ausnahme der Bergbahnen.
+24. die Abfallbeseitigung, die Luftreinhaltung und die
+    Lärmbekämpfung.
 
 ### Artikel 74 a
 
