@@ -1700,6 +1700,10 @@ Auftragsverwaltung übertragen werden.
 ### Artikel 88
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
+Ihre Aufgaben und Befugnisse können im Rahmen der Europäischen
+Union der Europäischen Zentralbank übertragen werden, die
+unabhängig ist und dem vorrangigen Ziel der Sicherung der
+Preisstabilität verpflichtet.
 
 ### Artikel 89
 
@@ -2489,13 +2493,13 @@ der Mehrheit seiner Mitglieder fest, daß dem rechtzeitigen
 Zusammentritt des Bundestages unüberwindliche Hindernisse
 entgegenstehen oder daß dieser nicht beschlußfähig ist, so hat der
 Gemeinsame Ausschuß die Stellung von Bundestag und Bundesrat und
-nimmt deren Rechte einheitlich wahr.
+nimmt deren Rechte einheitiich wahr.
 
 (2) Durch ein Gesetz des Gemeinsamen Ausschusses darf das
-Grundgesetz weder geändert nach ganz oder teilweise außer Kraft
-oder außer Anwendung gesetzt werden. Zum Erlaß von Gesetzen noch
-Artikel 24 Absatz 1 und Artikel 29 ist der Gemeinsame Ausschuß
-nicht befugt.
+Grundgesetz weder geändert noch ganz oder teilweise außer Kraft
+oder außer Anwendung gesetzt werden. Zum Erlaß von Gesetzen nach
+Artikel 23 Absatz 1 Satz 2, Artikel 24 Absatz 1 oder Artikel 29 ist
+der Gemeinsame Ausschuß nicht befugt.
 
 ### Artikel 115 f
 
