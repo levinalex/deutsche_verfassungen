@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 26. 3. 1998 (BGBl. I S. 610)
+vom 16. 7. 1998 (BGBl. I S. 1822)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -836,20 +836,21 @@ Volljährigkeit eintritt.
 
 ### Artikel 39
 
-(1) Der Bundestag wird auf vier Jahre gewählt. Seine Wahlperiode
-endet mit dem Zusammentritt eines neuen Bundestages. Die Neuwahl
-findet frühestens fünfundvierzig, spätestens siebenundvierzig
-Monate nach Beginn der Wahlperiode statt. Im Falle einer Auflösung
-des Bundestages findet die Neuwahl innerhalb von sechzig Tagen
-statt.
+(1) Der Bundestag wird vorbehaltlich der nachfolgenden Bestimmungen
+auf vier Jahre gewählt. Seine Wahlperiode endet mit dem
+Zusammentritt eines neuen Bundestages. Die Neuwahl findet
+frühestens sechsundvierzig, spätestens achtundvierzig Monate nach
+Beginn der Wahlperiode statt. Im Falle einer Auflösung des
+Bundestages findet die Neuwahl innerhalb von sechzig Tagen statt.
 
 (2) Der Bundestag tritt spätestens am dreißigsten Tage nach der
 Wahl zusammen.
 
 (3) Der Bundestag bestimmt den Schluß und den Wiederbeginn seiner
-Sitzungen Der Präsident des Bundestages kann ihn früher einberufer.
-Er ist hierzu verpflichtet, wenn ein Drittel der Mitglieder, der
-Bundespräsident oder der Bundeskanzler es verlangen.
+Sitzungen. Der Präsident des Bundestages kann ihn früher
+einberufen. Er ist hierzu verpflichtet, wenn ein Drittel der
+Mitglieder, der Bundespräsident oder der Bundeskanzler es
+verlangen.
 
 ### Artikel 40
 

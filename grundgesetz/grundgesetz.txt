@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 26. 3. 1998 (BGBl. I S. 610)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 16. 7. 1998 (BGBl. I S. 1822)
 
 
 
@@ -185,8 +185,8 @@ Artikel 13
 (7)	Eingriffe und Beschränkungen dürfen im übrigen nur zur Abwehr einer gemeinen Gefahr oder einer Lebensgefahr für einzelne Personen, auf Grund eines Gesetzes auch zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung, insbesondere zur Behebung der Raumnot, zur Bekämpfung von Seuchengefahr oder zum Schutze gefährdeter Jugendlicher vorgenommen werden.
 
 
-
 Artikel 14
+
 
 (1)	Das Eigentum und das Erbrecht werden gewährleistet Inhalt und Schranken werden durch die Gesetze bestimmt.
 
@@ -460,15 +460,15 @@ Artikel 38
 Artikel 39
 
 
-(1) Der Bundestag wird auf vier Jahre gewählt. Seine Wahlperiode endet mit dem Zusammentritt eines neuen Bundestages. Die Neuwahl findet frühestens fünfundvierzig, spätestens siebenundvierzig Monate nach Beginn der Wahlperiode statt. Im Falle einer Auflösung des Bundestages findet die Neuwahl innerhalb von sechzig Tagen statt.
+(1)	Der Bundestag wird vorbehaltlich der nachfolgenden Bestimmungen auf vier Jahre gewählt. Seine Wahlperiode endet mit dem Zusammentritt eines neuen Bundestages. Die Neuwahl findet frühestens sechsundvierzig, spätestens achtundvierzig Monate nach Beginn der Wahlperiode statt. Im Falle einer Auflösung des Bundestages findet die Neuwahl innerhalb von sechzig Tagen statt.
 
-(2) Der Bundestag tritt spätestens am dreißigsten Tage nach der Wahl zusammen.
+(2)	Der Bundestag tritt spätestens am dreißigsten Tage nach der Wahl zusammen.
 
-(3) Der Bundestag bestimmt den Schluß und den Wiederbeginn seiner Sitzungen Der Präsident des Bundestages kann ihn früher einberufer. Er ist hierzu verpflichtet, wenn ein Drittel der Mitglieder, der Bundespräsident oder der Bundeskanzler es verlangen.
+(3)	Der Bundestag bestimmt den Schluß und den Wiederbeginn seiner Sitzungen. Der Präsident des Bundestages kann ihn früher einberufen. Er ist hierzu verpflichtet, wenn ein Drittel der Mitglieder, der Bundespräsident oder der Bundeskanzler es verlangen.
+
 
 
 Artikel 40
-
 
 (1) Der Bundestag wählt seinen Präsidenten, dessen Stellvertreter und die Schriftführer. Er gibt sich eine Geschäftsordnung.
 
