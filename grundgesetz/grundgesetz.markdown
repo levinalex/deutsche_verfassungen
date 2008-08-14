@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 12. 5. 1969 (BGBl. I S. 363)
+vom 17. 7. 1969 (BGBl. I S. 817)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1260,8 +1260,8 @@ Stellungnahme des Bundesrates unverzüglich nach Eingang dem
 Bundestag nachzureichen.
 
 (3) Vorlagen des Bundesrates sind dem Bundestage durch die
-Bundesregierung zuzuleiten. Sie hat hierbei ihre Auffassung
-darzulegen.
+Bundesregierung innerhalb von drei Monaten zuzuleiten. Sie hat
+hierbei ihre Auffassung darzulegen.
 
 ### Artikel 77
 

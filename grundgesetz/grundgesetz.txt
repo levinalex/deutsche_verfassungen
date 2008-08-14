@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 12. 5. 1969 (BGBl. I S. 363)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 17. 7. 1969 (BGBl. I S. 817)
 
 
 
@@ -837,18 +837,18 @@ Artikel 75
 (3)	Absatz 2 gilt für Rahmenvorschriften nach Artikel 98 Absatz 2 und Gesetz nach Artikel 98 Absatz 1 entsprechend.
 
 
-
 Artikel 76
+
 
 (1) Gesetzesvorlagen werden beim Bundestage durch die Bundesregierung, aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.
 
 (2)	Vorlagen der Bundesregierung sind zunächst dem Bundesrate zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs Wochen zu diesen Vorlagen Stellung zu nehmen. Die Bundesregierung kann eine Vorlage, die sie bei der Zuleitung an den Bundesrat ausnahmsweise als besonders eilbedürftig bezeichnet hat, nach drei Wochen dem Bundestage zuleiten, auch wenn die Stellungnahme des Bundesrates noch nicht bei ihr eingegangen ist; sie hat die Stellungnahme des Bundesrates unverzüglich nach Eingang dem Bundestag nachzureichen.
 
-(3) Vorlagen des Bundesrates sind dem Bundestage durch die Bundesregierung zuzuleiten. Sie hat hierbei ihre Auffassung darzulegen.
+(3) Vorlagen des Bundesrates sind dem Bundestage durch die Bundesregierung innerhalb von drei Monaten zuzuleiten. Sie hat hierbei ihre Auffassung darzulegen.
+
 
 
 Artikel 77
-
 
 (1) Die Bundesgesetze werden vom Bundestage beschlossen. Sie sind nach ihrer Annahme durch den Präsidenten des Bundestages unverzüglich dem Bundesrate zuzuleiten.
 
@@ -1120,8 +1120,8 @@ Artikel 96
 (4) Der Bund kann für Personen, die zu ihm in einem öffentlich-rechtlichen Dienstverhältnis stehen, Bundesgerichte zur Entscheidung in Disziplinarverfahren und Beschwerdeverfahren errichten.
 
 
-
 Artikel 97
+
 
 (1) Die Richter sind unabhängig und nur dem Gesetze unterworfen.
 
