@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 18. 3. 1971 (BGBl. I S. 206)
+vom 18. 3. 1971 (BGBl. I S. 207)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1202,7 +1202,7 @@ Gebiete:
 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des
     Arbeitsschutzes und der Arbeitsvermittlung sowie die
     Sozialversicherung einschließlich der Arbeitslosenversicherung;
-13. die Regelung der Ausbildungsbeihilfen und die Förderung der
+13. die Regelung der Ausbildungsbeihilten und die Förderung der
     wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der
     Artikel 73 und 74 in Betracht kommt;
@@ -1223,10 +1223,10 @@ Gebiete:
     Arzneien, Heil- und Betäubungsmitteln und Giften; 19a. die
     wirtschaftliche Sicherung der Krankenhäuser und die Regelung der
     Krankenhauspflegesätze;
-20. den Schutz beim Verkehr mit Lebens- und Genußmitteln sowie
-    Bedarfsgegenständen, mit Futtermitteln, mit land- und
-    forstwirtschaftlichem Saat- und Pflanzgut und den Schutz der Bäume
-    und Pflanzen gegen Krankheiten und Schädlinge;
+20. den Schutz beim Verkehr mit Lebens- und Genußmitteln,
+    Bedarfsgegenständen, Futtermitteln und land- und
+    forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen
+    gegen Krankheiten und Schädlinge sowie den Tierschutz;
 21. die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die
     Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die
     dem allgemeinen Verkehr dienenden Binnenwasserstraßen;

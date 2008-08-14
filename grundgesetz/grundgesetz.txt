@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 18. 3. 1971 (BGBl. I S. 206)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 18. 3. 1971 (BGBl. I S. 207)
 
 
 
@@ -806,7 +806,7 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);
 11a.	die Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen, und die Beseitigung radioaktiver Stoffe;
 12.	das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;
-13.	die Regelung der Ausbildungsbeihilfen und die Förderung der wissenschaftlichen Forschung;
+13.	die Regelung der Ausbildungsbeihilten und die Förderung der wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt;
 15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
@@ -814,14 +814,14 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 18. den Grundstücksverkehr, das Bodenrecht und das landwirtschaftliche Pachtwesen, das Wohnungswesen, das Siedlungs- und Heimstättenwesen;
 19. die Maßnahmen gegen gemeingefährliche und übertragbare Krankheiten bei Menschen und Tieren, die Zulassung zu ärztlichen und anderen Heilberufen und zum Heilgewerbe, den Verkehr mit Arzneien, Heil- und Betäubungsmitteln und Giften;
 19a.	die wirtschaftliche Sicherung der Krankenhäuser und die Regelung der Krankenhauspflegesätze;
-20.	den Schutz beim Verkehr mit Lebens- und Genußmitteln sowie Bedarfsgegenständen, mit Futtermitteln, mit land- und forstwirtschaftlichem Saat- und Pflanzgut und den Schutz der Bäume und Pflanzen gegen Krankheiten und Schädlinge;
+20.	den Schutz beim Verkehr mit Lebens- und Genußmitteln, Bedarfsgegenständen, Futtermitteln und land- und forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen gegen Krankheiten und Schädlinge sowie den Tierschutz;
 21.	die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen;
 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren für die Benutzung öffentlicher Straßen mit Fahrzeugen;
 23.	die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen.
 
 
-Artikel 74 a
 
+Artikel 74 a
 
 (1) Die konkurrierende Gesetzgebung erstreckt sich ferner auf die Besoldung und Versorgung der Angehörigen des öffentlichen Dienstes, die in einem öffentlich-rechtlichen Dienst- und Treueverhältnis stehen, soweit dem Bund nicht nach Artikel 73 Nr.8 die ausschließliche Gesetzgebung zusteht.
 
@@ -845,8 +845,8 @@ Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72 Rahmenvorschri
 5.	das Melde- und Ausweiswesen.
 
 
-
 Artikel 76
+
 
 (1) Gesetzesvorlagen werden beim Bundestage durch die Bundesregierung, aus der Mitte des Bundestages oder durch den Bundesrat eingebracht.
 
@@ -1149,8 +1149,8 @@ Artikel 98
 (5)	Die Länder können für Landesrichter eine Absatz 2 entsprechende Regelung treffen. Geltendes Landesverfassungsrecht bleibt unberührt. Die Entscheidung über eine Richteranklage steht dem Bundesverfassungsgericht zu.
 
 
-
 Artikel 99
+
 
 Dem Bundesverfassungsgerichte kann durch Landesgesetz die Entscheidung von Verfassungsstreitigkeiten innerhalb eines Landes, den in Artikel 95 Absatz 1 genannten obersten Gerichtshöfen für den letzten Rechtszug die Entscheidung in solchen Sachen zugewiesen werden, bei denen es sich um die Anwendung von Landesrecht handelt.
 
