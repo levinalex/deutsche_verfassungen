@@ -2,9 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Einfügung eines Artikels über
-die Luftverkehrsverwaltung in das Grundgesetz vom 6. 2. 1961 (BGBl.
-I S. 65)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
+vom 6. 3. 1961 (BGBl. I S. 141)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1561,24 +1560,22 @@ Bundesjustizministers und der Landesjustizminister die für das
 jeweilige Sachgebiet zuständigen Minister treten. Ihre
 Dienstverhältnisse sind durch besonderes Bundesgesetz zu regeln.
 
-(3) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und
-Bundesrichter Bundesdienststrafgerichte sowie für
-Dienststrafverfahren gegen Soldaten und für Verfahren über
-Beschwerden von Soldaten Bundesdienstgerichte errichten.
-
 Artikel 96 a
 
-(1) Der Bund kann Wehrstrafgerichte für die Streitkräfte als
+(1) Der Bund kann für Angelegenheiten des gewerblichen
+Rechtsschutzes ein Bundesgericht errichten.
+
+(2) Der Bund kann Wehrstrafgerichte für die Streitkräfte als
 Bundesgerichte errichten. Sie können die Strafgerichtsbarkeit nur
 im Verteidigungsfalle sowie über Angehörige der Streitkräfte
 ausüben, die in das Ausland entsandt oder an Bord von
 Kriegsschiffen eingeschifft sind. Das Nähere regelt ein
-Bundesgesetz. (2) Die Wehrstrafgerichte gehören zum
-Geschäftsbereich des Bundesjustizministers. Ihre hauptamtlichen
-Richter müssen die Befähigung zum Richteramt haben.
+Bundesgesetz. Diese Gerichte gehören zum Geschäftsbereich des
+Bundesjustizministers. Ihre hauptamtlichen Richter müssen die
+Befähigung zum Richteramt haben.
 
-(3) Oberes Bundesgericht für die Wehrstrafgerichte ist der
-Bundesgerichtshof.
+(3) Oberes Bundesgericht für die im Absatz 1 und 2 genannten
+Gerichte ist der Bundesgerichtshof.
 
 (4) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und
 Bundesrichter Bundesdienststrafgerichte sowie für
