@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 3. 11. 1995 (BGBl. I S. 1492)
+vom 24. 10. 1997 (BGBl. I S. 2470)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -587,7 +587,9 @@ eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im
 Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der
 Gesetze das Recht der Selbstverwaltung. Die Gewährleistung der
 Selbstverwaltung umfaßt auch die Grundlagen der finanziellen
-Eigenverantwortung.
+Eigenverantwortung; zu diesen Grundlagen gehört eine den Gemeinden
+mit Hebesatzrecht zustehende wirtschaftskraftbezogene
+Steuerquelle.
 
 (3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der
 Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2
@@ -2266,11 +2268,12 @@ Steuern stehen dem Bund zu:
 (3) Das Aufkommen der Einkommensteuer, der Körperschaftsteuer und
 der Umsatzsteuer steht dem Bund und den Ländern gemeinsam zu
 (Gemeinschaftsteuern), soweit das Aufkommen der Einkommensteuer
-nicht nach Absatz 5 den Gemeinden zugewiesen wird. Am Aufkommen der
+nicht nach Absatz 5 und das Aufkommen der Umsatzsteuer nicht nach
+Absatz 5a den Gemeinden zugewiesen wird. Am Aufkommen der
 Einkommensteuer und der Körperschaftsteuer sind der Bund und die
 Länder je zur Hälfte beteiligt. Die Anteile von Bund und Ländern an
 der Umsatzsteuer werden durch Bundesgesetz, das der Zustimmung des
-Bundesrates bedarf, festgesetzt. Bei der Festsetzung ist von
+Bundesrates bedart festgesetzt. Bei der Festsetzung ist von
 folgenden Grundsätzen auszugehen:
 
 1.  Im Rahmen der laufenden Einnahmen haben der Bund und die Länder
@@ -2292,7 +2295,7 @@ Bundesgesetz nach Satz 3.
 (4) Die Anteile von Bund und Ländern an der Umsatzsteuer sind neu
 festzusetzen, wenn sich das Verhältnis zwischen den Einnahmen und
 Ausgaben des Bundes und der Länder wesentlich anders entwickelt;
-Steuermindereinnahmen, die nach Absatz 3 Satz 5 in die Festsetzung
+Steuerrrnndereinnahmen, die nach Absatz 3 Satz 5 in die Festsetzung
 der Umsatzsteueranteile zusätzlich einbezogen werden, bleiben
 hierbei unberücksichtigt. Werden den Ländern durch Bundesgesetz
 zusätzliche Ausgaben auferlegt oder Einnahmen entzogen, so kann die
@@ -2310,19 +2313,27 @@ weiterzuleiten ist. Das Nähere bestimmt ein Bundesgesetz, das der
 Zustimmung des Bundesrates bedarf. Es kann bestimmen, daß die
 Gemeinden Hebesätze für den Gemeindeanteil festsetzen.
 
-(6) Das Aufkommen der Realsteuern steht den Gemeinden, das
-Aufkommen der örtlichen Verbrauch- und Aufwandsteuern steht den
-Gemeinden oder nach Maßgabe der Landesgesetzgebung den
-Gemeindeverbänden zu. Den Gemeinden ist das Recht einzuräumen, die
-Hebesätze der Realsteuern im Rahmen der Gesetze festzusetzen.
-Bestehen in einem Land keine Gemeinden, so steht das Aufkommen der
-Realsteuern und der örtlichen Verbrauch- und Aufwandsteuern dem
-Land zu. Bund und Länder können durch eine Umlage an dem Aufkommen
-der Gewerbesteuer beteiligt werden. Das Nähere über die Umlage
-bestimmt ein Bundesgesetz. das der Zustimmung des Bundesrates
-bedarf. Nach Maßgabe der Landesgesetzgebung können die Realsteuern
-und der Gemeindeanteil vom Aufkommen der Einkommensteuer als
-Bemessungsgrundlage für Umlagen zugrunde gelegt werden.
+(5a) Die Gemeinden erhalten ab dem 1. Januar 1998 einen Anteil an
+dem Aufkommen der Umsatzsteuer. Er wird von den Ländern auf der
+Grundlage eines orts- und wirtschaftsbezogenen Schlüssels an ihre
+Gemeinden weitergeleitet. Das Nähere wird durch Bundesgesetz, das
+der Zustimmung des Bundesrates bedarf, bestimmt.
+
+(6) Das Aufkommen der Grundsteuer und Gewerbesteuer steht den
+Gemeinden, das Aufkommen der örtlichen Verbrauch- und
+Aufwandsteuern steht den Gemeinden oder nach Maßgabe der
+Landesgesetzgebung den Gemeindeverbänden zu. Den Gemeinden ist das
+Recht einzuräumen, die Hebesätze der Grundsteuer und Gewerbesteuer
+im Rahmen der Gesetze festzusetzen. Bestehen in einem Land keine
+Gemeinden, so steht das Aufkommen der Grundsteuer und Gewerbesteuer
+sowie der örtlichen Verbrauch- und Aufwandsteuern dem Land zu. Bund
+und Länder können durch eine Umlage an dem Aufkommen der
+Gewerbesteuer beteiligt werden. Das Nähere über die Umlage bestimmt
+ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Nach
+Maßgabe der Landesgesetzgebung können die Grundsteuer und
+Gewerbesteuer sowie der Gemeindeanteil vom Aufkommen der
+Einkommensteuer und der Umsatzsteuer als Bemessungsgrundlagen für
+Umlagen zugrunde gelegt werden.
 
 (7) Von dem Länderanteil am Gesamtaufkommen der Gemeinschaftsteuern
 fließt den Gemeinden und Gemeindeverbänden insgesamt ein von der
@@ -2343,7 +2354,7 @@ bei dem Ausgleich berücksichtigt.
 
 (9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels
 gelten auch die Einnahmen und Ausgaben der Gemeinden
-(Gemeindeverbände)
+(Gemeindeverbände).
 
 ### Artikel 106 a
 
