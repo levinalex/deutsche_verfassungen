@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Artikel 108) vom 26. 11. 2001 (BGBl. I S. 3219)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Staatsziel Umweltschutz) vom 26. 7. 2002 (BGBl. I S. 2862)
 
 
 
@@ -275,11 +275,11 @@ Artikel 20
 Artikel 20 a
 
 
-Der Staat schützt auch in Verantwortung für die künftigen Generationen die natürlichen Lebensgrundlagen im Rahmen der verfassungsmäßigen Ordnung durch die Gesetzgebung und nach Maßgabe von Gesetz und Recht durch die vollziehende Gewalt und die Rechtsprechung.
+Der Staat schützt auch in Verantwortung für die künftigen Generationen die natürlichen Lebensgrundlagen und die Tiere im Rahmen der verfassungsmäßigen Ordnung durch die Gesetzgebung und nach Maßgabe von Gesetz und Recht durch die vollziehende Gewalt und die Rechtsprechung.
+
 
 
 Artikel 21
-
 
 (1)	Die Parteien wirken bei der politischen Willensbildung des Volks mit. Ihre Gründung ist frei. Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen. Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.
 
@@ -1393,8 +1393,8 @@ Artikel 108
 (7)	Die Bundesregierung kann allgemeine Verwaltungsvorschriften erlassen, und zwar mit Zustimmung des Bundesrates, soweit die Verwaltung den Landesfinanzbehörden oder Gemeinden (Gemeindeverbänden) obliegt.
 
 
-
 Artikel 109
+
 
 (1) Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und voneinander unabhängig.
 

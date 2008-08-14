@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-(Artikel 108) vom 26. 11. 2001 (BGBl. I S. 3219)
+(Staatsziel Umweltschutz) vom 26. 7. 2002 (BGBl. I S. 2862)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -484,10 +484,10 @@ nicht möglich ist.
 ### Artikel 20 a
 
 Der Staat schützt auch in Verantwortung für die künftigen
-Generationen die natürlichen Lebensgrundlagen im Rahmen der
-verfassungsmäßigen Ordnung durch die Gesetzgebung und nach Maßgabe
-von Gesetz und Recht durch die vollziehende Gewalt und die
-Rechtsprechung.
+Generationen die natürlichen Lebensgrundlagen und die Tiere im
+Rahmen der verfassungsmäßigen Ordnung durch die Gesetzgebung und
+nach Maßgabe von Gesetz und Recht durch die vollziehende Gewalt und
+die Rechtsprechung.
 
 ### Artikel 21
 
