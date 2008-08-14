@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 30. 7. 1965 (BGBl. I S. 649)
+vom 8. 6. 1967 (BGBl. I S. 581)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1898,8 +1898,30 @@ soweit die Verwaltung den Landesfinanzbehörden obliegt.
 
 ### Artikel 109
 
-Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und
-voneinander unabhängig.
+(1) Bund und Länder sind in ihrer Haushaltswirtschaft selbständig
+und voneinander unabhängig.
+
+(2) Bund und Länder haben bei ihrer Haushaltswirtschaft den
+Erfordernissen des gesamtwirtschaftlichen Gleichgewichts Rechnung
+zu tragen.
+
+(3) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
+können Grundsätze für eine konjunkturgerechte Haushaltswirtschaft
+und für eine mehrjährige Finanzplanung aufgestellt werden.
+
+(4) Zur Abwehr einer Störung des gesamtwirtschaftlichen
+Gleichgewichts können durch Bundesgesetz, das der Zustimmung des
+Bundesrates bedarf, Vorschriften über
+
+1.  Höchstbeträge, Bedingungen und Zeitfolge der Aufnahme von
+    Krediten durch Gebietskörperschaften und Zweckverbände und
+2.  eine Verpflichtung von Bund und Ländern, unverzinsliche
+    Guthaben bei der Deutschen Bundesbank zu unterhalten
+    (Konjunkturausgleichsrücklagen), erlassen werden. Ermächtigungen
+    zum Erlaß von Rechtsverordnungen können nur der Bundesregierung
+    erteilt werden. Die Rechtsverordnungen bedürfen der Zustimmung des
+    Bundesrates. Sie sind aufzuheben, soweit der Bundestag es verlangt;
+    das Nähere bestimmt das Bundesgesetz.
 
 ### Artikel 110
 

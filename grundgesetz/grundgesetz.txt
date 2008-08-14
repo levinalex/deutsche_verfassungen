@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 30. 7. 1965 (BGBl. I S. 649)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 8. 6. 1967 (BGBl. I S. 581)
 
 
 
@@ -1220,7 +1220,18 @@ Artikel 108
 Artikel 109
 
 
-Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und voneinander unabhängig.
+(1) Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und voneinander unabhängig.
+
+(2) Bund und Länder haben bei ihrer Haushaltswirtschaft den Erfordernissen des gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen.
+
+(3) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, können Grundsätze für eine konjunkturgerechte Haushaltswirtschaft und für eine mehrjährige Finanzplanung aufgestellt werden.
+
+(4) Zur Abwehr einer Störung des gesamtwirtschaftlichen Gleichgewichts können durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, Vorschriften über
+
+1. Höchstbeträge, Bedingungen und Zeitfolge der Aufnahme von Krediten durch Gebietskörperschaften und Zweckverbände und
+2. eine Verpflichtung von Bund und Ländern, unverzinsliche Guthaben bei der Deutschen Bundesbank zu unterhalten (Konjunkturausgleichsrücklagen), erlassen werden. Ermächtigungen zum Erlaß von Rechtsverordnungen können nur der Bundesregierung erteilt werden. Die Rechtsverordnungen bedürfen der Zustimmung des Bundesrates. Sie sind aufzuheben, soweit der Bundestag es verlangt; das Nähere bestimmt das Bundesgesetz.
+
+
 
 Artikel 110
 
@@ -1312,8 +1323,8 @@ Artikel 120
 (2) Die Einnahmen gehen auf den Bund zu demselben Zeitpunkte über, an dem der Bund die Ausgaben übernimmt.
 
 
-
 Artikel 120 a
+
 
 (1) Die Gesetze, die der Durchführung des Lastenausgleichs dienen, können mit Zustimmung des Bundesrates bestimmen, daß sie auf dem Gebiete der Ausgleichsleistungen teils durch den Bund, teils im Auftrage des Bundes durch die Länder ausgeführt werden und daß die der Bundesregierung und den zuständigen obersten Bundesbehörden auf Grund des Artikels 85 insoweit zustehenden Befugnisse ganz oder teilweise dem Bundesausgleichsamt übertragen werden. Das Bundesausgleichsamt bedarf bei Ausübung dieser Befugnisse nicht der Zustimmung des Bundesrates; seine Weisungen sind, abgesehen von den Fällen der Dringlichkeit, an die obersten Landesbehörden (Landesausgleichsämter) zu richten.
 
