@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 28. 6. 1993 (BGBl. I S. 1002)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 20. 12. 1993 (BGBl. I S. 2089)
 
 
 
@@ -215,8 +215,8 @@ Artikel 16 a
 (5)	Die Absätze 1 bis 4 stehen völkerrechtlichen Verträgen von Mitgliedstaaten der Europäischen Gemeinschaften untereinander und mit dritten Staaten nicht entgegen, die unter Beachtung der Verpflichtungen aus dem Abkommen über die Rechtsstellung der Flüchtlinge und der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, deren Anwendung in den Vertragsstaaten sichergestellt sein muß, Zuständigkeitsregelungen für die Prüfüng von Asylbegehren einschließlich der gegenseitigen Anerkennung von Asylentscheidungen treffen.
 
 
-
 Artikel 17
+
 
 Jedermann hat das Recht, sich einzeln oder in Gemeinschaft mit anderen schriftlich mit Bitten oder Beschwerden an die zuständigen Stellen und an die Volksvertretung zu wenden.
 
@@ -235,8 +235,8 @@ Artikel 18
 Wer die Freiheit der Meinungsäußerung, insbesondere die Pressefreiheit (Artikel 5 Absatz 1), die Lehrfreiheit (Artikel 5 Absatz 3), die Versammlungsfreiheit (Artikel 8), die Vereinigungsfreiheit (Artikel 9), das Brief-, Post- und Fernmeldegeheimnis (Artikel 10), das Eigentum (Artikel 14) oder das Asylrecht (Artikel 16 a) zum Kampfe gegen die freiheitliche demokratische Grundordnung mißbraucht, verwirkt diese Grundrechte. Die Verwirkung und ihr Ausmaß werden durch das Bundesverfassungsgericht ausgesprochen.
 
 
-
 Artikel 19
+
 
 (1)	Soweit nach diesem Grundgesetz ein Grundrecht durch Gesetz oder auf Grund eines Gesetzes eingeschrdnkt werden kann, muß das Gesetz allgemein und nicht nur für den Einzelfall gelten. Außerdem muß das Gesetz das Grundrecht unter Angabe des Artikels nennen.
 
@@ -814,7 +814,8 @@ Der Bund hat die ausschließliche Gesetzgebung über:
 3.	die Freizügigkeit, das Paßwesen, die Ein- und Auswanderung und die Auslieferung;
 4.	das Währungs-, Geld- und Münzwesen, Maße und Gewichte sowie die Zeitbestimmung;
 5.	die Einheit des Zoll- und Handelsgebietes, die Handels- und Schiffahrtsverträge, die Freizügigkeit des Warenverkehrs und den Waren- und Zahlungsverkehr mit dem Auslande einschließlich des Zoll- und Grenzschutzes;
-6.	die Bundeseisenbahnen und den Luftverkehr;
+6.	den Luftverkehr;
+6a.	den Verkehr von Eisenbahnen, die ganz oder mehrheitlich im Eigentum des Bundes stehen (Eisenbahnen des Bundes), den Bau, die Unterhaltung und das Betreiben von Schienenwegen der Eisenbahnen des Bundes sowie die Erhebung von Entgelten für die Benutzung dieser Schienenwege;
 7.	das Post- und Fernmeldewesen;
 8.	die Rechtsverhältnisse der im Dienste des Bundes und der bundesunmittelbaren Körperschaften des öffentlichen Rechtes stehenden Personen;
 9.	den gewerblichen Rechtsschutz, das Urheberrecht und das Verlagsrecht;
@@ -822,7 +823,7 @@ Der Bund hat die ausschließliche Gesetzgebung über:
 a)	in der Kriminalpolizei,
 b)	zum Schutze der freiheitlichen demokratischen Grundordnung, des Bestandes und der Sicherheit des Bundes oder eines Landes (Verfassungsschutz) und
 c)	zum Schutze gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belange der Bundesrepublik Deutschland gefährden, sowie die Einrichtung eines Bundeskriminalpolizeiamtes und die internationale Verbrechensbekämpfung;
-11. die Statistik für Bundeszwecke.
+11.	die Statistik für Bundeszwecke.
 
 
 Artikel 74
@@ -847,7 +848,7 @@ lOa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von G
 12.	das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;
 13.	die Regelung der Ausbildungsbeihilten und die Förderung der wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der Artikel 73 und 74 in Betracht kommt;
-15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Farmen der Gemeinwirtschaft;
+15. die Überführung von Grund und Boden, von Naturschätzen und Produktionsmitteln in Gemeineigentum oder in andere Formen der Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung, die Sicherung der Ernährung, die Ein- und Ausfuhr land- und forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei und den Küstenschutz;
 18. den Grundstücksverkehr, das Bodenrecht und das landwirtschaftliche Pachtwesen, das Wohnungswesen, das Siedlungs- und Heimstättenwesen;
@@ -856,12 +857,12 @@ lOa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von G
 20.	den Schutz beim Verkehr mit Lebens- und Genußmitteln, Bedarfsgegenständen, Futtermitteln und land- und forstwirtschaftlichem Saat- und Pflanzgut, den Schutz der Pflanzen gegen Krankheiten und Schädlinge sowie den Tierschutz;
 21.	die Hochsee- und Küstenschiffahrt sowie die Seezeichen, die Binnenschiffahrt, den Wetterdienst, die Seewasserstraßen und die dem allgemeinen Verkehr dienenden Binnenwasserstraßen;
 22. den Straßenverkehr, das Kraftfahrwesen, den Bau und die Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung und Verteilung von Gebühren für die Benutzung öffentlicher Straßen mit Fahrzeugen;
-23.	die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit Ausnahme der Bergbahnen;
+23.	die Schienenbahnen, die nicht Eisenbahnen des Bundes sind, mit Ausnahme der Bergbahnen;
 24.	die Abfallbeseitigung, die Luftreinhaltung und die Lärmbekämpfung.
 
 
-Artikel 74 a
 
+Artikel 74 a
 
 (1) Die konkurrierende Gesetzgebung erstreckt sich ferner auf die Besoldung und Versorgung der Angehörigen des öffentlichen Dienstes, die in einem öffentlich-rechtlichen Dienst- und Treueverhältnis stehen, soweit dem Bund nicht nach Artikel 73 Nr.8 die ausschließliche Gesetzgebung zusteht.
 
@@ -928,11 +929,11 @@ Artikel 80
 
 (1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung.
 
-(2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen der Bundeseisenbahnen und des Post- und Fernmeldewesens, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden.
+(2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der Bundesregierung oder eines Bundesministers über Grundsätze und Gebühren für die Benutzung der Einrichtungen des Post- und Fernmeldewesens, über die Grundsätze der Erhebung des Entgelts für die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates bedürfen oder die von den Ländern im Auftrage des Bundes oder als eigene Angelegenheit ausgeführt werden.
+
 
 
 Artikel 80 a
-
 
 (1) Ist in diesem Grundgesetz oder in einem Bundesgesetz über die Verteidigung einschließlich des Schutzes der Zivilbevölkerung bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses Artikels angewandt werden dürfen, so ist die Anwendung außer im Verteidigungsfalle nur zulässig, wenn der Bundestag den Eintritt des Spannungsfalles festgestellt oder wenn er der Anwendung besonders zugestimmt hat. Die Feststellung des Spannungsfalles und die besondere Zustimmung in den Fällen des Artikels 12 a Absatz 5 Satz 1 und Absatz 6 Satz 2 bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.
 
@@ -1007,15 +1008,15 @@ Führt der Bund die Gesetze durch bundeseigene Verwaltung oder durch bundesunmit
 Artikel 87
 
 
-(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung, die Bundeseisenbahnen, die Bundespost und nach Maßgabe des Artikels 89 die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belange der Bundesrepublik Deutschland gefährden, eingerichtet werden.
+(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung, die Bundespost und nach Maßgabe des Artikels 89 die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belange der Bundesrepublik Deutschland gefährden, eingerichtet werden.
 
 (2) Als bundesunmittelbare Körperschaften des öffentlichen Rechtes werden diejenigen sozialen Versicherungsträger geführt, deren Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus erstreckt.
 
 (3) Außerdem können für Angelegenheiten, für die dem Bunde die Gesetzgebung zusteht, selbständige Bundesoberbehörden und neue bundesunmittelbare Körperschaften und Anstalten des öffentlichen Rechtes durch Bundesgesetz errichtet werden. Erwachsen dem Bunde auf Gebieten, für die ihm die Gesetzgebung zusteht, neue Aufgaben, so können bei dringendem Bedarf bundeseigene Mittel- und Unterbehörden mit Zustimmung des Bundesrates und der Mehrheit der Mitglieder des Bundestages errichtet werden.
 
 
-Artikel 87 a
 
+Artikel 87 a
 
 (1) Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich aus dem Haushaltsplan ergeben.
 
@@ -1048,8 +1049,22 @@ Artikel 87 d
 (2)	Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, können Aufgaben der Luftverkehrsverwaltung den Ländern als Auftragsverwaltung übertragen werden.
 
 
-Artikel 88
+Artikel 87 e
 
+
+(1)	Die Eisenbahnverkehrsverwaltung für Eisenbahnen des Bundes wird in bundeseigener Verwaltung geführt. Durch Bundesgesetz können Aufgaben der Eisenbahnverkehrsverwaltung den Ländern als eigene Angelegenheit übertragen werden.
+
+(2)	Der Bund nimmt die über den Bereich der Eisenbahnen des Bundes hinausgehenden Aufgaben der Eisenbahnverkehrsverwaltung wahr, die ihm durch Bundesgesetz übertragen werden.
+
+(3) Eisenbahnen des Bundes werden als Wirtschaftsunternehmen in privat-rechtlicher Form geführt. Diese stehen im Eigentum des Bundes, soweit die Tätigkeit des Wirtschaftsunternehmens den Bau, die Unterhaltung und das Betreiben von Schienenwegen umfaßt. Die Veräußerung von Anteilen des Bundes an den Unternehmen nach Satz 2 erfolgt auf Grund eines Gesetzes; die Mehrheit der Anteile an diesen Unternehmen verbleibt beim Bund. Das Nähere wird durch Bundesgesetz geregelt.
+
+(4) Der Bund gewährleistet, daß dem Wohl der Allgemeinheit, insbesondere den Verkehrsbedürfnissen, beim Ausbau und Erhalt des Schienennetzes der Eisenbahnen des Bundes sowie bei deren Verkehrsangeboten auf diesem Schienennetz, soweit diese nicht den Schienenpersonennahverkehr betreffen, Rechnung getragen wird. Das Nähere wird durch Bundesgesetz geregelt.
+
+(5) Gesetze auf Grund der Absätze 1 bis 4 bedürfen der Zustimmung des Bundesrates. Der Zustimmung des Bundesrates bedürfen ferner Gesetze, die die Auflösung, die Verschmelzung und die Aufspaltung von Eisenbahnunternehmen des Bundes, die Übertragung von Schienenwegen der Eisenbahnen des Bundes an Dritte sowie die Stillegung von Schienenwegen der Eisenbahnen des Bundes regeln oder Auswirkungen auf den Schienenpersonennahverkehr haben.
+
+
+
+Artikel 88
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank. Ihre Aufgaben und Befugnisse können im Rahmen der Europäischen Union der Europäischen Zentralbank übertragen werden, die unabhängig ist und dem vorrangigen Ziel der Sicherung der Preisstabilität verpflichtet.
 
@@ -1312,8 +1327,14 @@ Artikel 106
 (9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels gelten auch die Einnahmen und Ausgaben der Gemeinden (Gemeindeverbände).
 
 
-Artikel 107
+Artikel 106 a
 
+
+Den Ländern steht ab 1. Januar 1996 für den öffentlichen Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung der Finanzkraft nach Artikel 107 Absatz 2 unberücksichtigt.
+
+
+
+Artikel 107
 
 (1) Das Aufkommen der Landessteuern und der Länderanteil am Aufkommen der Einkommensteuer und der Körperschaftsteuer stehen den einzelnen Ländern insoweit zu, als die Steuern von den Finanzbehörden in ihrem Gebiet vereinnahmt werden (örtliches Aufkommen).
 
@@ -1774,8 +1795,18 @@ Artikel 143
 (3) Unabhängig von Absatz 1 und 2 haben Artikel 41 des Einigungsvertrags und Regelungen zu seiner Durchführung auch insoweit Bestand, als sie vorsehen, daß Eingriffe in das Eigentum auf dem in Artikel 3 dieses Vertrags genannten Gebiet nicht mehr rückgängig gemacht werden.
 
 
-Artikel 144
+Artikel 143 a
 
+
+(1) Der Bund hat die ausschließliche Gesetzgebung über alle Angelegenheiten, die sich aus der Umwandlung der in bundeseigener Verwaltung geführten Bundeseisenbahnen in Wirtschaftsunternehmen ergeben. Artikel 87 e Absatz 5 findet entsprecliende Anwendung. Beamte der Bundeseisenbahnen können durch Gesetz unter Wahrung ihrer Rechtsstellung und der Verantwortung des Dienstherrn einer privatrechtlich organisierten Eisenbahn des Bundes zur Dienstleistung zugewiesen werden.
+
+(2)	Gesetze nach Absatz 1 führt der Bund aus.
+
+(3)	Die Erfüllung der Aufgaben im Bereich des Schienenpersonennahverkehrs der bisherigen Bundeseisenbahnen ist bis zum 31. Dezember 1995 Sache des Bundes. Dies gilt auch für die entsprechenden Aufgaben der Eisenbahnverkehrsverwaltung. Das Nähere wird durch Bundesgesetz geregelt, das der Zustimmung des Bundesrates bedarf.
+
+
+
+Artikel 144
 
 (1) Dieses Grundgesetz bedarf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten soll.
 

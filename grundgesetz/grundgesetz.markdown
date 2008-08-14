@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 28. 6. 1993 (BGBl. I S. 1002)
+vom 20. 12. 1993 (BGBl. I S. 2089)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1273,7 +1273,11 @@ Der Bund hat die ausschließliche Gesetzgebung über:
     Schiffahrtsverträge, die Freizügigkeit des Warenverkehrs und den
     Waren- und Zahlungsverkehr mit dem Auslande einschließlich des
     Zoll- und Grenzschutzes;
-6.  die Bundeseisenbahnen und den Luftverkehr;
+6.  den Luftverkehr; 6a. den Verkehr von Eisenbahnen, die ganz oder
+    mehrheitlich im Eigentum des Bundes stehen (Eisenbahnen des
+    Bundes), den Bau, die Unterhaltung und das Betreiben von
+    Schienenwegen der Eisenbahnen des Bundes sowie die Erhebung von
+    Entgelten für die Benutzung dieser Schienenwege;
 7.  das Post- und Fernmeldewesen;
 8.  die Rechtsverhältnisse der im Dienste des Bundes und der
     bundesunmittelbaren Körperschaften des öffentlichen Rechtes
@@ -1329,7 +1333,7 @@ Gebiete:
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der
     Artikel 73 und 74 in Betracht kommt;
 15. die Überführung von Grund und Boden, von Naturschätzen und
-    Produktionsmitteln in Gemeineigentum oder in andere Farmen der
+    Produktionsmitteln in Gemeineigentum oder in andere Formen der
     Gemeinwirtschaft;
 16. die Verhütung des Mißbrauchs wirtschaftlicher Machtstellung;
 17. die Förderung der land- und forstwirtschaftlichen Erzeugung,
@@ -1356,7 +1360,7 @@ Gebiete:
     Unterhaltung von Landstraßen für den Fernverkehr sowie die Erhebung
     und Verteilung von Gebühren für die Benutzung öffentlicher Straßen
     mit Fahrzeugen;
-23. die Schienenbahnen, die nicht Bundeseisenbahnen sind, mit
+23. die Schienenbahnen, die nicht Eisenbahnen des Bundes sind, mit
     Ausnahme der Bergbahnen;
 24. die Abfallbeseitigung, die Luftreinhaltung und die
     Lärmbekämpfung.
@@ -1496,12 +1500,13 @@ Ermächtigung weiter übertragen werden kann, so bedarf es zur
 (2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich
 anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der
 Bundesregierung oder eines Bundesministers über Grundsätze und
-Gebühren für die Benutzung der Einrichtungen der Bundeseisenbahnen
-und des Post- und Fernmeldewesens, über den Bau und Betrieb der
-Eisenbahnen, sowie Rechtsverordnungen auf Grund von Bundesgesetzen,
-die der Zustimmung des Bundesrates bedürfen oder die von den
-Ländern im Auftrage des Bundes oder als eigene Angelegenheit
-ausgeführt werden.
+Gebühren für die Benutzung der Einrichtungen des Post- und
+Fernmeldewesens, über die Grundsätze der Erhebung des Entgelts für
+die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über
+den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf
+Grund von Bundesgesetzen, die der Zustimmung des Bundesrates
+bedürfen oder die von den Ländern im Auftrage des Bundes oder als
+eigene Angelegenheit ausgeführt werden.
 
 ### Artikel 80 a
 
@@ -1644,15 +1649,15 @@ Einrichtung der Behörden.
 
 (1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau
 werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung,
-die Bundeseisenbahnen, die Bundespost und nach Maßgabe des Artikels
-89 die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch
-Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für
-das polizeiliche Auskunfts- und Nachrichtenwesen, für die
-Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des
-Verfassungsschutzes und des Schutzes gegen Bestrebungen im
-Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete
-Vorbereitungshandlungen auswärtige Belange der Bundesrepublik
-Deutschland gefährden, eingerichtet werden.
+die Bundespost und nach Maßgabe des Artikels 89 die Verwaltung der
+Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können
+Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche
+Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur
+Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des
+Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung
+von Gewalt oder darauf gerichtete Vorbereitungshandlungen
+auswärtige Belange der Bundesrepublik Deutschland gefährden,
+eingerichtet werden.
 
 (2) Als bundesunmittelbare Körperschaften des öffentlichen Rechtes
 werden diejenigen sozialen Versicherungsträger geführt, deren
@@ -1738,6 +1743,41 @@ Organisationsform wird durch Bundesgesetz entschieden.
 (2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
 können Aufgaben der Luftverkehrsverwaltung den Ländern als
 Auftragsverwaltung übertragen werden.
+
+### Artikel 87 e
+
+(1) Die Eisenbahnverkehrsverwaltung für Eisenbahnen des Bundes wird
+in bundeseigener Verwaltung geführt. Durch Bundesgesetz können
+Aufgaben der Eisenbahnverkehrsverwaltung den Ländern als eigene
+Angelegenheit übertragen werden.
+
+(2) Der Bund nimmt die über den Bereich der Eisenbahnen des Bundes
+hinausgehenden Aufgaben der Eisenbahnverkehrsverwaltung wahr, die
+ihm durch Bundesgesetz übertragen werden.
+
+(3) Eisenbahnen des Bundes werden als Wirtschaftsunternehmen in
+privat-rechtlicher Form geführt. Diese stehen im Eigentum des
+Bundes, soweit die Tätigkeit des Wirtschaftsunternehmens den Bau,
+die Unterhaltung und das Betreiben von Schienenwegen umfaßt. Die
+Veräußerung von Anteilen des Bundes an den Unternehmen nach Satz 2
+erfolgt auf Grund eines Gesetzes; die Mehrheit der Anteile an
+diesen Unternehmen verbleibt beim Bund. Das Nähere wird durch
+Bundesgesetz geregelt.
+
+(4) Der Bund gewährleistet, daß dem Wohl der Allgemeinheit,
+insbesondere den Verkehrsbedürfnissen, beim Ausbau und Erhalt des
+Schienennetzes der Eisenbahnen des Bundes sowie bei deren
+Verkehrsangeboten auf diesem Schienennetz, soweit diese nicht den
+Schienenpersonennahverkehr betreffen, Rechnung getragen wird. Das
+Nähere wird durch Bundesgesetz geregelt.
+
+(5) Gesetze auf Grund der Absätze 1 bis 4 bedürfen der Zustimmung
+des Bundesrates. Der Zustimmung des Bundesrates bedürfen ferner
+Gesetze, die die Auflösung, die Verschmelzung und die Aufspaltung
+von Eisenbahnunternehmen des Bundes, die Übertragung von
+Schienenwegen der Eisenbahnen des Bundes an Dritte sowie die
+Stillegung von Schienenwegen der Eisenbahnen des Bundes regeln oder
+Auswirkungen auf den Schienenpersonennahverkehr haben.
 
 ### Artikel 88
 
@@ -2217,6 +2257,14 @@ bei dem Ausgleich berücksichtigt.
 (9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels
 gelten auch die Einnahmen und Ausgaben der Gemeinden
 (Gemeindeverbände).
+
+### Artikel 106 a
+
+Den Ländern steht ab 1. Januar 1996 für den öffentlichen
+Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes
+zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des
+Bundesrates bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung
+der Finanzkraft nach Artikel 107 Absatz 2 unberücksichtigt.
 
 ### Artikel 107
 
@@ -3061,6 +3109,26 @@ Einigungsvertrags und Regelungen zu seiner Durchführung auch
 insoweit Bestand, als sie vorsehen, daß Eingriffe in das Eigentum
 auf dem in Artikel 3 dieses Vertrags genannten Gebiet nicht mehr
 rückgängig gemacht werden.
+
+### Artikel 143 a
+
+(1) Der Bund hat die ausschließliche Gesetzgebung über alle
+Angelegenheiten, die sich aus der Umwandlung der in bundeseigener
+Verwaltung geführten Bundeseisenbahnen in Wirtschaftsunternehmen
+ergeben. Artikel 87 e Absatz 5 findet entsprecliende Anwendung.
+Beamte der Bundeseisenbahnen können durch Gesetz unter Wahrung
+ihrer Rechtsstellung und der Verantwortung des Dienstherrn einer
+privatrechtlich organisierten Eisenbahn des Bundes zur
+Dienstleistung zugewiesen werden.
+
+(2) Gesetze nach Absatz 1 führt der Bund aus.
+
+(3) Die Erfüllung der Aufgaben im Bereich des
+Schienenpersonennahverkehrs der bisherigen Bundeseisenbahnen ist
+bis zum 31. Dezember 1995 Sache des Bundes. Dies gilt auch für die
+entsprechenden Aufgaben der Eisenbahnverkehrsverwaltung. Das Nähere
+wird durch Bundesgesetz geregelt, das der Zustimmung des
+Bundesrates bedarf.
 
 ### Artikel 144
 
