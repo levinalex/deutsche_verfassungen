@@ -2,8 +2,9 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes
-vom 23. 12. 1959 (BGBl. I S. 813)
+Zuletzt geändert durch das Gesetz zur Einfügung eines Artikels über
+die Luftverkehrsverwaltung in das Grundgesetz vom 6. 2. 1961 (BGBl.
+I S. 65)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1424,6 +1425,15 @@ Absatz 2 Satz 1 nicht der Zustimmung des Bundesrates bedürfen.
 Gesetze, die auf Grund des Artikels 74 Nr. 11a ergehen, können mit
 Zustimmung des Bundesrates bestimmen, daß sie von den Ländern im
 Auftrage des Bundes ausgeführt werden.
+
+### Artikel 87 d
+
+(1) Die Luftverkehrsverwaltung wird in bundeseigener Verwaltung
+geführt.
+
+(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
+können Aufgaben der Luftverkehrsverwaltung den Ländern als
+Auftragsverwaltung überwiesen werden.
 
 ### Artikel 88
 
