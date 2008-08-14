@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 30. 8. 1994 (BGBl. I S. 2245)
+vom 27. 10. 1994 (BGBl. I S. 3146)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -60,14 +60,17 @@ auf Grund eines Gesetzes eingegriffen werden.
 
 ### Artikel 3
 
-(1) Alle Menschen sind vor dem Gesetze gleich.
+(1) Alle Menschen sind vor dem Gesetz gleich.
 
-(2) Männer und Frauen sind gleichberechtigt.
+(2) Männer und Frauen sind gleichberechtigt. Der Staat fördert die
+tatsächliche Durchsetzung der Gleichberechtigung von Frauen und
+Männern und wirkt auf die Beseitigung bestehender Nachteile hin.
 
 (3) Niemand darf wegen seines Geschlechtes, seiner Abstammung,
 seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines
 Glaubens, seiner religiösen oder politischen Anschauungen
-benachteiligt oder bevorzugt werden.
+benachteiligt oder bevorzugt werden. Niemand darf wegen seiner
+Behinderung benachteiligt werden.
 
 ### Artikel 4
 
@@ -438,6 +441,14 @@ gebunden.
 haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe
 nicht möglich ist.
 
+### Artikel 20 a
+
+Der Staat schützt auch in Verantwortung für die künftigen
+Generationen die natürlichen Lebensgrundlagen im Rahmen der
+verfassungsmäßigen Ordnung durch die Gesetzgebung und nach Maßgabe
+von Gesetz und Recht durch die vollziehende Gewalt und die
+Rechtsprechung.
+
 ### Artikel 21
 
 (1) Die Parteien wirken bei der politischen Willensbildung des
@@ -574,7 +585,9 @@ Gemeindeversammlung treten.
 Angelegenheiten der örtlichen Gemeinschaft im Rahmen der Gesetze in
 eigener Verantwortung zu regeln. Auch die Gemeindeverbände haben im
 Rahmen ihres gesetzlichen Aufgabenbereiches nach Maßgabe der
-Gesetze das Recht der Selbstverwaltung.
+Gesetze das Recht der Selbstverwaltung. Die Gewährleistung der
+Selbstverwaltung umfaßt auch die Grundlagen der finanziellen
+Eigenverantwortung.
 
 (3) Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der
 Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2
@@ -603,13 +616,13 @@ Volksentscheid für die Bildung eines neuen oder neu umgrenzten
 Landes kommt zustande, wenn in dessen künftigem Gebiet und
 insgesamt in den Gebieten oder Gebietsteilen eines betroffenen
 Landes, deren Landeszugehörigkeit im gleichen Sinne geändert werden
-soll, jeweils eine Mehrheit der Änderung zustimmt. Er kommt nicht
+soll, jeweils eine Mehrheit der Anderung zustimmt. Er kommt nicht
 zustande, wenn im Gebiet eines der betroffenen Länder eine Mehrheit
 die Änderung ablehnt; die Ablehnung ist jedoch unbeachtlich, wenn
-in einem Gebietsteil, dessen Zugehörigkeit zu dem betroffenen Land
-geändert werden soll, eine Mehrheit von zwei Dritteln der Änderung
+in einem Gebietsteil dessen Zugehörigkeit zu dem betroffenen Land
+geändert werden soll, eine Mehrheit von zwei Dritteln der Anderung
 zustimmt, es sei denn, daß im Gesamtgebiet des betroffenen Landes
-eine Mehrheit von zwei Dritteln die Änderung ablehnt.
+eine Mehrheit von zwei Dritteln die Anderung ablehnt.
 
 (4) Wird in einem zusammenhängenden, abgegrenzten Siedlungs- und
 Wirtschaftsraum, dessen Teile in mehreren Ländern liegen und der
@@ -622,10 +635,10 @@ wird, oder daß in den betroffenen Ländern eine Volksbefragung
 stattfindet.
 
 (5) Die Volksbefragung ist darauf gerichtet festzustellen, ob eine
-in dem Gesetz vorzuschlagende Änderung der Landeszugehörigkeit
+in dem Gesetz vorzuschlagende Anderung der Landeszugehörigkeit
 Zustimmung findet. Das Gesetz kann verschiedene, jedoch nicht mehr
 als zwei Vorschläge der Volksbefragung vorlegen. Stimmt eine
-Mehrheit einer vorgeschlagenen Änderung der Landeszugehörigkeit zu,
+Mehrheit einer vorgeschlagenen Anderung der Landeszugehörigkeit zu,
 so ist durch Bundesgesetz innerhalb von zwei Jahren zu bestimmen,
 ob die Landeszugehörigkeit gemäß Absatz 2 geändert wird. Findet ein
 der Volksbefragung vorgelegter Vorschlag eine den Maßgaben des
@@ -645,11 +658,24 @@ wiederholt werden können.
 (7) Sonstige Änderungen des Gebietsbestandes der Länder können
 durch Staatsverträge der beteiligten Länder oder durch Bundesgesetz
 mit Zustimmung des Bundesrates erfolgen, wenn das Gebiet, dessen
-Landeszugehörigkeit geändert werden soll, nicht mehr als 10000
+Landeszugehörigkeit geändert werden soll, nicht mehr als 50000
 Einwohner hat. Das Nähere regelt ein Bundesgesetz, das der
 Zustimmung des Bundesrates und der Mehrheit der Mitglieder des
 Bundestages bedarf. Es muß die Anhörung der betroffenen Gemeinden
 und Kreise vorsehen.
+
+(8) Die Länder können eine Neugliederung für das jeweils von ihnen
+umfaßte Gebiet oder für Teilgebiete abweichend von den Vorschriften
+der Absätze 2 bis 7 durch Staatsvertrag regeln. Die betroffenen
+Gemeinden und Kreise sind zu hören. Der Staatsvertrag bedarf der
+Bestätigung durch Volksentscheid in jedem beteiligten Land.
+Betrifft der Staatsvertrag Teilgebiete der Länder, kann die
+Bestätigung auf Volksentscheide in diesen Teilgebieten beschränkt
+werden; Satz 5 zweiter Halbsatz findet keine Anwendung. Bei einem
+Volksentscheid entscheidet die Mehrheit der abgegebenen Stirnmen,
+wenn sie mindestens ein Viertel der zum Bundestag Wahlberechtigten
+umfaßt; das Nähere regelt ein Bundesgesetz. Der Staatsvertrag
+bedarf der Zustimmung des Bundestages.
 
 ### Artikel 30
 
@@ -1242,21 +1268,21 @@ hierzu in einem Bundesgesetz ausdrücklich ermächtigt werden.
 
 ### Artikel 72
 
-(1) Im Bereiche der konkurrierenden Gesetzgebung haben die Länder
+(1) Im Bereich der konkurrierenden Gesetzgebung haben die Länder
 die Befugnis zur Gesetzgebung, solange und soweit der Bund von
-seinem Gesetzgebungsrechte keinen Gebrauch macht.
+seiner Gesetzgebungszuständigkeit nicht durch Gesetz Gebrauch
+gemacht hat.
 
-(2) Der Bund hat in diesem Bereich das Gesetzgebungsrecht, soweit
-ein Bedürfnis nach bundesgesetzlicher Regelung besteht, weil
+(2) Der Bund hat in diesem Bereich das Gesetzgebungsrecht, wenn und
+soweit die Herstellung gleichwertiger Lebensverhältnisse im
+Bundesgebiet oder die Wahrung der Rechts- oder Wirtschaftseinheit
+im gesamtstaatlichen Interesse eine bundesgesetzliche Regelung
+erforderlich macht.
 
-1.  eine Angelegenheit durch die Gesetzgebung einzelner Länder
-    nicht wirksam geregelt werden kann oder
-2.  die Regelung einer Angelegenheit durch ein Landesgesetz die
-    Interessen anderer Länder oder der Gesamtheit beeinträchtigen
-    könnte oder
-3.  die Wahrung der Rechts- und Wirtschaftseinheit, insbesondere
-    die Wahrung der Einheitlichkeit der Lebensverhältnisse über das
-    Gebiet eines Landes hinaus sie erfordert.
+(3) Durch Bundesgesetz kann bestimmt werden, daß eine
+bundesgesetzliche Regelung, für die eine Erforderlichkeit im Sinne
+des Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden
+kann.
 
 ### Artikel 73
 
@@ -1297,7 +1323,7 @@ Der Bund hat die ausschließliche Gesetzgebung über:
 
 ### Artikel 74
 
-Die konkurrierende Gesetzgebung erstreckt sich auf folgende
+(1) Die konkurrierende Gesetzgebung erstreckt sich auf folgende
 Gebiete:
 
 1.  das bürgerliche Recht, das Strafrecht und den Strafvollzug, die
@@ -1305,30 +1331,29 @@ Gebiete:
     Rechtsanwaltschaft, das Notariat und die Rechtsberatung;
 2.  das Personenstandswesen;
 3.  das Vereins- und Versammlungsrecht;
-4.  das Aufenthalts- und Niederlassungsrecht der Ausländer; 4a. das
-    Waffen- und das Sprengstoffrecht;
-5.  den Schutz deutschen Kulturgutes gegen Abwanderung in das
-    Ausland;
+4.  das Aufenthalts- und Niederlassungsrecht der Ausländer; 4 a.
+    das Waffen- und Sprengstoffrecht;
+5.  [aufgehoben]
 6.  die Angelegenheiten der Flüchtlinge und Vertriebenen;
 7.  die öffentliche Fürsorge;
-8.  die Staatsangehörigkeit in den Ländern;
+8.  [aufgehoben]
 9.  die Kriegsschäden und die Wiedergutmachung;
 10. die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen
-    und die Fürsorge für die ehemaligen Kriegsgefangenen; lOa. die
-    Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von
+    und die Fürsorge für die ehemaligen Kriegsgefangenen; 10a. die
+    Kriegsgräber und Gräber anderer Opfer des Krieges und Opfer von
     Gewaltherrschaft;
 11. das Recht der Wirtschaft (Bergbau, Industrie,
     Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und
-    Börsenwesen, privatrechtliches Versicherungswesen); 11a. die
+    Börsenwesen, privatrechtliches Versicherungswesen); 11 a. die
     Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die
     Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen,
     den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder
     durch ionisierende Strahlen entstehen, und die Beseitigung
     radioaktiver Stoffe;
 12. das Arbeitsrecht einschließlich der Betriebsverfassung, des
-    Arbeitsschutzes und der Arbeitsvermittlung sowie die
+    Arbeitsschutzes und der Arbeitsverrnittlung sowie die
     Sozialversicherung einschließlich der Arbeitslosenversicherung;
-13. die Regelung der Ausbildungsbeihilten und die Förderung der
+13. die Regelung der Ausbildungsbeihilfen und die Förderung der
     wissenschaftlichen Forschung;
 14. das Recht der Enteignung, soweit sie auf den Sachgebieten der
     Artikel 73 und 74 in Betracht kommt;
@@ -1340,13 +1365,13 @@ Gebiete:
     die Sicherung der Ernährung, die Ein- und Ausfuhr land- und
     forstwirtschaftlicher Erzeugnisse, die Hochsee- und Küstenfischerei
     und den Küstenschutz;
-18. den Grundstücksverkehr, das Bodenrecht und das
-    landwirtschaftliche Pachtwesen, das Wohnungswesen, das Siedlungs-
-    und Heimstättenwesen;
+18. den Grundstücksverkehr, das Bodenrecht (ohne das Recht der
+    Erschließungsbeiträge) und das landwirtschaftliche Pachtwesen, das
+    Wohnungswesen, das Siedlungs- und Heimstättenwesen;
 19. die Maßnahmen gegen gemeingefährliche und übertragbare
     Krankheiten bei Menschen und Tieren, die Zulassung zu ärztlichen
     und anderen Heilberufen und zum Heilgewerbe, den Verkehr mit
-    Arzneien, Heil- und Betäubungsmitteln und Giften; 19a. die
+    Arzneien, Heil- und Betäubungsmitteln und Giften; 19 a. die
     wirtschaftliche Sicherung der Krankenhäuser und die Regelung der
     Krankenhauspflegesätze;
 20. den Schutz beim Verkehr mit Lebens- und Genußmitteln,
@@ -1363,42 +1388,38 @@ Gebiete:
 23. die Schienenbahnen, die nicht Eisenbahnen des Bundes sind, mit
     Ausnahme der Bergbahnen;
 24. die Abfallbeseitigung, die Luftreinhaltung und die
-    Lärmbekämpfung.
+    Lärmbekämpfung;
+25. die Staatshaftung;
+26. die künstliche Befruchtung beim Menschen, die Untersuchung und
+    die künstliche Veränderung von Erbinformationen sowie Regelungen
+    zur Transplantation von Organen und Geweben.
 
-### Artikel 74 a
-
-(1) Die konkurrierende Gesetzgebung erstreckt sich ferner auf die
-Besoldung und Versorgung der Angehörigen des öffentlichen Dienstes,
-die in einem öffentlich-rechtlichen Dienst- und Treueverhältnis
-stehen, soweit dem Bund nicht nach Artikel 73 Nr.8 die
-ausschließliche Gesetzgebung zusteht.
-
-(2) Bundesgesetze nach Absatz 1 bedürfen der Zustimmung des
+(2) Gesetze nach Absatz 1 Nr. 25 bedürfen der Zustimmung des
 Bundesrates.
-
-(3) Der Zustimmung des Bundesrates bedürfen auch Bundesgesetze nach
-Artikel 73 Nr.8, soweit sie andere Maßstäbe für den Aufbau oder die
-Bemessung der Besoldung und Versorgung einschließlich der Bewertung
-der Ämter oder andere Mindest- oder Höchstbeträge vorsehen als
-Bundesgesetze nach Absatz 1.
-
-(4) Die Absätze 1 und 2 gelten entsprechend für die Besoldung und
-Versorgung der Landesrichter. Für Gesetze nach Artikel 98 Absatz 1
-gilt Absatz 3 entsprechend.
 
 ### Artikel 75
 
-Der Bund hat das Recht, unter den Voraussetzungen des Artikels 72
-Rahmenvorschriften zu erlassen über:
+(1) Der Bund hat das Recht, unter den Voraussetzungen des Artikels
+72 Rahmenvorschriften für die Gesetzgebung der Länder zu erlassen
+über:
 
 1.  die Rechtsverhältnisse der im öffentlichen Dienste der Länder,
     Gemeinden und anderen Körperschaften des öffentlichen Rechtes
     stehenden Personen, soweit Artikel 74 a nichts anderes bestimmt;
     1a. die allgemeinen Grundsätze des Hochschulwesens;
-2.  die allgemeinen Rechtsverhältnisse der Presse und des Films;
+2.  die allgemeinen Rechtsverhältnisse der Presse;
 3.  das Jagdwesen, den Naturschutz und die Landschaftspflege;
 4.  die Bodenverteilung, die Raumordnung und den Wasserhaushalt;
-5.  das Melde- und Ausweiswesen.
+5.  das Melde- und Ausweiswesen;
+6.  den Schutz deutschen Kulturgutes gegen Abwanderung ins Ausland.
+    Artikel 72 Absatz 3 gilt entsprechend.
+
+(2) Rahmenvorschriften dürfen nur in Ausnahmefällen in Einzelheiten
+gehende oder unmittelbar geltende Regelungen enthalten.
+
+(3) Erläßt der Bund Rahmenvorschriften, so sind die Länder
+verpflichtet, innerhalb einer durch das Gesetz bestimmten
+angemessenen Frist die erforderlichen Landesgesetze zu erlassen.
 
 ### Artikel 76
 
@@ -1406,19 +1427,35 @@ Rahmenvorschriften zu erlassen über:
 Bundesregierung, aus der Mitte des Bundestages oder durch den
 Bundesrat eingebracht.
 
-(2) Vorlagen der Bundesregierung sind zunächst dem Bundesrate
+(2) Vorlagen der Bundesregierung sind zunächst dem Bundesrat
 zuzuleiten. Der Bundesrat ist berechtigt, innerhalb von sechs
-Wochen zu diesen Vorlagen Stellung zu nehmen. Die Bundesregierung
-kann eine Vorlage, die sie bei der Zuleitung an den Bundesrat
-ausnahmsweise als besonders eilbedürftig bezeichnet hat, nach drei
-Wochen dem Bundestage zuleiten, auch wenn die Stellungnahme des
-Bundesrates noch nicht bei ihr eingegangen ist; sie hat die
-Stellungnahme des Bundesrates unverzüglich nach Eingang dem
-Bundestag nachzureichen.
+Wochen zu diesen Vorlagen Stellung zu nehmen. Verlangt er aus
+wichtigem Grunde, insbesondere mit Rücksicht auf den Umfang einer
+Vorlage, eine Fristverlängerung, so beträgt die Frist neun Wochen.
+Die Bundesregierung kann eine Vorlage, die sie bei der Zuleitung an
+den Bundesrat ausnahmsweise als besonders eilbedürftig bezeichnet
+hat, nach drei Wochen oder, wenn der Bundesrat ein Verlangen nach
+Satz 3 geäußert hat, nach sechs Wochen dem Bundestag zuleiten, auch
+wenn die Stellungnahme des Bundesrates noch nicht bei ihr
+eingegangen ist; sie hat die Stellungnahme des Bundesrates
+unverzüglich nach Eingang dem Bundestag nachzureichen. Bei Vorlagen
+zur Änderung dieses Grundgesetzes und zur Übertragung von
+Hoheitsrechten nach Artikel 23 oder Artikel 24 beträgt die Frist
+zur Stellungnahme neun Wochen; Satz 4 findet keine Anwendung.
 
-(3) Vorlagen des Bundesrates sind dem Bundestage durch die
-Bundesregierung innerhalb von drei Monaten zuzuleiten. Sie hat
-hierbei ihre Auffassung darzulegen.
+(3) Vorlagen des Bundesrates sind dem Bundestag durch die
+Bundesregierung innerhalb von sechs Wochen zuzuleiten. Sie soll
+hierbei ihre Auffassung darlegen. Verlangt sie aus wichtigem
+Grunde, insbesondere mit Rücksicht auf den Umfang einer Vorlage,
+eine Fristverlängerung, so beträgt die Frist neun Wochen. Wenn der
+Bundesrat eine Vorlage ausnahmsweise als besonders eilbedürftig
+bezeichnet hat, beträgt die Frist drei Wochen oder, wenn die
+Bundesregierung ein Verlangen nach Satz 3 geäußert hat, sechs
+Wochen. Bei Vorlagen zur Anderung dieses Grundgesetzes und zur
+Übertragung von Hoheitsrechten nach Artikel 23 oder Artikel 24
+beträgt die Frist neun Wochen; Satz 4 findet keine Anwendung. Der
+Bundestag hat über die Vorlagen in angemessener Frist zu beraten
+und Beschluß zu fassen.
 
 ### Artikel 77
 
@@ -1427,7 +1464,7 @@ nach ihrer Annahme durch den Präsidenten des Bundestages
 unverzüglich dem Bundesrate zuzuleiten.
 
 (2) Der Bundesrat kann binnen drei Wochen nach Eingang des
-Gesetzbeschlusses verlangen, daß ein aus Mitgliedern des
+Gesetzesbeschlusses verlangen, daß ein aus Mitgliedern des
 Bundestages und des Bundesrates für die gemeinsame Beratung von
 Vorlagen gebildeter Ausschuß einberufen wird. Die Zusammensetzung
 und das Verfahren dieses Ausschusses regelt eine Geschäftsordnung,
@@ -1439,10 +1476,16 @@ der Bundestag und die Bundesregierung die Einberufung verlangen.
 Schlägt der Ausschuß eine Änderung des Gesetzesbeschlusses vor, so
 hat der Bundestag erneut Beschluß zu fassen.
 
+(2a) Soweit zu einem Gesetz die Zustimmung des Bundesrates
+erforderlich ist, hat der Bundesrat, wenn ein Verlangen nach Absatz
+2 Satz 1 nicht gestellt oder das Vermittlungsverfahren ohne einen
+Vorschlag zur Änderung des Gesetzesbeschlusses beendet ist, in
+angemessener Frist über die Zustimmung Beschluß zu fassen.
+
 (3) Soweit zu einem Gesetze die Zustimmung des Bundesrates nicht
 erforderlich ist, kann der Bundesrat, wenn das Verfahren nach
 Absatz 2 beendigt ist, gegen ein vom Bundestage beschlossenes
-Gesetz binnen zwei Wochen Einspruch einlegen. Die Einspruchsfrist
+Gesetz binnen zwei Wochen Einspruch einlegen. Die Einspruchsifist
 beginnt im Falle des Absatzes 2 letzter Satz mit dem Eingange des
 vom Bundestage erneut gefaßten Beschlusses, in allen anderen Fällen
 mit dem Eingange der Mitteilung des Vorsitzenden des in Absatz 2
@@ -1454,7 +1497,7 @@ beschlossen, so kann er durch Beschluß der Mehrheit der Mitglieder
 des Bundestages zurückgewiesen werden. Hat der Bundesrat den
 Einspruch mit einer Mehrheit von mindestens zwei Dritteln seiner
 Stimmen beschlossen, so bedarf die Zurückweisung durch den
-Bundestag einer Mehrheit van zwei Dritteln, mindestens der Mehrheit
+Bundestag einer Mehrheit von zwei Dritteln, mindestens der Mehrheit
 der Mitglieder des Bundestages.
 
 ### Artikel 78
@@ -1491,8 +1534,8 @@ Grundsätze berührt werden, ist unzulässig.
 
 (1) Durch Gesetz können die Bundesregierung, ein Bundesminister
 oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu
-erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten
-Ermächtigung im Gesetz bestimmt werden. Die Rechtsgrundlage ist in
+erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteflten
+Ermächtigung im Gesetze bestimmt werden. Die Rechtsgrundlage ist in
 der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine
 Ermächtigung weiter übertragen werden kann, so bedarf es zur
 Übertragung der Ermächtigung einer Rechtsverordnung.
@@ -1507,6 +1550,14 @@ für die Benutzung der Einrichtungen der Eisenbahnen des Bundes,
 auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates
 bedürfen oder die von den Ländern im Auftrage des Bundes oder als
 eigene Angelegenheit ausgeführt werden.
+
+(3) Der Bundesrat kann der Bundesregierung Vorlagen für den Erlaß
+von Rechtsverordnungen zuleiten, die seiner Zustimmung bedürfen.
+
+(4) Soweit durch Bundesgesetz oder auf Grund von Bundesgesetzen
+Landesregierungen ermächtigt werden, Rechtsverordnungen zu
+erlassen, sind die Länder zu einer Regelung auch durch Gesetz
+befugt.
 
 ### Artikel 80 a
 
@@ -1662,7 +1713,12 @@ eingerichtet werden.
 (2) Als bundesunmittelbare Körperschaften des öffentlichen Rechtes
 werden diejenigen sozialen Versicherungsträger geführt, deren
 Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus
-erstreckt.
+erstreckt. Soziale Versicherungsträger, deren Zuständigkeitsbereich
+sich über das Gebiet eines Landes, aber nicht über mehr als drei
+Länder hinaus erstreckt, werden abweichend von Satz 1 als
+landesunmittelbare Körperschaften des öffentlichen Rechtes geführt,
+wenn das aufsichtsführende Land durch die beteiligten Länder
+bestimmt ist.
 
 (3) Außerdem können für Angelegenheiten, für die dem Bunde die
 Gesetzgebung zusteht, selbständige Bundesoberbehörden und neue
@@ -1909,32 +1965,34 @@ Länder ausgeübt.
 
 (1) Das Bundesverfassungsgericht entscheidet:
 
-1.  über die Auslegung dieses Grundgesetzes aus Anlaß von
-    Streitigkeiten über den Umfang der Rechte und Pflichten eines
-    obersten Bundesorgans oder anderer Beteiligter, die durch dieses
-    Grundgesetz oder in der Geschäftsordnung eines obersten
-    Bundesorgans mit eigenen Rechten ausgestattet sind;
-2.  bei Meinungsverschiedenheiten oder Zweifeln über die förmliche
-    und sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit
-    diesem Grundgesetze oder die Vereinbarkeit von Landesrecht mit
-    sonstigem Bundesrechte auf Antrag der Bundesregierung, einer
-    Landesregierung oder eines Drittels der Mitglieder des Bundestages;
-3.  bei Meinungsverschiedenheiten über Rechte und Pflichten des
-    Bundes und der Länder, insbesondere bei der Ausführung von
-    Bundesrecht durch die Länder und bei der Ausübung der
-    Bundesaufsicht;
-4.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem
-    Bunde und den Ländern, zwischen verschiedenen Ländern oder
-    innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben
-    ist; 4a. über Verfassungsbeschwerden, die von jedermann mit der
-    Behauptung erhoben werden können, durch die öffentliche Gewalt in
-    einem seiner Grundrechte oder in einem seiner in Artikel 20 Absatz
-    4, 33, 38, 101, 103 und 104 enthaltenen Rechte verletzt zu sein;
-    4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden
-    wegen Verletzung des Rechts auf Selbstverwaltung nach Artikel 28
-    durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht
-    Beschwerde beim Landesverfassungsgericht erhoben werden kann;
-5.  in den übrigen in diesem Grundgesetze vorgesehenen Fällen.
+1.über die Auslegung dieses Grundgesetzes aus Anlaß von
+Streitigkeiten über den Umfang der Rechte und Pflichten eines
+obersten Bundesorgans oder anderer Beteiligter, die durch dieses
+Grundgesetz oder in der Geschäftsordnung eines obersten
+Bundesorgans mit eigenen Rechten ausgestattet sind; 2. bei
+Meinungsverschiedenheiten oder Zweifeln über die förmliche und
+sachliche Vereinbarkeit von Bundesrecht oder Landesrecht mit diesem
+Grundgesetze oder die Vereinbarkeit von Landesrecht mit sonstigem
+Bundesrechte auf Antrag der Bundesregierung, einer Landesregierung
+oder eines Drittels der Mitglieder des Bundestages; 2a. bei
+Meinungsverschiedenheiten, ob ein Gesetz den Voraussetzungen des
+Artikels 72 Absatz 2 entspricht, auf Antrag des Bundesrates, einer
+Landesregierung oder der Volksvertretung eines Landes; 3. bei
+Meinungsverschiedenheiten über Rechte und Pflichten des Bundes und
+der Länder, insbesondere bei der Ausführung von Bundesrecht durch
+die Länder und bei der Ausübung der Bundesaufsicht; 4. in anderen
+öffentlich-rechtlichen Streitigkeiten zwischen dem Bunde und den
+Ländern, zwischen verschiedenen Ländern oder innerhalb eines
+Landes, soweit nicht ein anderer Rechtsweg gegeben ist; 4a. über
+Verfassungsbeschwerden, die von jedermann mit der Behauptung
+erhoben werden können, durch die öffentliche Gewalt in einem seiner
+Grundrechte oder in einem seiner in Artikel 20 Absatz 4, 33, 38,
+101, 103 und 104 enthaltenen Rechte verletzt zu sein; 4b. über
+Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden wegen
+Verletzung des Rechts auf Selbstverwaltung nach Artikel 28 durch
+ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht Beschwerde
+beim Landesverfassungsgericht erhoben werden kann; 5. in den
+übrigen in diesem Grundgesetze vorgesehenen Fällen.
 
 (2) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch
 Bundesgesetz zugewiesenen Fällen tätig.
@@ -2756,6 +2814,13 @@ Länder erfolgen. Kommt eine Vereinbarung nicht zustande, so wird
 die Neugliederung durch Bundesgesetz geregelt, das eine
 Volksbefragung vorsehen muß.
 
+### Artikel 118 a
+
+Die Neugliederung in dem die Länder Berlin und Brandenburg
+umfassenden Gebiet kann abweichend von den Vorschriften des
+Artikels 29 unter Beteiligung ihrer Wahlberechtigten durch
+Vereinbarung beider Länder erfolgen.
+
 ### Artikel 119
 
 In Angelegenheiten der Flüchtlinge und Vertriebenen, insbesondere
@@ -2849,6 +2914,20 @@ betrifft, wird innerhalb seines Geltungsbereiches Bundesrecht,
     einheitlich gilt,
 2.  soweit es sich um Recht handelt, durch das nach dem 8. Mai 1945
     früheres Reichsrecht abgeändert worden ist.
+
+### Artikel 125 a
+
+(1) Recht, das als Bundesrecht erlassen worden ist, aber wegen
+Änderung des Artikels 74 Absatz 1 oder des Artikels 75 Absatz 1
+nicht mehr als Bundesrecht erlassen werden könnte, gilt als
+Bundesrecht fort. Es kann durch Landesrecht ersetzt werden.
+
+(2) Recht, das auf Grund des Artikels 72 Absatz 2 in der bis zum
+15. November 1994 geltenden Fassung erlassen worden ist, gilt als
+Bundesrecht fort. Durch Bundesgesetz kann bestimmt werden, daß es
+durch Landesrecht ersetzt werden kann. Entsprechendes gilt für
+Bundesrecht, das vor diesem Zeitpunkt erlassen worden ist und das
+nach Artikel 75 Absatz 2 nicht mehr erlassen werden könnte.
 
 ### Artikel 126
 
