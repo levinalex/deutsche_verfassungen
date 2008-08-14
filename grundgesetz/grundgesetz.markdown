@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Artikels 107 des
-Grundgesetzes vom 2. 4. 1953 (BGBl. I S. 130)
+Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes
+vom 26. 3. 1954 (BGBl. I S. 45)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -971,7 +971,9 @@ ein Bedürfnis nach bundesgesetzlicher Regelung besteht, weil
 
 Der Bund hat die ausschließliche Gesetzgebung über:
 
-1.  die auswärtigen Angelegenheiten;
+1.  die auswärtigen Angelegenheiten sowie die Verteidigung
+    einschließlich der Wehrpflicht für Männer vom vollendeten
+    achtzehnten Lebensjahr an und des Schutzes der Zivilbevölkerung;
 2.  die Staatsangehörigkeit im Bunde;
 3.  die Freizügigkeit, das Paßwesen, die Ein- und Auswanderung und
     die Auslieferung;
@@ -1125,9 +1127,17 @@ Bundestage überstimmt wird.
 
 (1) Das Grundgesetz kann nur durch ein Gesetz geändert werden, das
 den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt.
+Bei völkerrechtlichen Verträgen, die eine Friedensregelung, die
+Vorbereitung einer Friedensregelung oder den Abbau einer
+besatzungsrechtlichen Ordnung zum Gegenstand haben oder der
+Verteidigung der Bundesrepublik zu dienen bestimmt sind, genügt zur
+Klarstellung, daß die Bestimmungen des Grundgesetzes dem Abschluß
+und dem lnkraftsetzen der Verträge nicht entgegenstehen, eine
+Ergänzung des Wortlautes des Grundgesetzes, die sich auf diese
+Klarstellung beschränkt.
 
 (2) Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln der
-Mitglieder des Bundestages und zwei Dritteln der Stimmen des
+Mitglieder des Bundestages und zwei Drifteln der Stimmen des
 Bundesrates.
 
 (3) Eine Änderung dieses Grundgesetzes, durch welche die Gliederung
@@ -2093,6 +2103,16 @@ Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der
 Landesverfassungen auch insoweit in Kraft, als sie in
 Übereinstimmung mit den Artikeln 1 bis 18 dieses Grundgesetzes
 Grundrechte gewährleisten.
+
+### Artikel 142 a
+
+Die Bestimmungen dieses Grundgesetzes stehen dem Abschluß und dem
+lnkraftsetzen der am 26. und 27. Mai 1952 in Bonn und Paris
+unterzeichneten Verträge (Vertrag über die Beziehungen zwischen der
+Bundesrepublik Deutschland und den drei Mächten und Vertrag über
+die Gründung der Europäischen Verteidigungsgemeinschaft) mit ihren
+Zusatz- und Nebenabkommen, insbesondere dem Protokoll vom 26. Juli
+1952, nicht entgegen.
 
 ### Artikel 143
 

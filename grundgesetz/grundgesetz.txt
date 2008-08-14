@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Artikels 107 des Grundgesetzes vom 2. 4. 1953 (BGBl. I S. 130)
+Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes vom 26. 3. 1954 (BGBl. I S. 45)
 
 
 
@@ -705,7 +705,7 @@ Artikel 73
 
 Der Bund hat die ausschließliche Gesetzgebung über:
 
-1.	die auswärtigen Angelegenheiten;
+1. die auswärtigen Angelegenheiten sowie die Verteidigung einschließlich der Wehrpflicht für Männer vom vollendeten achtzehnten Lebensjahr an und des Schutzes der Zivilbevölkerung;
 2.	die Staatsangehörigkeit im Bunde;
 3.	die Freizügigkeit, das Paßwesen, die Ein- und Auswanderung und die Auslieferung;
 4.	das Währungs-, Geld- und Münzwesen, Maße und Gewichte sowie die Zeitbestimmung;
@@ -714,12 +714,12 @@ Der Bund hat die ausschließliche Gesetzgebung über:
 7.	das Post- und Fernmeldewesen;
 8.	die Rechtsverhältnisse der im Dienste des Bundes und der bundesunmittelbaren Körperschaften des öffentlichen Rechtes stehenden Personen;
 9.	den gewerblichen Rechtsschutz, das Urheberrecht und das Verlagsrecht;
-10.	die Zusammenarbeit des Bundes und der Länder in der Kriminalpolizei und in Angelegenheiten des Verfassungsschutzes, die Einrichtung eines Bundeskriminalpolizeiamtes sowie die internationale Verbrechensbekämpfung;
-11.	die Statistik für Bundeszwecke.
+10. die Zusammenarbeit des Bundes und der Länder in der Kriminalpolizei und in Angelegenheiten des Verfassungsschutzes, die Einrichtung eines Bundeskriminalpolizeiamtes sowie die internationale Verbrechensbekämpfung;
+11. die Statistik für Bundeszwecke.
+
 
 
 Artikel 74
-
 
 Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 
@@ -791,15 +791,15 @@ Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zusti
 Artikel 79
 
 
-(1)	Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt.
+(1)	Das Grundgesetz kann nur durch ein Gesetz geändert werden, das den Wortlaut des Grundgesetzes ausdrücklich ändert oder ergänzt. Bei völkerrechtlichen Verträgen, die eine Friedensregelung, die Vorbereitung einer Friedensregelung oder den Abbau einer besatzungsrechtlichen Ordnung zum Gegenstand haben oder der Verteidigung der Bundesrepublik zu dienen bestimmt sind, genügt zur Klarstellung, daß die Bestimmungen des Grundgesetzes dem Abschluß und dem lnkraftsetzen der Verträge nicht entgegenstehen, eine Ergänzung des Wortlautes des Grundgesetzes, die sich auf diese Klarstellung beschränkt.
 
-(2) Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln der Mitglieder des Bundestages und zwei Dritteln der Stimmen des Bundesrates.
+(2) Ein solches Gesetz bedarf der Zustimmung von zwei Dritteln der Mitglieder des Bundestages und zwei Drifteln der Stimmen des Bundesrates.
 
 (3) Eine Änderung dieses Grundgesetzes, durch welche die Gliederung des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung oder die in den Artikeln 1 und 20 niedergelegten Grundsätze berührt werden, ist unzulässig.
 
 
-Artikel 80
 
+Artikel 80
 
 (1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung.
 
@@ -1079,8 +1079,8 @@ Artikel 107
 Die endgültige Verteilung der der konkurrierenden Gesetzgebung unterliegenden Steuern auf Bund und Länder soll spätestens bis zum 31. Dezember 1954 erfolgen, und zwar durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Dies gilt nicht für die Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis. Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte Steuern oder Steueranteile entsprechend seinen Aufgaben einzuräumen.
 
 
-
 Artikel 108
+
 
 (1)	Zölle, Finanzmonopole, die der konkurrierenden Gesetzgebung unterworfenen Verbrauchsteuern, die Beförderungsteuer, die Umsatzsteuer und die einmaligen Vermögensabgaben werden durch Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden und das von ihnen anzuwendende Verfahren werden durch Bundesgesetz geregelt. Die Leiter der Mittelbehörden sind im Benehmen mit den Landesregierungen zu bestellen. Der Bund kann die Verwaltung der einmaligen Vermögensabgaben den Landesfinanzbehörden als Auftragsverwaltung übertragen.
 
@@ -1377,8 +1377,14 @@ Artikel 142
 Ungeachtet der Vorschrift des Artikels 31 bleiben Bestimmungen der Landesverfassungen auch insoweit in Kraft, als sie in Übereinstimmung mit den Artikeln 1 bis 18 dieses Grundgesetzes Grundrechte gewährleisten.
 
 
-Artikel 143
+Artikel 142 a
 
+
+Die Bestimmungen dieses Grundgesetzes stehen dem Abschluß und dem lnkraftsetzen der am 26. und 27. Mai 1952 in Bonn und Paris unterzeichneten Verträge (Vertrag über die Beziehungen zwischen der Bundesrepublik Deutschland und den drei Mächten und Vertrag über die Gründung der Europäischen Verteidigungsgemeinschaft) mit ihren Zusatz- und Nebenabkommen, insbesondere dem Protokoll vom 26. Juli 1952, nicht entgegen.
+
+
+
+Artikel 143
 
 [aufgehoben]
 
