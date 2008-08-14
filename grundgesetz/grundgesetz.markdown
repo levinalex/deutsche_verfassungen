@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 24. 10. 1997 (BGBl. I S. 2470)
+vom 26. 3. 1998 (BGBl. I S. 610)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -287,7 +287,43 @@ Verzuge auch durch die in den Gesetzen vorgesehenen anderen Organe
 angeordnet und nur in der dort vorgeschriebenen Form durchgeführt
 werden.
 
-(3) Eingriffe und Beschränkungen dürfen im übrigen nur zur Abwehr
+(3) Begründen bestimmte Tatsachen den Verdacht, daß jemand eine
+durch Gesetz einzeln bestimmte besonders schwere Straftat begangen
+hat, so dürfen zur Verfolgung der Tat auf Grund richterlicher
+Anordnung technische Mittel zur akustischen Überwachung von
+Wohnungen, in denen der Beschuldigte sich vermutlich aufhält,
+eingesetzt werden, wenn die Erforschung des Sachverhalts auf andere
+Weise unverhältnismäßig erschwert oder aussichtslos wäre. Die
+Maßnahme ist zu befristen. Die Anordnung erfolgt durch einen mit
+drei Richtern besetzten Spruchkörper. Bei Gefahr in Verzuge kann
+sie auch durch einen einzelnen Richter getroffen werden.
+
+(4) Zur Abwehr dringender Gefahren für die öffentliche Sicherheit,
+insbesondere einer gemeinen Gefahr oder einer Lebensgefahr, dürfen
+technische Mittel zur Uberwachung von Wohnungen nur auf Grund
+richterlicher Anordnung eingesetzt werden. Bei Gefahr im Verzuge
+kann die Maßnahme auch durch eine andere gesetzlich bestimmte
+Stelle angeordnet werden; eine richterliche Entscheidung ist
+unverzüglich nachzuholen.
+
+(5) Sind technische Mittel ausschließlich zum Schutze der bei einem
+Einsatz in Wohnungen tätigen Personen vorgesehen, kann die Maßnahme
+durch eine gesetzlich bestimmte Stelle angeordnet werden. Eine
+anderweitige Verwertung der hierbei erlangten Erkenntnisse ist nur
+zum Zwecke der Strafverfolgung oder der Gefahrenabwehr und nur
+zulässig, wenn zuvor die Rechtmäßigkeit der Maßnahme richterlich
+festgestellt ist; bei Gefahr im Verzuge ist die richterliche
+Entscheidung unverzüglich nachzuholen.
+
+(6) Die Bundesregierung unterrichtet den Bundestag jährlich über
+den nach Absatz 3 sowie über den im Zuständigkeitsbereich des
+Bundes nach Absatz 4 und, soweit richterlich überprüfungsbedürftig,
+nach Absatz 5 erfolgten Einsatz technischer Mittel. Ein vom
+Bundestag gewähltes Gremium übt auf der Grundlage dieses Berichts
+die parlamentarische Kontrolle aus. Die Länder gewährleisten eine
+gleichwertige parlamentarische Kontrolle.
+
+(7) Eingriffe und Beschränkungen dürfen im übrigen nur zur Abwehr
 einer gemeinen Gefahr oder einer Lebensgefahr für einzelne
 Personen, auf Grund eines Gesetzes auch zur Verhütung dringender
 Gefahren für die öffentliche Sicherheit und Ordnung, insbesondere

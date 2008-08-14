@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 24. 10. 1997 (BGBl. I S. 2470)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 26. 3. 1998 (BGBl. I S. 610)
 
 
 
@@ -170,15 +170,23 @@ Artikel 12 a
 Artikel 13
 
 
-(1)	Die Wohnung ist unverletzlich.
+(1) Die Wohnung ist unverletzlich.
 
 (2) Durchsuchungen dürfen nur durch den Richter, bei Gefahr im Verzuge auch durch die in den Gesetzen vorgesehenen anderen Organe angeordnet und nur in der dort vorgeschriebenen Form durchgeführt werden.
 
-(3) Eingriffe und Beschränkungen dürfen im übrigen nur zur Abwehr einer gemeinen Gefahr oder einer Lebensgefahr für einzelne Personen, auf Grund eines Gesetzes auch zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung, insbesondere zur Behebung der Raumnot, zur Bekämpfung von Seuchengefahr oder zum Schutze gefährdeter Jugendlicher vorgenommen werden.
+(3) Begründen bestimmte Tatsachen den Verdacht, daß jemand eine durch Gesetz einzeln bestimmte besonders schwere Straftat begangen hat, so dürfen zur Verfolgung der Tat auf Grund richterlicher Anordnung technische Mittel zur akustischen Überwachung von Wohnungen, in denen der Beschuldigte sich vermutlich aufhält, eingesetzt werden, wenn die Erforschung des Sachverhalts auf andere Weise unverhältnismäßig erschwert oder aussichtslos wäre. Die Maßnahme ist zu befristen. Die Anordnung erfolgt durch einen mit drei Richtern besetzten Spruchkörper. Bei Gefahr in Verzuge kann sie auch durch einen einzelnen Richter getroffen werden.
+
+(4)	Zur Abwehr dringender Gefahren für die öffentliche Sicherheit, insbesondere einer gemeinen Gefahr oder einer Lebensgefahr, dürfen technische Mittel zur Uberwachung von Wohnungen nur auf Grund richterlicher Anordnung eingesetzt werden. Bei Gefahr im Verzuge kann die Maßnahme auch durch eine andere gesetzlich bestimmte Stelle angeordnet werden; eine richterliche Entscheidung ist unverzüglich nachzuholen.
+
+(5)	Sind technische Mittel ausschließlich zum Schutze der bei einem Einsatz in Wohnungen tätigen Personen vorgesehen, kann die Maßnahme durch eine gesetzlich bestimmte Stelle angeordnet werden. Eine anderweitige Verwertung der hierbei erlangten Erkenntnisse ist nur zum Zwecke der Strafverfolgung oder der Gefahrenabwehr und nur zulässig, wenn zuvor die Rechtmäßigkeit der Maßnahme richterlich festgestellt ist; bei Gefahr im Verzuge ist die richterliche Entscheidung unverzüglich nachzuholen.
+
+(6)	Die Bundesregierung unterrichtet den Bundestag jährlich über den nach Absatz 3 sowie über den im Zuständigkeitsbereich des Bundes nach Absatz 4 und, soweit richterlich überprüfungsbedürftig, nach Absatz 5 erfolgten Einsatz technischer Mittel. Ein vom Bundestag gewähltes Gremium übt auf der Grundlage dieses Berichts die parlamentarische Kontrolle aus. Die Länder gewährleisten eine gleichwertige parlamentarische Kontrolle.
+
+(7)	Eingriffe und Beschränkungen dürfen im übrigen nur zur Abwehr einer gemeinen Gefahr oder einer Lebensgefahr für einzelne Personen, auf Grund eines Gesetzes auch zur Verhütung dringender Gefahren für die öffentliche Sicherheit und Ordnung, insbesondere zur Behebung der Raumnot, zur Bekämpfung von Seuchengefahr oder zum Schutze gefährdeter Jugendlicher vorgenommen werden.
+
 
 
 Artikel 14
-
 
 (1)	Das Eigentum und das Erbrecht werden gewährleistet Inhalt und Schranken werden durch die Gesetze bestimmt.
 
@@ -346,8 +354,8 @@ Artikel 28
 (3)	Der Bund gewährleistet, daß die verfassungsmäßige Ordnung der Länder den Grundrechten und den Bestimmungen der Absätze 1 und 2 entspricht.
 
 
-
 Artikel 29
+
 
 (1) Das Bundesgebiet kann neu gegliedert werden, um zu gewährleisten, daß die Länder nach Größe und Leistungsfähigkeit die ihnen obliegenden Aufgaben wirksam erfüllen können. Dabei sind die landsmannschaftliche Verbundenheit, die geschichtlichen und kulturellen Zusammenhänge, die wirtschaftliche Zweckmäßigkeit sowie die Erfordernisse der Raumordnung und der Landesplanung zu berücksichtigen.
 
@@ -1351,8 +1359,8 @@ Zusätzlich werden in die Festsetzung der Anteile von Bund und Ländern an der U
 (9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels gelten auch die Einnahmen und Ausgaben der Gemeinden (Gemeindeverbände).
 
 
-
 Artikel 106 a
+
 
 Den Ländern steht ab 1. Januar 1996 für den öffentlichen Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung der Finanzkraft nach Artikel 107 Absatz 2 unberücksichtigt.
 
