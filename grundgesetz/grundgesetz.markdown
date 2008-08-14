@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes
-vom 26. 3. 1954 (BGBl. I S. 45)
+Zuletzt geändert durch das Zweite Gesetz zur Änderung des Artikels
+107 des Grundgesetzes vom 25. 12. 1954 (BGBl. I S. 517)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1620,7 +1620,7 @@ den Ländern unmittelbar zu überweisen.
 
 Die endgültige Verteilung der der konkurrierenden Gesetzgebung
 unterliegenden Steuern auf Bund und Länder soll spätestens bis zum
-31. Dezember 1954 erfolgen, und zwar durch Bundesgesetz, das der
+31. Dezember 1955 erfolgen, und zwar durch Bundesgesetz, das der
 Zustimmung des Bundesrates bedarf. Dies gilt nicht für die
 Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis.
 Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte

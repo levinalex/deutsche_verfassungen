@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes vom 26. 3. 1954 (BGBl. I S. 45)
+Zuletzt geändert durch das Zweite Gesetz zur Änderung des Artikels 107 des Grundgesetzes vom 25. 12. 1954 (BGBl. I S. 517)
 
 
 
@@ -718,8 +718,8 @@ Der Bund hat die ausschließliche Gesetzgebung über:
 11. die Statistik für Bundeszwecke.
 
 
-
 Artikel 74
+
 
 Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 
@@ -798,8 +798,8 @@ Artikel 79
 (3) Eine Änderung dieses Grundgesetzes, durch welche die Gliederung des Bundes in Länder, die grundsätzliche Mitwirkung der Länder bei der Gesetzgebung oder die in den Artikeln 1 und 20 niedergelegten Grundsätze berührt werden, ist unzulässig.
 
 
-
 Artikel 80
+
 
 (1) Durch Gesetz können die Bundesregierung, ein Bundesminister oder die Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen. Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz bestimmt werden. Die Rechtsgrundlage ist in der Verordnung anzugeben. Ist durch Gesetz vorgesehen, daß eine Ermächtigung weiter übertragen werden kann, so bedarf es zur Übertragung der Ermächtigung einer Rechtsverordnung.
 
@@ -1076,11 +1076,11 @@ Artikel 106
 Artikel 107
 
 
-Die endgültige Verteilung der der konkurrierenden Gesetzgebung unterliegenden Steuern auf Bund und Länder soll spätestens bis zum 31. Dezember 1954 erfolgen, und zwar durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Dies gilt nicht für die Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis. Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte Steuern oder Steueranteile entsprechend seinen Aufgaben einzuräumen.
+Die endgültige Verteilung der der konkurrierenden Gesetzgebung unterliegenden Steuern auf Bund und Länder soll spätestens bis zum 31. Dezember 1955 erfolgen, und zwar durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Dies gilt nicht für die Realsteuern und die Steuern mit örtlich bedingtem Wirkungskreis. Hierbei ist jedem Teil ein gesetzlicher Anspruch auf bestimmte Steuern oder Steueranteile entsprechend seinen Aufgaben einzuräumen.
+
 
 
 Artikel 108
-
 
 (1)	Zölle, Finanzmonopole, die der konkurrierenden Gesetzgebung unterworfenen Verbrauchsteuern, die Beförderungsteuer, die Umsatzsteuer und die einmaligen Vermögensabgaben werden durch Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden und das von ihnen anzuwendende Verfahren werden durch Bundesgesetz geregelt. Die Leiter der Mittelbehörden sind im Benehmen mit den Landesregierungen zu bestellen. Der Bund kann die Verwaltung der einmaligen Vermögensabgaben den Landesfinanzbehörden als Auftragsverwaltung übertragen.
 
@@ -1383,8 +1383,8 @@ Artikel 142 a
 Die Bestimmungen dieses Grundgesetzes stehen dem Abschluß und dem lnkraftsetzen der am 26. und 27. Mai 1952 in Bonn und Paris unterzeichneten Verträge (Vertrag über die Beziehungen zwischen der Bundesrepublik Deutschland und den drei Mächten und Vertrag über die Gründung der Europäischen Verteidigungsgemeinschaft) mit ihren Zusatz- und Nebenabkommen, insbesondere dem Protokoll vom 26. Juli 1952, nicht entgegen.
 
 
-
 Artikel 143
+
 
 [aufgehoben]
 
