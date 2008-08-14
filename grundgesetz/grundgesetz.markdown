@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 15. 11. 1968 (BGBl. I S. 1177)
+vom 29. 1. 1969 (BGBl. I S. 97)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1650,7 +1650,14 @@ Länder ausgeübt.
 4.  in anderen öffentlich-rechtlichen Streitigkeiten zwischen dem
     Bunde und den Ländern, zwischen verschiedenen Ländern oder
     innerhalb eines Landes, soweit nicht ein anderer Rechtsweg gegeben
-    ist;
+    ist; 4a. über Verfassungsbeschwerden, die von jedermann mit der
+    Behauptung erhoben werden können, durch die öffentliche Gewalt in
+    einem seiner Grundrechte oder in einem seiner in Artikel 20 Absatz
+    4, 33, 38, 101, 103 und 104 enthaltenen Rechte verletzt zu sein;
+    4b. über Verfassungsbeschwerden von Gemeinden und Gemeindeverbänden
+    wegen Verletzung des Rechts auf Selbstverwaltung nach Artikel 28
+    durch ein Gesetz, bei Landesgesetzen jedoch nur, soweit nicht
+    Beschwerde beim Landesverfassungsgericht erhoben werden kann;
 5.  in den übrigen in diesem Grundgesetze vorgesehenen Fällen.
 
 (2) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch
@@ -1666,7 +1673,9 @@ noch entsprechenden Organen eines Landes angehören.
 
 (2) Ein Bundesgesetz regelt seine Verfassung und das Verfahren und
 bestimmt, in welchen Fällen seine Entscheidungen Gesetzeskraft
-haben.
+haben. Es kann für Verfassungsbeschwerden die vorherige Erschöpfung
+des Rechtsweges zur Voraussetzung machen und ein besonderes
+Annahmeverfahren vorsehen.
 
 ### Artikel 95
 
