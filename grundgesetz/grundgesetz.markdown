@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 20. 12. 1993 (BGBl. I S. 2089)
+vom 30. 8. 1994 (BGBl. I S. 2245)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1278,7 +1278,7 @@ Der Bund hat die ausschließliche Gesetzgebung über:
     Bundes), den Bau, die Unterhaltung und das Betreiben von
     Schienenwegen der Eisenbahnen des Bundes sowie die Erhebung von
     Entgelten für die Benutzung dieser Schienenwege;
-7.  das Post- und Fernmeldewesen;
+7.  das Postwesen und die Telekommunikation;
 8.  die Rechtsverhältnisse der im Dienste des Bundes und der
     bundesunmittelbaren Körperschaften des öffentlichen Rechtes
     stehenden Personen;
@@ -1500,11 +1500,11 @@ Ermächtigung weiter übertragen werden kann, so bedarf es zur
 (2) Der Zustimmung des Bundesrates bedürfen, vorbehaltlich
 anderweitiger bundesgesetzlicher Regelung, Rechtsverordnungen der
 Bundesregierung oder eines Bundesministers über Grundsätze und
-Gebühren für die Benutzung der Einrichtungen des Post- und
-Fernmeldewesens, über die Grundsätze der Erhebung des Entgelts für
-die Benutzung der Einrichtungen der Eisenbahnen des Bundes, über
-den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen auf
-Grund von Bundesgesetzen, die der Zustimmung des Bundesrates
+Gebühren für die Benutzung der Einrichtungen des Postwesens und der
+Telekommunikation, über die Grundsätze der Erhebung des Entgelts
+für die Benutzung der Einrichtungen der Eisenbahnen des Bundes,
+über den Bau und Betrieb der Eisenbahnen, sowie Rechtsverordnungen
+auf Grund von Bundesgesetzen, die der Zustimmung des Bundesrates
 bedürfen oder die von den Ländern im Auftrage des Bundes oder als
 eigene Angelegenheit ausgeführt werden.
 
@@ -1648,8 +1648,8 @@ Einrichtung der Behörden.
 ### Artikel 87
 
 (1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau
-werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung,
-die Bundespost und nach Maßgabe des Artikels 89 die Verwaltung der
+werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung
+und nach Maßgabe des Artikels 89 die Verwaltung der
 Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können
 Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche
 Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur
@@ -1778,6 +1778,26 @@ von Eisenbahnunternehmen des Bundes, die Übertragung von
 Schienenwegen der Eisenbahnen des Bundes an Dritte sowie die
 Stillegung von Schienenwegen der Eisenbahnen des Bundes regeln oder
 Auswirkungen auf den Schienenpersonennahverkehr haben.
+
+### Artikel 87 f
+
+(1) Nach Maßgabe eines Bundesgesetzes, das der Zustimmung des
+Bundesrates bedarf, gewährleistet der Bund im Bereich des
+Postwesens und der Telekommunikation flächendeckend angemessene und
+ausreichende Dienstleistungen.
+
+(2) Dienstleistungen im Sinne des Absatzes 1 werden als
+privatwirtschaftliche Tätigkeiten durch die aus dem Sondervermögen
+Deutsche Bundespost hervorgegangenen Unternehmen und durch andere
+private Anbieter erbracht. Hoheitsaufgaben im Bereich des
+Postwesens und der Telekommunikation werden in bundeseigener
+Verwaltung ausgeführt.
+
+(3) Unbeschadet des Absatzes 2 Satz 2 führt der Bund in der
+Rechtsform einer bundesunmittelbaren Anstalt des öffentlichen
+Rechts einzelne Aufgaben in bezug auf die aus dem Sondervermögen
+Deutsche Bundespost hervorgegangenen Unternehmen nach Maßgabe eines
+Bundesgesetzes aus.
 
 ### Artikel 88
 
@@ -3129,6 +3149,28 @@ bis zum 31. Dezember 1995 Sache des Bundes. Dies gilt auch für die
 entsprechenden Aufgaben der Eisenbahnverkehrsverwaltung. Das Nähere
 wird durch Bundesgesetz geregelt, das der Zustimmung des
 Bundesrates bedarf.
+
+### Artikel 143 b
+
+(1) Das Sondervermögen Deutsche Bundespost wird nach Maßgabe eines
+Bundesgesetzes in Unternehmen privater Rechtsform umgewandelt. Der
+Bund hat die ausschließliche Gesetzgebung über alle sich hieraus
+ergebenden Angelegenheiten.
+
+(2) Die vor der Umwandlung bestehenden ausschließlichen Rechte des
+Bundes können durch Bundesgesetz für eine Übergangszeit den aus der
+Deutschen Bundespost POSTDIENST und der Deutschen Bundespost
+TELEKOM hervorgegangenen Unternehmen verliehen werden. Die
+Kapitalmehrheit am Nachfolgeunternehmen der Deutschen Bundespost
+POSTDIENST darf der Bund frühestens fünf Jahre nach Inkrafttreten
+des Gesetzes aufgeben. Dazu bedarf es eines Bundesgesetzes mit
+Zustimmung des Bundesrates.
+
+(3) Die bei der Deutschen Bundespost tätigen Bundesbeamten werden
+unter Wahrung ihrer Rechtsstellung und der Verantwortung des
+Dienstherrn bei den privaten Unternehmen beschäftigt. Die
+Unternehmen üben Dienstherrenbefugnisse aus. Das Nähere bestimmt
+ein Bundesgesetz.
 
 ### Artikel 144
 
