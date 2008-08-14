@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 12. 4. 1972 (BGBl. I S. 593)
+vom 28. 7. 1972 (BGBl. I S. 1305)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -608,10 +608,16 @@ Rechtsweg nicht ausgeschlossen werden.
 (1) Alle Behörden des Bundes und der Länder leisten sich
 gegenseitig Rechts- und Amtshilfe.
 
-(2) Zur Hilfe bei einer Naturkatastrophe oder bei einem besonders
-schweren Unglücksfall kann ein Land Polizeikräfte anderer Länder,
-Kräfte und Einrichtungen anderer Verwaltungen sowie des
-Bundesgrenzschutzes und der Streitkräfte anfordern.
+(2) Zur Aufrechterhaltung oder Wiederherstellung der öffentlichen
+Sicherheit oder Ordnung kann ein Land in Fällen von besonderer
+Bedeutung Kräfte und Einrichtungen des Bundesgrenzschutzes zur
+Unterstützung seiner Polizei anfordern, wenn die Polizei ohne diese
+Unterstützung eine Aufgabe nicht oder nur unter erheblichen
+Schwierigkeiten erfüllen könnte. Zur Hilfe bei einer
+Naturkatastrophe oder bei einem besonders schweren Unglücksfall
+kann ein Land Polizeikräfte anderer Länder, Kräfte und
+Einrichtungen anderer Verwaltungen sowie des Bundesgrenzschutzes
+und der Streitkräfte anfordern.
 
 (3) Gefährdet die Naturkatastrophe oder der Unglücksfall das Gebiet
 mehr als eines Landes, so kann die Bundesregierung, soweit es zur
@@ -1164,10 +1170,15 @@ Der Bund hat die ausschließliche Gesetzgebung über:
     stehenden Personen;
 9.  den gewerblichen Rechtsschutz, das Urheberrecht und das
     Verlagsrecht;
-10. die Zusammenarbeit des Bundes und der Länder in der
-    Kriminalpolizei und in Angelegenheiten des Verfassungsschutzes, die
-    Einrichtung eines Bundeskriminalpolizeiamtes sowie die
-    internationale Verbrechensbekämpfung;
+10. die Zusammenarbeit des Bundes und der Länder a) in der
+    Kriminalpolizei, b) zum Schutze der freiheitlichen demokratischen
+    Grundordnung, des Bestandes und der Sicherheit des Bundes oder
+    eines Landes (Verfassungsschutz) und c) zum Schutze gegen
+    Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder
+    darauf gerichtete Vorbereitungshandlungen auswärtige Belange der
+    Bundesrepublik Deutschland gefährden, sowie die Einrichtung eines
+    Bundeskriminalpolizeiamtes und die internationale
+    Verbrechensbekämpfung;
 11. die Statistik für Bundeszwecke.
 
 ### Artikel 74
@@ -1180,7 +1191,8 @@ Gebiete:
     Rechtsanwaltschaft, das Notariat und die Rechtsberatung;
 2.  das Personenstandswesen;
 3.  das Vereins- und Versammlungsrecht;
-4.  das Aufenthalts- und Niederlassungsrecht der Ausländer;
+4.  das Aufenthalts- und Niederlassungsrecht der Ausländer; 4a. das
+    Waffenrecht;
 5.  den Schutz deutschen Kulturgutes gegen Abwanderung in das
     Ausland;
 6.  die Angelegenheiten der Flüchtlinge und Vertriebenen;
@@ -1188,12 +1200,12 @@ Gebiete:
 8.  die Staatsangehörigkeit in den Ländern;
 9.  die Kriegsschäden und die Wiedergutmachung;
 10. die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen
-    und die Fürsorge für die ehemaligen Kriegsgefangenen; lOa. die
+    und die Fürsorge für die ehemaligen Kriegsgefangenen; 1Oa. die
     Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von
     Gewaltherrschaft;
 11. das Recht der Wirtschaft (Bergbau, Industrie,
     Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und
-    Börsenwesen, privatrechtliches Versicherungswesen); 11a. die
+    Börsenwesen, privatrechtliches Versicherungswesen>; 11a. die
     Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die
     Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen,
     den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder
@@ -1525,9 +1537,12 @@ werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung,
 die Bundeseisenbahnen, die Bundespost und nach Maßgabe des Artikels
 89 die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch
 Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für
-das polizeiliche Auskunfts- und Nachrichtenwesen, zur Sammlung von
-Unterlagen für Zwecke des Verfassungsschutzes und für die
-Kriminalpolizei eingerichtet werden.
+das polizeiliche Auskunfts- und Nachrichtenwesen, für die
+Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des
+Verfassungsschutzes und des Schutzes gegen Bestrebungen im
+Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete
+Vorbereitungshandlungen auswärtige Belange der Bundesrepublik
+Deutschland gefährden, eingerichtet werden.
 
 (2) Als bundesunmittelbare Körperschaften des öffentlichen Rechtes
 werden diejenigen sozialen Versicherungsträger geführt, deren

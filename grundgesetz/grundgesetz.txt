@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 12. 4. 1972 (BGBl. I S. 593)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 28. 7. 1972 (BGBl. I S. 1305)
 
 
 
@@ -378,13 +378,13 @@ Artikel 35
 
 (1) Alle Behörden des Bundes und der Länder leisten sich gegenseitig Rechts- und Amtshilfe.
 
-(2) Zur Hilfe bei einer Naturkatastrophe oder bei einem besonders schweren Unglücksfall kann ein Land Polizeikräfte anderer Länder, Kräfte und Einrichtungen anderer Verwaltungen sowie des Bundesgrenzschutzes und der Streitkräfte anfordern.
+(2) Zur Aufrechterhaltung oder Wiederherstellung der öffentlichen Sicherheit oder Ordnung kann ein Land in Fällen von besonderer Bedeutung Kräfte und Einrichtungen des Bundesgrenzschutzes zur Unterstützung seiner Polizei anfordern, wenn die Polizei ohne diese Unterstützung eine Aufgabe nicht oder nur unter erheblichen Schwierigkeiten erfüllen könnte. Zur Hilfe bei einer Naturkatastrophe oder bei einem besonders schweren Unglücksfall kann ein Land Polizeikräfte anderer Länder, Kräfte und Einrichtungen anderer Verwaltungen sowie des Bundesgrenzschutzes und der Streitkräfte anfordern.
 
 (3) Gefährdet die Naturkatastrophe oder der Unglücksfall das Gebiet mehr als eines Landes, so kann die Bundesregierung, soweit es zur wirksamen Bekämpfung erforderlich ist, den Landesregierungen die Weisung erteilen, Polizeikräfte anderer Länder zur Verfügung zu stellen, sowie Einheiten des Bundesgrenzschutzes und der Streitkräfte zur Unterstützung der Polizeikräfte einsetzen. Maßnahmen der Bundesregierung nach Satz 1 sind jederzeit auf Verlangen des Bundesrates, im übrigen unverzüglich nach Beseitigung der Gefahr aufzuheben.
 
 
-Artikel 36
 
+Artikel 36
 
 (1) Bei den obersten Bundesbehörden sind Beamte aus allen Ländern in angemessenem Verhältnis zu verwenden. Die bei den übrigen Bundesbehörden beschäftigten Personen sollen in der Regel aus dem Lande genommen werden, in dem sie tätig sind.
 
@@ -783,7 +783,10 @@ Der Bund hat die ausschließliche Gesetzgebung über:
 7.	das Post- und Fernmeldewesen;
 8.	die Rechtsverhältnisse der im Dienste des Bundes und der bundesunmittelbaren Körperschaften des öffentlichen Rechtes stehenden Personen;
 9.	den gewerblichen Rechtsschutz, das Urheberrecht und das Verlagsrecht;
-10. die Zusammenarbeit des Bundes und der Länder in der Kriminalpolizei und in Angelegenheiten des Verfassungsschutzes, die Einrichtung eines Bundeskriminalpolizeiamtes sowie die internationale Verbrechensbekämpfung;
+10.	die Zusammenarbeit des Bundes und der Länder
+a)	in der Kriminalpolizei,
+b)	zum Schutze der freiheitlichen demokratischen Grundordnung, des Bestandes und der Sicherheit des Bundes oder eines Landes (Verfassungsschutz) und
+c)	zum Schutze gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belange der Bundesrepublik Deutschland gefährden, sowie die Einrichtung eines Bundeskriminalpolizeiamtes und die internationale Verbrechensbekämpfung;
 11. die Statistik für Bundeszwecke.
 
 
@@ -796,14 +799,15 @@ Die konkurrierende Gesetzgebung erstreckt sich auf folgende Gebiete:
 2.	das Personenstandswesen;
 3.	das Vereins- und Versammlungsrecht;
 4.	das Aufenthalts- und Niederlassungsrecht der Ausländer;
+4a.	das Waffenrecht;
 5.	den Schutz deutschen Kulturgutes gegen Abwanderung in das Ausland;
 6.	die Angelegenheiten der Flüchtlinge und Vertriebenen;
 7.	die öffentliche Fürsorge;
 8.	die Staatsangehörigkeit in den Ländern;
 9.	die Kriegsschäden und die Wiedergutmachung;
 10.	die Versorgung der Kriegsbeschädigten und Kriegshinterbliebenen und die Fürsorge für die ehemaligen Kriegsgefangenen;
-lOa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft;
-11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen);
+1Oa.	die Kriegsgräber und die Gräber anderer Opfer des Krieges und Opfer von Gewaltherrschaft;
+11.	das Recht der Wirtschaft (Bergbau, Industrie, Energiewirtschaft, Handwerk, Gewerbe, Handel, Bank- und Börsenwesen, privatrechtliches Versicherungswesen>;
 11a.	die Erzeugung und Nutzung der Kernenergie zu friedlichen Zwecken, die Errichtung und den Betrieb von Anlagen, die diesen Zwecken dienen, den Schutz gegen Gefahren, die bei Freiwerden von Kernenergie oder durch ionisierende Strahlen entstehen, und die Beseitigung radioaktiver Stoffe;
 12.	das Arbeitsrecht einschließlich der Betriebsverfassung, des Arbeitsschutzes und der Arbeitsvermittlung sowie die Sozialversicherung einschließlich der Arbeitslosenversicherung;
 13.	die Regelung der Ausbildungsbeihilten und die Förderung der wissenschaftlichen Forschung;
@@ -968,15 +972,15 @@ Führt der Bund die Gesetze durch bundeseigene Verwaltung oder durch bundesunmit
 Artikel 87
 
 
-(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung, die Bundeseisenbahnen, die Bundespost und nach Maßgabe des Artikels 89 die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und für die Kriminalpolizei eingerichtet werden.
+(1) In bundeseigener Verwaltung mit eigenem Verwaltungsunterbau werden geführt der Auswärtige Dienst, die Bundesfinanzverwaltung, die Bundeseisenbahnen, die Bundespost und nach Maßgabe des Artikels 89 die Verwaltung der Bundeswasserstraßen und der Schiffahrt. Durch Bundesgesetz können Bundesgrenzschutzbehörden, Zentralstellen für das polizeiliche Auskunfts- und Nachrichtenwesen, für die Kriminalpolizei und zur Sammlung von Unterlagen für Zwecke des Verfassungsschutzes und des Schutzes gegen Bestrebungen im Bundesgebiet, die durch Anwendung von Gewalt oder darauf gerichtete Vorbereitungshandlungen auswärtige Belange der Bundesrepublik Deutschland gefährden, eingerichtet werden.
 
 (2) Als bundesunmittelbare Körperschaften des öffentlichen Rechtes werden diejenigen sozialen Versicherungsträger geführt, deren Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus erstreckt.
 
 (3) Außerdem können für Angelegenheiten, für die dem Bunde die Gesetzgebung zusteht, selbständige Bundesoberbehörden und neue bundesunmittelbare Körperschaften und Anstalten des öffentlichen Rechtes durch Bundesgesetz errichtet werden. Erwachsen dem Bunde auf Gebieten, für die ihm die Gesetzgebung zusteht, neue Aufgaben, so können bei dringendem Bedarf bundeseigene Mittel- und Unterbehörden mit Zustimmung des Bundesrates und der Mehrheit der Mitglieder des Bundestages errichtet werden.
 
 
-Artikel 87 a
 
+Artikel 87 a
 
 (1) Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich aus dem Haushaltsplan ergeben.
 
