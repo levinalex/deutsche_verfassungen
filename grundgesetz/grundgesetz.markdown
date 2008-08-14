@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-(Artikel 12 a) vom 19. 12. 2000 (BGBl. I S. 1633)
+(Artikel 108) vom 26. 11. 2001 (BGBl. I S. 3219)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -2445,14 +2445,16 @@ ergänzenden Deckung ihres allgemeinen Finanzbedarfs
 Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer und die
 Abgaben im Rahmen der Europäischen Gemeinschaften werden durch
 Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden wird
-durch Bundesgesetz geregelt. Die Leiter der Mittelbehörden sind im
-Benehmen mit den Landesregierungen zu bestellen.
+durch Bundesgesetz geregelt. Soweit Mittelbehörden eingerichtet
+sind, werden deren Leiter im Benehmen mit den Landesregierungen
+bestellt.
 
 (2) Die übrigen Steuern werden durch Landesfinanzbehörden
 verwaltet. Der Aufbau dieser Behörden und die einheitliche
 Ausbildung der Beamten können durch Bundesgesetz mit Zustimmung des
-Bundesrates geregelt werden. Die Leiter der Mittelbehörden sind im
-Einvernehmen mit der Bundesregierung zu bestellen.
+Bundesrates geregelt werden. Soweit Mittelbehörden eingerichtet
+sind, werden deren Leiter im Einvernehmen mit der Bundesregierung
+bestellt.
 
 (3) Verwalten die Landesfinanzbehörden Steuern, die ganz oder zum
 Teil dem Bund zufließen, so werden sie im Auftrage des Bundes

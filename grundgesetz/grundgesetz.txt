@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Artikel 12 a) vom 19. 12. 2000 (BGBl. I S. 1633)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes (Artikel 108) vom 26. 11. 2001 (BGBl. I S. 3219)
 
 
 
@@ -167,8 +167,8 @@ Artikel 12 a
 (6) Kann Im Verteidigungsfalle der Bedarf an Arbeitskräften für die in Absatz 3 Satz 2 genannten Bereiche auf freiwilliger Grundlage nicht gedeckt werden, so kann zur Sicherung dieses Bedarfs die Freiheit der Deutschen, die Ausübung eines Berufs oder den Arbeitsplatz aufzugeben, durch Gesetz oder auf Grund eines Gesetzes eingeschrdnkt werden. Vor Eintrift des Verteidigungsfalles gilt Absatz 5 Satz 1 entsprechend.
 
 
-
 Artikel 13
+
 
 (1) Die Wohnung ist unverletzlich.
 
@@ -1378,9 +1378,9 @@ Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, sind für die Kö
 Artikel 108
 
 
-(1) Zölle, Finanzmonopole, die bundesgesetzlich geregelten Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer und die Abgaben im Rahmen der Europäischen Gemeinschaften werden durch Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden wird durch Bundesgesetz geregelt. Die Leiter der Mittelbehörden sind im Benehmen mit den Landesregierungen zu bestellen.
+(1) Zölle, Finanzmonopole, die bundesgesetzlich geregelten Verbrauchsteuern einschließlich der Einfuhrumsatzsteuer und die Abgaben im Rahmen der Europäischen Gemeinschaften werden durch Bundesfinanzbehörden verwaltet. Der Aufbau dieser Behörden wird durch Bundesgesetz geregelt. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter im Benehmen mit den Landesregierungen bestellt.
 
-(2) Die übrigen Steuern werden durch Landesfinanzbehörden verwaltet. Der Aufbau dieser Behörden und die einheitliche Ausbildung der Beamten können durch Bundesgesetz mit Zustimmung des Bundesrates geregelt werden. Die Leiter der Mittelbehörden sind im Einvernehmen mit der Bundesregierung zu bestellen.
+(2) Die übrigen Steuern werden durch Landesfinanzbehörden verwaltet. Der Aufbau dieser Behörden und die einheitliche Ausbildung der Beamten können durch Bundesgesetz mit Zustimmung des Bundesrates geregelt werden. Soweit Mittelbehörden eingerichtet sind, werden deren Leiter im Einvernehmen mit der Bundesregierung bestellt.
 
 (3)	Verwalten die Landesfinanzbehörden Steuern, die ganz oder zum Teil dem Bund zufließen, so werden sie im Auftrage des Bundes tätig. Artikel 85 Absatz 3 und 4 gilt mit der Maßgabe, daß an die Stelle der Bundesregierung der Bundesminister der Finanzen tritt.
 
@@ -1393,8 +1393,8 @@ Artikel 108
 (7)	Die Bundesregierung kann allgemeine Verwaltungsvorschriften erlassen, und zwar mit Zustimmung des Bundesrates, soweit die Verwaltung den Landesfinanzbehörden oder Gemeinden (Gemeindeverbänden) obliegt.
 
 
-Artikel 109
 
+Artikel 109
 
 (1) Bund und Länder sind in ihrer Haushaltswirtschaft selbständig und voneinander unabhängig.
 
