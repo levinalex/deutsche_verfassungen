@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Strafrechtsänderungsgesetz vom 30. 8.
-1951 (BGBl. I S. 739)
+Zuletzt geändert durch das Gesetz zur Einfügung eines Artikel 120 a
+in das Grundgesetz vom 14. 8. 1952 (BGBl. I S. 445)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -1803,6 +1803,22 @@ der Arbeitslosenfürsorge.
 
 (2) Die Einnahmen gehen auf den Bund zu demselben Zeitpunkte über,
 an dem der Bund die Ausgaben übernimmt.
+
+### Artikel 120 a
+
+(1) Die Gesetze, die der Durchführung des Lastenausgleichs dienen,
+können mit Zustimmung des Bundesrates bestimmen, daß sie auf dem
+Gebiete der Ausgleichsleistungen teils durch den Bund, teils im
+Auftrage des Bundes durch die Länder ausgeführt werden und daß die
+der Bundesregierung und den zuständigen obersten Bundesbehörden auf
+Grund des Artikels 85 insoweit zustehenden Befugnisse ganz oder
+teilweise dem Bundesausgleichsamt übertragen werden. Das
+Bundesausgleichsamt bedarf bei Ausübung dieser Befugnisse nicht der
+Zustimmung des Bundesrates; seine Weisungen sind, abgesehen von den
+Fällen der Dringlichkeit, an die obersten Landesbehörden
+(Landesausgleichsämter) zu richten.
+
+(2) Artikel 87 Absatz 3 Satz 2 bleibt unberührt.
 
 ### Artikel 121
 
