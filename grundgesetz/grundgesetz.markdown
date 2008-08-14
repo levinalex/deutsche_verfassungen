@@ -2,8 +2,8 @@
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung und Ergänzung der
-Finanzverfassung vom 23. 12. 1955 (BGBl. I S. 817)
+Zuletzt geändert durch das Gesetz zur Ergänzung des Grundgesetzes
+vom 19. 3. 1956 (BGBl. I S. 111)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -46,8 +46,8 @@ schützen, ist Verpflichtung aller staatlichen Gewalt.
 unveräußerlichen Menschenrechten als Grundlage jeder menschlichen
 Gemeinschaft, des Friedens und der Gerechtigkeit in der Welt.
 
-(3) Die nachfolgenden Grundrechte binden Gesetzgebung, Verwaltung
-und Rechtsprechung als unmittelbar geltendes Recht.
+(3) Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende
+Gewalt und Rechtsprechung als unmittelbar geltendes Recht.
 
 ### Artikel 2
 
@@ -200,11 +200,21 @@ Handlungen vorzubeugen, erforderlich ist.
 Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch
 Gesetz geregelt werden.
 
-(2) Niemand darf zu einer bestimmten Arbeit gezwungen werdenn,
-außer im Rahmen einer herkömmlichen allgemeinen, für alle gleichen
-öffentlichen Dienstleistungspflicht.
+(2) Niemand darf zu einer bestimmten Arbeit gezwungen werden, außer
+im Rahmen einer herkömmlichen allgemeinen, für alle gleichen
+öffentlichen Dienstleistungspflicht. Wer aus Gewissensgründen den
+Kriegsdienst mit der Waffe verweigert, kann zu einem Ersatzdienst
+verpflichtet werden. Die Dauer des Ersatzdienstes darf die Dauer
+des Wehrdienstes nicht übersteigen. Das Nähere regelt ein Gesetz,
+das die Freiheit der Gewissensentscheidung nicht beeinträchtigen
+darf und auch eine Möglichkeit des Ersatzdienstes vorsehen muß, die
+in keinem Zusammenhang mit den Verbänden der Streitkräfte steht.
 
-(3) Zwangsarbeit ist nur bei einer gerichtlich angeordneten
+(3) Frauen dürfen nicht zu einer Dienstleistung im Verband der
+Streitkräfte durch Gesetz verpflichtet werden. Zu einem Dienst mit
+der Waffe dürfen sie in keinem Falle verwendet werden.
+
+(4) Zwangsarbeit ist nur bei einer gerichtlich angeordneten
 Freiheitsentziehung zulässig.
 
 ### Artikel 13
@@ -261,6 +271,22 @@ Politisch Verfolgte genießen Asylrecht.
 Jedermann hat das Recht, sich einzeln oder in Gemeinschaft mit
 anderen schriftlich mit Bitten oder Beschwerden an die zuständigen
 Stellen und an die Volksvertretung zu wenden.
+
+### Artikel 17 a
+
+(1) Gesetze über Wehrdienst und Ersatzdienst können bestimmen, daß
+für die Angehörigen der Streitkräfte und des Ersatzdienstes während
+der Zeit des Wehr- oder Ersatzdienstes das Grundrecht, seine
+Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten
+(Artikel 5 Absatz 1 Satz 1 erster Halbsatz), das Grundrecht der
+Versammlungsfreiheit (Artikel 8) und das Petitionsrecht (Artikel
+17), soweit es das Recht gewährt, Bitten oder Beschwerden in
+Gemeinschaft mit anderen vorzubringen, eingeschränkt werden.
+
+(2) Gesetze, die der Verteidigung einschließlich des Schutzes der
+Zivilbevölkerung dienen, können bestimmen, daß die Grundrechte der
+Freizügigkeit (Artikel 11) und der Unverletzlichkeit der Wohnung
+(Artikel 13) eingeschränkt werden.
 
 ### Artikel 18
 
@@ -503,10 +529,14 @@ Rechts- und Amtshilfe.
 
 ### Artikel 36
 
-Bei den obersten Bundesbehörden sind Beamte aus allen Ländern in
-angemessenem Verhältnis zu verwenden. Die bei den übrigen
+(1) Bei den obersten Bundesbehörden sind Beamte aus allen Ländern
+in angemessenem Verhältnis zu verwenden. Die bei den übrigen
 Bundesbehörden beschäftigten Personen sollen in der Regel aus dem
 Lande genommen werden, in dem sie tätig sind.
+
+(2) Die Wehrgesetze haben auch die Gliederung des Bundes in Länder
+und ihre besonderen landsmannschaftlichen Verhältnisse zu
+berücksichtigen.
 
 ### Artikel 37
 
@@ -627,6 +657,27 @@ Rechte eines Untersuchungsausschusses.
 Gesetzgebung, der Wahl des Bundeskanzlers und der Anklage des
 Bundespräsidenten stehen dem ständigen Ausschuß nicht zu.
 
+### Artikel 45 a
+
+(1) Der Bundestag bestellt einen Ausschuß für auswärtige
+Angelegenheiten und einen Ausschuß für Verteidigung. Die beiden
+Ausschüsse werden auch zwischen zwei Wahlperioden tätig.
+
+(2) Der Ausschuß für Verteidigung hat auch die Rechte eines
+Untersuchungsausschusses. Auf Antrag eines Viertels seiner
+Mitglieder hat er die Pflicht. eine Angelegenheit zum Gegenstand
+seiner Untersuchung zu machen.
+
+(3) Artikel 44, Absatz 1 findet auf dem Gebiet der Verteidigung
+keine Anwendung.
+
+### Artikel 45 b
+
+Zum Schutz der Grundrechte und als Hilfsorgan des Bundestages bei
+der Ausübung der parlamentarischen Kontrolle wird ein
+Wehrbeauftragter des Bundestages berufen. Das Nähere regelt ein
+Bundesgesetz.
+
 ### Artikel 46
 
 (1) Ein Abgeordneter darf zu keiner Zeit wegen seiner Abstimmung
@@ -674,10 +725,11 @@ regelt ein Bundesgesetz.
 
 ### Artikel 49
 
-Für die Mitglieder des Präsidiums und des ständigen Ausschusses
-sowie für deren erste Stellvertreter gelten die Artikel 46, 47 und
-die Absätze 2 und 3 des Artikels 48 auch für die Zeit zwischen zwei
-Wahlperioden.
+Für die Mitglieder des Präsidiums, des ständigen Ausschusses, des
+Ausschusses für auswärtige Angelegenheiten und des Ausschusses für
+Verteidigung sowie für deren erste Stellvertreter gelten die
+Artikel 46, 47 und die Absätze 2 und 3 des Artikels 48 auch für die
+Zeit zwischen zwei Wahlperioden.
 
 ## IV Der Bundesrat
 
@@ -806,10 +858,28 @@ Bundesgesetzgebung zuständigen Körperschaften in der Form eines
 Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften
 über die Bundesverwaltung entsprechend.
 
+### Artikel 59 a
+
+(1) Die Feststellung, daß der Verteidigungsfall eingetreten ist,
+trifft der Bundestag. Sein Beschluß wird vom Bundespräsidenten
+verkündet.
+
+(2) Stehen dem Zusammentritt des Bundestages unüberwindliche
+Hindernisse entgegen, so kann bei Gefahr im Verzuge der
+Bundespräsident mit Gegenzeichnung des Bundeskanzlers diese
+Feststellung treffen und verkünden. Der Bundespräsident soll zuvor
+die Präsidenten des Bundestages und des Bundesrates hören.
+
+(3) Der Bundespräsident darf völkerrechtliche Erklärungen über das
+Bestehen des Verteidigungsfalles erst nach Verkündung abgeben.
+
+(4) Über den Friedensschluß wird durch Bundesgesetz entschieden.
+
 ### Artikel 60
 
-(1) Der Bundespräsident ernennt und entläßt die Bundesrichter und
-die Bundesbeamten, soweit gesetzlich nichts anderes bestimmt ist.
+(1) Der Bundespräsident ernennt und entläßt die Bundesrichter, die
+Bundesbeamten, die Offiziere und Unteroffiziere, soweit gesetzlich
+nichts anderes bestimmt ist.
 
 (2) Er übt im Einzelfalle für den Bund das Begnadigungsrecht aus.
 
@@ -886,6 +956,14 @@ Bundesministern entscheidet die Bundesregierung. Der Bundeskanzler
 leitet ihre Geschäfte nach einer von der Bundesregierung
 beschlossenen und vom Bundespräsidenten genehmigten
 Geschäftsordnung.
+
+### Artikel 65 a
+
+(1) Der Bundesminister für Verteidigung hat die Befehls- und
+Kommandogewalt über die Streitkräfte.
+
+(2) Mit der Verkündung des Verteidigungsfalles geht die Befehls-
+und Kommandogewalt aut den Bundeskanzler über.
 
 ### Artikel 66
 
@@ -1304,6 +1382,38 @@ so können bei dringendem Bedarf bundeseigene Mittel- und
 Unterbehörden mit Zustimmung des Bundesrates und der Mehrheit der
 Mitglieder des Bundestages errichtet werden.
 
+### Artikel 87 a
+
+Die zahlenmäßige Stärke der vom Bunde zur Verteidigung
+aufgestellten Streitkräfte und die Grundzüge ihrer Organisation
+müssen sich aus dem Haushaltsplan ergeben.
+
+### Artikel 87 b
+
+(1) Die Bundeswehrverwaltung wird in bundeseigener Verwaltung mit
+eigenem Verwaltungsunterbau geführt. Sie dient den Aufgaben des
+Personalwesens und der unmittelbaren Deckung des Sachbedarfs der
+Streitkräfte. Aufgaben der Beschädigtenversorgung und des Bauwesens
+können der Bundeswehrverwaltung nur durch Bundesgesetz, das der
+Zustimmung des Bundesrates bedarf, übertragen werden. Der
+Zustimmung des Bundesrates bedürfen ferner Gesetze, soweit sie die
+Bundeswehrverwaltung zu Eingriffen in Rechte Dritter ermächtigen;
+das gilt nicht für Gesetze auf dem Gebiete des Personalwesens.
+
+(2) Im übrigen können Bundesgesetze, die der Verteidigung
+einschließlich des Wehrersatzwesens und des Schutzes der
+Zivilbevölkerung dienen, mit Zustimmung des Bundesrates bestimmen,
+daß sie ganz oder teilweise in bundeseigener Verwaltung mit eigenem
+Verwaltungsunterbau oder von den Ländern im Auftrage des Bundes
+ausgeführt werden. Werden solche Gesetze von den Ländern im
+Auftrage des Bundes ausgeführt, so können sie mit Zustimmung des
+Bundesrates bestimmen, daß die der Bundesregierung und den
+zuständigen obersten Bundesbehörden auf Grund des Artikels 85
+zustehenden Befugnisse ganz oder teilweise Bundesoberbehörden
+übertragen werden; dabei kann bestimmt werden, daß diese Behörden
+beim Erlaß allgemeiner Verwaltungsvorschriften gemäß Artikel 85
+Absatz 2 Satz 1 nicht der Zustimmung des Bundesrates bedürfen.
+
 ### Artikel 88
 
 Der Bund errichtet eine Währungs- und Notenbank als Bundesbank.
@@ -1431,7 +1541,28 @@ jeweilige Sachgebiet zuständigen Minister treten. Ihre
 Dienstverhältnisse sind durch besonderes Bundesgesetz zu regeln.
 
 (3) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und
-Bundesrichter Bundesdienststrafgerichte errichten.
+Bundesrichter Bundesdienststrafgerichte sowie für
+Dienststrafverfahren gegen Soldaten und für Verfahren über
+Beschwerden von Soldaten Bundesdienstgerichte errichten.
+
+Artikel 96 a
+
+(1) Der Bund kann Wehrstrafgerichte für die Streitkräfte als
+Bundesgerichte errichten. Sie können die Strafgerichtsbarkeit nur
+im Verteidigungsfalle sowie über Angehörige der Streitkräfte
+ausüben, die in das Ausland entsandt oder an Bord von
+Kriegsschiffen eingeschifft sind. Das Nähere regelt ein
+Bundesgesetz. (2) Die Wehrstrafgerichte gehören zum
+Geschäftsbereich des Bundesjustizministers. Ihre hauptamtlichen
+Richter müssen die Befähigung zum Richteramt haben.
+
+(3) Oberes Bundesgericht für die Wehrstrafgerichte ist der
+Bundesgerichtshof.
+
+(4) Der Bund kann für Dienststrafverfahren gegen Bundesbeamte und
+Bundesrichter Bundesdienststrafgerichte sowie für
+Dienststrafverfahren gegen Soldaten und für Verfahren über
+Beschwerden von Soldaten Bundesdienstgerichte errichten.
 
 ### Artikel 97
 
@@ -2119,8 +2250,9 @@ der Auflösung des Bundestages steht ihm nicht zu.
 ### Artikel 137
 
 (1) Die Wählbarkeit von Beamten, Angestellten des öffentlichen
-Dienstes und Richtern im Bund, in den Ländern und den Gemeinden
-kann gesetzlich beschränkt werden.
+Dienstes, Berufssoldaten, freiwilligen Soldaten auf Zeit und
+Richtern im Bund, in den Ländern und den Gemeinden kann gesetzlich
+beschränkt werden.
 
 (2) Für die Wahl des ersten Bundestages, der ersten
 Bundesversammlung und des ersten Bundespräsidenten der
@@ -2176,7 +2308,10 @@ Zusatz- und Nebenabkommen, insbesondere dem Protokoll vom 26. Juli
 
 ### Artikel 143
 
-[aufgehoben]
+Die Voraussetzungen, unter denen es zulässig wird, die Streitkräfte
+im Falle eines inneren Notstandes in Anspruch zu nehmen, können nur
+durch ein Gesetz geregelt werden, das die Erfordernisse des
+Artikels 79 erfüllt.
 
 ### Artikel 144
 
