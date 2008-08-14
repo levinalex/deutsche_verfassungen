@@ -2,7 +2,7 @@ Grundgesetz für die Bundesrepublik Deutschland
 
 Vom 23. Mai 1949 (BGBl. S. 1)
 
-Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 27. 10. 1994 (BGBl. I S. 3146)
+Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes vom 3. 11. 1995 (BGBl. I S. 1492)
 
 
 
@@ -57,8 +57,8 @@ Artikel 3
 (3)	Niemand darf wegen seines Geschlechtes, seiner Abstammung, seiner Rasse, seiner Sprache, seiner Heimat und Herkunft, seines Glaubens, seiner religiösen oder politischen Anschauungen benachteiligt oder bevorzugt werden. Niemand darf wegen seiner Behinderung benachteiligt werden.
 
 
-
 Artikel 4
+
 
 (1) Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.
 
@@ -270,8 +270,8 @@ Artikel 20 a
 Der Staat schützt auch in Verantwortung für die künftigen Generationen die natürlichen Lebensgrundlagen im Rahmen der verfassungsmäßigen Ordnung durch die Gesetzgebung und nach Maßgabe von Gesetz und Recht durch die vollziehende Gewalt und die Rechtsprechung.
 
 
-
 Artikel 21
+
 
 (1)	Die Parteien wirken bei der politischen Willensbildung des Volks mit. Ihre Gründung ist frei. Ihre innere Ordnung muß demokratischen Grundsätzen entsprechen. Sie müssen über die Herkunft und Verwendung ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.
 
@@ -366,8 +366,8 @@ Artikel 29
 (8)	Die Länder können eine Neugliederung für das jeweils von ihnen umfaßte Gebiet oder für Teilgebiete abweichend von den Vorschriften der Absätze 2 bis 7 durch Staatsvertrag regeln. Die betroffenen Gemeinden und Kreise sind zu hören. Der Staatsvertrag bedarf der Bestätigung durch Volksentscheid in jedem beteiligten Land. Betrifft der Staatsvertrag Teilgebiete der Länder, kann die Bestätigung auf Volksentscheide in diesen Teilgebieten beschränkt werden; Satz 5 zweiter Halbsatz findet keine Anwendung. Bei einem Volksentscheid entscheidet die Mehrheit der abgegebenen Stirnmen, wenn sie mindestens ein Viertel der zum Bundestag Wahlberechtigten umfaßt; das Nähere regelt ein Bundesgesetz. Der Staatsvertrag bedarf der Zustimmung des Bundestages.
 
 
-
 Artikel 30
+
 
 Die Ausübung der staatlichen Befugnisse und die Erfüllung der staatlichen Aufgaben ist Sache der Länder, soweit dieses Grundgesetz keine andere Regelung trifft oder zuläßt.
 
@@ -810,8 +810,8 @@ Artikel 72
 (3)	Durch Bundesgesetz kann bestimmt werden, daß eine bundesgesetzliche Regelung, für die eine Erforderlichkeit im Sinne des Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.
 
 
-
 Artikel 73
+
 
 Der Bund hat die ausschließliche Gesetzgebung über:
 
@@ -913,8 +913,8 @@ Artikel 77
 (4)	Wird der Einspruch mit der Mehrheit der Stimmen des Bundesrates beschlossen, so kann er durch Beschluß der Mehrheit der Mitglieder des Bundestages zurückgewiesen werden. Hat der Bundesrat den Einspruch mit einer Mehrheit von mindestens zwei Dritteln seiner Stimmen beschlossen, so bedarf die Zurückweisung durch den Bundestag einer Mehrheit von zwei Dritteln, mindestens der Mehrheit der Mitglieder des Bundestages.
 
 
-
 Artikel 78
+
 
 Ein vom Bundestage beschlossenes Gesetz kommt zustande, wenn der Bundesrat zustimmt, den Antrag gemäß Artikel 77 Absatz 2 nicht stellt, innerhalb der Frist des Artikels 77 Absatz 3 keinen Einspruch einlegt oder ihn zurücknimmt oder wenn der Einspruch vom Bundestage überstimmt wird.
 
@@ -941,8 +941,8 @@ Artikel 80
 (4) Soweit durch Bundesgesetz oder auf Grund von Bundesgesetzen Landesregierungen ermächtigt werden, Rechtsverordnungen zu erlassen, sind die Länder zu einer Regelung auch durch Gesetz befugt.
 
 
-
 Artikel 80 a
+
 
 (1) Ist in diesem Grundgesetz oder in einem Bundesgesetz über die Verteidigung einschließlich des Schutzes der Zivilbevölkerung bestimmt, daß Rechtsvorschriften nur nach Maßgabe dieses Artikels angewandt werden dürfen, so ist die Anwendung außer im Verteidigungsfalle nur zulässig, wenn der Bundestag den Eintritt des Spannungsfalles festgestellt oder wenn er der Anwendung besonders zugestimmt hat. Die Feststellung des Spannungsfalles und die besondere Zustimmung in den Fällen des Artikels 12 a Absatz 5 Satz 1 und Absatz 6 Satz 2 bedürfen einer Mehrheit von zwei Dritteln der abgegebenen Stimmen.
 
@@ -1024,8 +1024,8 @@ Artikel 87
 (3) Außerdem können für Angelegenheiten, für die dem Bunde die Gesetzgebung zusteht, selbständige Bundesoberbehörden und neue bundesunmittelbare Körperschaften und Anstalten des öffentlichen Rechtes durch Bundesgesetz errichtet werden. Erwachsen dem Bunde auf Gebieten, für die ihm die Gesetzgebung zusteht, neue Aufgaben, so können bei dringendem Bedarf bundeseigene Mittel- und Unterbehörden mit Zustimmung des Bundesrates und der Mehrheit der Mitglieder des Bundestages errichtet werden.
 
 
-
 Artikel 87 a
+
 
 (1) Der Bund stellt Streitkräfte zur Verteidigung auf. Ihre zahlenmäßige Stärke und die Grundzüge ihrer Organisation müssen sich aus dem Haushaltsplan ergeben.
 
@@ -1170,8 +1170,8 @@ Artikel 93
 (2) Das Bundesverfassungsgericht wird ferner in den ihm sonst durch Bundesgesetz zugewiesenen Fällen tätig.
 
 
-
 Artikel 94
+
 
 (1) Das Bundesverfassungsgericht besteht aus Bundesrichtern und anderen Mitgliedern. Die Mitglieder des Bundesverfassungsgerichtes werden je zur Hälfte vom Bundestage und vom Bundesrate gewählt. Sie dürfen weder dem Bundestage, dem Bundesrate, der Bundesregierung noch entsprechenden Organen eines Landes angehören.
 
@@ -1312,29 +1312,31 @@ Artikel 106
 
 (1)	Der Ertrag der Finanzmonopole und das Aufkommen der folgenden Steuern stehen dem Bund zu:
 
-1. die Zölle,
+1.	die Zölle,
 2.	die Verbrauchsteuern, soweit sie nicht nach Absatz 2 den Ländern, nach Absatz 3 Bund und Ländern gemeinsam oder nach Absatz 6 den Gemeinden zustehen,
-3. die Straßengüterverkehrsteuer,
+3.	die Straßengüterverkehrsteuer,
 4.	die Kapitalverkehrsteuern, die Versicherungsteuer und die Wechselsteuer,
-5. die einmaligen Vermögensabgaben und die zur Durchführung des Lastenausgleichs erhobenen Ausgleichsabgaben,
+5.	die einmaligen Vermögensabgaben und die zur Durchführung des Lastenausgleichs erhobenen Ausgleichsabgaben,
 6.	die Ergänzungsabgabe zur Einkommensteuer und zur Körperschaftsteuer,
-7. Abgaben im Rahmen der Europäischen Gemeinschaften.
+7.	Abgaben im Rahmen der Europäischen Gemeinschaften.
 
-(2) Das Aufkommen der folgenden Steuern steht den Ländern zu:
+(2)	Das Aufkommen der folgenden Steuern steht den Ländern zu:
 
-1. die Vermögensteuer.
-2. die Erbschaftsteuer,
+1.	die Vermögensteuer,
+2.	die Erbschaftsteuer,
 3.	die Kraftfahrzeugsteuer,
 4.	die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund oder nach Absatz 3 Bund und Ländern gemeinsam zustehen,
-5. die Biersteuer,
-6. die Abgaben von Spielbanken.
+5.	die Biersteuer,
+6.	die Abgaben von Spielbanken.
 
 (3)	Das Aufkommen der Einkommensteuer, der Körperschaftsteuer und der Umsatzsteuer steht dem Bund und den Ländern gemeinsam zu (Gemeinschaftsteuern), soweit das Aufkommen der Einkommensteuer nicht nach Absatz 5 den Gemeinden zugewiesen wird. Am Aufkommen der Einkommensteuer und der Körperschaftsteuer sind der Bund und die Länder je zur Hälfte beteiligt. Die Anteile von Bund und Ländern an der Umsatzsteuer werden durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, festgesetzt. Bei der Festsetzung ist von folgenden Grundsätzen auszugehen:
 
-1. Im Rahmen der laufenden Einnahmen haben der Bund und die Länder gleichmäßig Anspruch auf Deckung ihrer notwendigen Ausgaben. Dabei ist der Umfang der Ausgaben unter Berücksichtigung einer mehrjährigen Finanzplanung zu ermitteln.
-2. Die Deckungsbedürfnisse des Bundes und der Länder sind so aufeinander abzustimmen, daß ein billiger Ausgleich erzielt, eine Überbelastung der Steuerpflichtigen vermieden und die Einheitlichkeit der Lebensverhältnisse im Bundesgebiet gewahrt wird.
+1.	Im Rahmen der laufenden Einnahmen haben der Bund und die Länder gleichmäßig Anspruch auf Deckung ihrer notwendigen Ausgaben. Dabei ist der Umfang der Ausgaben unter Berücksichtigung einer mehrjährigen Finanzplanung zu ermitteln.
+2.	Die Deckungsbedürfnisse des Bundes und der Länder sind so aufeinander abzustimmen, daß ein billiger Ausgleich erzielt, eine Überbelastung der Steuerpflichtigen vermieden und die Einheitlichkeit der Lebensverhältnisse im Bundesgebiet gewahrt wird.
 
-(4)	Die Anteile von Bund und Ländern an der Umsatzsteuer sind neu festzusetzen, wenn sich das Verhältnis zwischen den Einnahmen und Ausgaben des Bundes und der Länder wesentlich anders entwickelt. Werden den Ländern durch Bundesgesetz zusätzliche Ausgaben auferlegt oder Einnahmen entzogen, so kann die Mehrbelastung durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, auch mit Finanzzuweisungen des Bundes ausgeglichen werden, wenn sie auf einen kurzen Zeitraum begrenzt ist. In dem Gesetz sind die Grundsätze für die Bemessung dieser Finanzzuweisungen und für ihre Verteilung auf die Länder zu bestimmen.
+Zusätzlich werden in die Festsetzung der Anteile von Bund und Ländern an der Umsatzsteuer Steuermindereinnahmen einbezogen, die den Ländern ab 1. Januar 1996 aus der Berücksichtigung von Kindern im Einkommensteuerrecht entstehen. Das Nähere bestimmt das Bundesgesetz nach Satz 3.
+
+(4)	Die Anteile von Bund und Ländern an der Umsatzsteuer sind neu festzusetzen, wenn sich das Verhältnis zwischen den Einnahmen und Ausgaben des Bundes und der Länder wesentlich anders entwickelt; Steuermindereinnahmen, die nach Absatz 3 Satz 5 in die Festsetzung der Umsatzsteueranteile zusätzlich einbezogen werden, bleiben hierbei unberücksichtigt. Werden den Ländern durch Bundesgesetz zusätzliche Ausgaben auferlegt oder Einnahmen entzogen, so kann die Mehrbelastung durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, auch mit Finanzzuweisungen des Bundes ausgeglichen werden, wenn sie auf einen kurzen Zeitraum begrenzt ist. In dem Gesetz sind die Grundsätze für die Bemessung dieser Finanzzuweisungen und für ihre Verteilung auf die Länder zu bestimmen.
 
 (5) Die Gemeinden erhalten einen Anteil an dem Aufkommen der Einkommensteuer, der von den Ländern an ihre Gemeinden auf der Grundlage der Einkommensteuerleistungen ihrer Einwohner weiterzuleiten ist. Das Nähere bestimmt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Es kann bestimmen, daß die Gemeinden Hebesätze für den Gemeindeanteil festsetzen.
 
@@ -1344,11 +1346,11 @@ Artikel 106
 
 (8) Veranlaßt der Bund in einzelnen Ländern oder Gemeinden (Gemeindeverbänden) besondere Einrichtungen, die diesen Ländern oder Gemeinden (Gemeindeverbänden) unmittelbar Mehrausgaben oder Mindereinnahmen (Sonderbelastungen) verursachen, gewährt der Bund den erforderlichen Ausgleich, wenn und soweit den Ländern oder Gemeinden (Gemeindeverbänden) nicht zugemutet werden kann, die Sonderbelastungen zu tragen. Entschädigungsleistungen Dritter und finanzielle Vorteile, die diesen Ländern oder Gemeinden (Gemeindeverbänden) als Folge der Einrichtungen erwachsen, werden bei dem Ausgleich berücksichtigt.
 
-(9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels gelten auch die Einnahmen und Ausgaben der Gemeinden (Gemeindeverbände).
+(9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels gelten auch die Einnahmen und Ausgaben der Gemeinden (Gemeindeverbände)
+
 
 
 Artikel 106 a
-
 
 Den Ländern steht ab 1. Januar 1996 für den öffentlichen Personennahverkehr ein Betrag aus dem Steueraufkommen des Bundes zu. Das Nähere regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Der Betrag nach Satz 1 bleibt bei der Bemessung der Finanzkraft nach Artikel 107 Absatz 2 unberücksichtigt.
 
@@ -1598,8 +1600,8 @@ Artikel 118 a
 Die Neugliederung in dem die Länder Berlin und Brandenburg umfassenden Gebiet kann abweichend von den Vorschriften des Artikels 29 unter Beteiligung ihrer Wahlberechtigten durch Vereinbarung beider Länder erfolgen.
 
 
-
 Artikel 119
+
 
 In Angelegenheiten der Flüchtlinge und Vertriebenen, insbesondere zu ihrer Verteilung auf die Länder, kann bis zu einer bundesgesetzlichen Regelung die Bundesregierung mit Zustimmung des Bundesrates Verordnungen mit Gesetzeskraft erlassen. Für besondere Fälle kann dabei die Bundesregierung ermächtigt werden, Einzelweisungen zu erteilen. Die Weisungen sind außer bei Gefahr im Verzuge an die obersten Landesbehörden zu richten.
 
@@ -1665,8 +1667,8 @@ Artikel 125 a
 (2)	Recht, das auf Grund des Artikels 72 Absatz 2 in der bis zum 15. November 1994 geltenden Fassung erlassen worden ist, gilt als Bundesrecht fort. Durch Bundesgesetz kann bestimmt werden, daß es durch Landesrecht ersetzt werden kann. Entsprechendes gilt für Bundesrecht, das vor diesem Zeitpunkt erlassen worden ist und das nach Artikel 75 Absatz 2 nicht mehr erlassen werden könnte.
 
 
-
 Artikel 126
+
 
 Meinungsverschiedenheiten über das Fortgelten von Recht als Bundesrecht entscheidet das Bundesverfassungsgericht.
 

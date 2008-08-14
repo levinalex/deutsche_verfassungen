@@ -3,7 +3,7 @@
 Vom 23. Mai 1949 (BGBl. S. 1)
 
 Zuletzt geändert durch das Gesetz zur Änderung des Grundgesetzes
-vom 27. 10. 1994 (BGBl. I S. 3146)
+vom 3. 11. 1995 (BGBl. I S. 1492)
 
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres
@@ -2255,7 +2255,7 @@ Steuern stehen dem Bund zu:
 
 (2) Das Aufkommen der folgenden Steuern steht den Ländern zu:
 
-1.  die Vermögensteuer.
+1.  die Vermögensteuer,
 2.  die Erbschaftsteuer,
 3.  die Kraftfahrzeugsteuer,
 4.  die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund
@@ -2283,16 +2283,25 @@ folgenden Grundsätzen auszugehen:
     Einheitlichkeit der Lebensverhältnisse im Bundesgebiet gewahrt
     wird.
 
+Zusätzlich werden in die Festsetzung der Anteile von Bund und
+Ländern an der Umsatzsteuer Steuermindereinnahmen einbezogen, die
+den Ländern ab 1. Januar 1996 aus der Berücksichtigung von Kindern
+im Einkommensteuerrecht entstehen. Das Nähere bestimmt das
+Bundesgesetz nach Satz 3.
+
 (4) Die Anteile von Bund und Ländern an der Umsatzsteuer sind neu
 festzusetzen, wenn sich das Verhältnis zwischen den Einnahmen und
-Ausgaben des Bundes und der Länder wesentlich anders entwickelt.
-Werden den Ländern durch Bundesgesetz zusätzliche Ausgaben
-auferlegt oder Einnahmen entzogen, so kann die Mehrbelastung durch
-Bundesgesetz, das der Zustimmung des Bundesrates bedarf, auch mit
-Finanzzuweisungen des Bundes ausgeglichen werden, wenn sie auf
-einen kurzen Zeitraum begrenzt ist. In dem Gesetz sind die
-Grundsätze für die Bemessung dieser Finanzzuweisungen und für ihre
-Verteilung auf die Länder zu bestimmen.
+Ausgaben des Bundes und der Länder wesentlich anders entwickelt;
+Steuermindereinnahmen, die nach Absatz 3 Satz 5 in die Festsetzung
+der Umsatzsteueranteile zusätzlich einbezogen werden, bleiben
+hierbei unberücksichtigt. Werden den Ländern durch Bundesgesetz
+zusätzliche Ausgaben auferlegt oder Einnahmen entzogen, so kann die
+Mehrbelastung durch Bundesgesetz, das der Zustimmung des
+Bundesrates bedarf, auch mit Finanzzuweisungen des Bundes
+ausgeglichen werden, wenn sie auf einen kurzen Zeitraum begrenzt
+ist. In dem Gesetz sind die Grundsätze für die Bemessung dieser
+Finanzzuweisungen und für ihre Verteilung auf die Länder zu
+bestimmen.
 
 (5) Die Gemeinden erhalten einen Anteil an dem Aufkommen der
 Einkommensteuer, der von den Ländern an ihre Gemeinden auf der
@@ -2334,7 +2343,7 @@ bei dem Ausgleich berücksichtigt.
 
 (9) Als Einnahmen und Ausgaben der Länder im Sinne dieses Artikels
 gelten auch die Einnahmen und Ausgaben der Gemeinden
-(Gemeindeverbände).
+(Gemeindeverbände)
 
 ### Artikel 106 a
 
